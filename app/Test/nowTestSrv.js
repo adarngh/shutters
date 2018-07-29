@@ -1,5 +1,5 @@
 shuttersApp.factory("nowTestSrv", function ($http, $q) {
-    var nowSrvUrl = "https://data-wsuuszozvd.now.sh";
+    var nowSrvUrl = "https://json-server-heroku-wrfnnvwctk.now.sh";
     
     function getAllPosts() {
         var getUrl = nowSrvUrl + "/posts";

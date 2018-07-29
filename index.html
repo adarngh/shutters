@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html ng-app="shuttersApp">
+<html ng-app="shuttersApp" dir="rtl">
 
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Shutters</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- <link rel="stylesheet" type="text/css" media="screen" href="main.css" /> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt"
@@ -20,11 +19,46 @@
     <script src="./app/shuttersApp.js"></script>
     <script src="./app/Test/nowTestCtrl.js"></script>
     <script src="./app/Test/nowTestSrv.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="./app/style.css" />
+
 
 </head>
 
-<body ng-controller="nowTestCtrl">
+<body ng-controller="nowTestCtrl" align>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-batkal">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03"
+                aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="#">
+                <img src="./app/shared/images/batkal.png" alt="BATKAL-IMG">
+            </a>
+
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+                <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">דף הבית
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">רשימת משווקים</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">צור קשר</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <button class="btn btn-outline-danger my-2 my-sm-0 ml-sm-2" type="submit">כניסת/הרשמת מתקינים</button>
+
+                </form>
+            </div>
+        </div>
+    </nav>
     <h1>Hello Shutters</h1>
+
 </body>
 
 </html>

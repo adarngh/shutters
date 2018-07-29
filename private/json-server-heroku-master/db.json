@@ -2,8 +2,18 @@
   "posts":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "title": "A post!",
+      "content" : "My a content!"
+    },
+    {
+      "id" : 1,
+      "title": "B post!",
+      "content" : "My b content!"
+    },
+    {
+      "id" : 2,
+      "title": "C post!",
+      "content" : "My c content!"
     }
   ],
   "comments" : [
