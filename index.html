@@ -19,6 +19,7 @@
     <script src="./app/shuttersApp.js"></script>
     <script src="./app/Test/nowTestCtrl.js"></script>
     <script src="./app/Test/nowTestSrv.js"></script>
+    <script src="./app/contructors/signUpDirective.js"></script>
     <link rel="stylesheet" type="text/css" media="screen" href="./app/style.css" />
 
 
@@ -41,88 +42,20 @@
                 <a class="nav-link active" href="#">דף הבית</a>
                 <a class="nav-link" href="#">רשימת משווקים</a>
                 <a class="nav-link" href="#">צור קשר</a>
-                
                 <button class="btn btn-light my-2 mx-auto" type="button">כניסת/הרשמת מתקינים</button>
-
-
             </nav>
         </div>
-        <main class="col-8">
-            <form class="mt-4">
-                <div class="form-row">
-                    <div class="form-group col-md-6">
-                        <label for="inputEmail4">כתובת דוא"ל</label>
-                        <input type="email" class="form-control" id="inputEmail4" placeholder='כתובת דוא"ל'>
-                    </div>
-                    <div class="form-group col-md-6">
-                        <label for="inputPassword4">סיסמה</label>
-                        <input type="password" class="form-control" id="inputPassword4" placeholder="סיסמה">
-                    </div>
-                </div>
-                <div class="form-row">
-                    <div class="form-group col-md-6">
-
-                    </div>
-                    <div class="form-group col-md-6">
-                        <label for="inputPassword42">חזור על הסיסמה</label>
-                        <input type="password" class="form-control" id="inputPassword42" placeholder="סיסמה">
-                    </div>
-                </div>
-                <div class="form-row">
-                    <div class="form-group col-md-3">
-                        <label for="inputFirstName">שם פרטי</label>
-                        <input type="text" class="form-control" id="inputFirstName" placeholder='שם'>
-                    </div>
-                    <div class="form-group col-md-4">
-                        <label for="inputLastName">שם משפחה</label>
-                        <input type="text" class="form-control" id="inputLastName" placeholder='משפחה'>
-                    </div>
-                    <div class="form-group col-md-1">
-
-                    </div>
-
-                    <div class="form-group col-md-3">
-                        <label for="inputPhoneNum">טלפון נייד</label>
-                        <input type="text" class="form-control" id="inputPhoneNum" placeholder=''>
-                    </div>
-                    <div class="form-group col-md-1">
-                        <label for="inputPhoneProvider">קידומת</label>
-                        <input type="text" class="form-control" id="inputPhoneProvider" placeholder=''>
-                    </div>
-
-                </div>
-                <div class="form-group">
-                    <label for="inputAddress">כתובת</label>
-                    <input type="text" class="form-control" id="inputAddress" placeholder="רחוב ומספר">
-                </div>
-                <div class="form-row">
-                    <div class="form-group col-md-6">
-                        <label for="inputCity">עיר</label>
-                        <select id="inputCity" class="form-control">
-                            <option selected>בחר ...</option>
-                            <option>...</option>
-                        </select>
-                    </div>
-                    <div class="form-group col-md-1">
-
-                    </div>
-                    <div class="form-group col-md-5">
-                        <label for="inputZip">מיקוד</label>
-                        <input type="text" class="form-control" id="inputZip">
-                    </div>
-                </div>
-
-                <button type="submit" class="btn btn-primary">הרשמה</button>
-            </form>
-        </main>
+        <div class="col-8 an-signup">
+            
+        </div>
         <div class="col-2 bg-batkal-const">
-                <nav class="nav flex-column">
-                        <a class="nav-link active" href="#">להורדת קטלוג PDF</a>
-                        <a class="nav-link" href="#">הזמנות</a>
-                        <a class="nav-link" href="#">עזרים ומחשבונים</a>
-                        <a class="nav-link disabled" href="#">פורום</a>
-                        <a class="nav-link disabled" href="#">FAQ</a>
-                     </nav>
+            <nav class="nav flex-column">
+                <a class="nav-link active" href="#">להורדת קטלוג PDF</a>
+                <a class="nav-link" href="#">הזמנות</a>
+                <a class="nav-link" href="#">עזרים ומחשבונים</a>
+                <a class="nav-link disabled" href="#">פורום</a>
+                <a class="nav-link disabled" href="#">FAQ</a>
+            </nav>
         </div>
     </div>
 
