@@ -1,4 +1,4 @@
-shuttersApp.directive("anSignup", function () {
+shuttersApp.directive("anSign", function () {
     return {
         templateUrl: "./app/contructors/signUp.html",
         restrict: "EAC"
