@@ -1,18 +1,20 @@
 shuttersApp.factory("confSrv", function ($http, $q) {
-    function Proposal(mName, mLength, mActors, mDirector, posterUrl, imdbUrl, tmdbId) {
+    function Proposal(pNumber, pConsNo, pWiddth, pHeight, pProfileType, pNoOfWings, pNoOfFields,pColor,pIsSliding,pRemarks) {
         this.pNumber = pNumber;
         this.pConsNo = pConsNo;
-        this.pWidth = pWidth;
+        this.pWidth = pWiddth;
         this.pHeight = pHeight;
         this.pProfileType = pProfileType;
         this.pNoOfWings = pNoOfWings;
-        this.pNoOfFields =[];
-        this.pColor
-        this.pSliding
+        this.pNoOfFields =pNoOfFields;
+        this.pColor=pColor;
+        this.pIsSliding=pIsSliding;
+        this.pRemarks=pRemarks;
+        this.pItemList;
     }
 
 
     return{
-        getAllPosts: getAllPosts
+        Proposal: Proposal
     }
 });
