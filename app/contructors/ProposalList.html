@@ -1,30 +1,45 @@
 <main>
-    <div class="mx-4 mt-3">
-<table class="table table-bordered table-hover">
-        <thead  >
-          <tr class="table-primary">
-            <th>מספר הצעה</th>
-            <th>תאריך</th>
-            <th>הערות</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr class="">
-            <td>John</td>
-            <td>Doe</td>
-            <td>john@example.com</td>
-          </tr>
-          <tr>
-            <td>Mary</td>
-            <td>Moe</td>
-            <td>mary@example.com</td>
-          </tr>
-          <tr>
-            <td>July</td>
-            <td>Dooley</td>
-            <td>july@example.com</td>
-          </tr>
-        </tbody>
-      </table>      
-    </div>
-    </main>
+  <div class="mx-4 mt-3 mainTable">
+    <!-- <h1>{{orderList}}</h1> -->
+    <table class="table table-bordered table-hover">
+      <thead>
+        <tr class="table-primary">
+          <th>מספר הצעה</th>
+          <th>תאריך</th>
+          <th>הערות</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="" ng-repeat="x in orderList" ng-click="getOrderDetails(x)">
+          <td>{{x.oNumber.toUpperCase()}}</td>
+          <td>{{x.oDateTime}}</td>
+          <td>{{x.oRemarks}}</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+  <div class="mt-3 mr-4 mb-0">
+    <h5>פרטי הזמנה : {{currentOrder.oNumber.toUpperCase()}}</h5>
+  </div>
+  <div class="mx-4 mt-5 mainTable">
+    <!-- <h1>{{orderList}}</h1> -->
+    <table class="table table-bordered table-hover">
+      <thead>
+        <tr class="table-secondary">
+          <th>מק"ט</th>
+          <th>שם</th>
+          <th>כמות</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="" ng-repeat="x in currentOrder.oItemList">
+          <td>{{x.catNo}}</td>
+          <td>{{x.name}}</td>
+          <td>{{x.quantity}}</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+</main>

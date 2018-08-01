@@ -15,3 +15,8 @@ nav>a{
 .field{
     /* border: 1px solid black ; */
 }
+.mainTable{
+    display: block;
+  max-height: 35vh;
+  overflow-y: auto;
+}
