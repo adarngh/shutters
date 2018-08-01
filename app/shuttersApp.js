@@ -1,16 +1,16 @@
 var shuttersApp = angular.module("shuttersApp", ['ngRoute']);
-// shuttersApp.config(function($routeProvider) {
-//     $routeProvider
-//     .when("/", {
-//       templateUrl : "./App/dogGal/home.html"
-//     })
-//     .when("/gallery", {
-//       templateUrl : "./App/dogGal/gallery.html",
-//       controller : 'dogGalCtrl'
-//     })
-//     .when("/breed/:breedName", {
-//       templateUrl : "./App/dogGal/breed.html",
-//       controller : 'dogBreedCtrl'
-//     })
-//     // .otherwise({ redirectTo: '/' });
-//   });
+shuttersApp.config(function($routeProvider) {
+    $routeProvider
+    .when("/", {
+      templateUrl : "./app/home/home.html"
+    })
+    .when("/signup", {
+      templateUrl : "./app/contructors/signUp.html",
+      controller : 'dogGalCtrl'
+    })
+    .when("/neworder", {
+      templateUrl : "./app/contructors/configurator.html",
+      controller : 'confCtrl'
+    })
+    // .otherwise({ redirectTo: '/' });
+  });
