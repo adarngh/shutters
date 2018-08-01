@@ -7,7 +7,7 @@ shuttersApp.config(function($routeProvider) {
     })
     .when("/signup", {
       templateUrl : "./app/contructors/signUp.html",
-      controller : 'dogGalCtrl'
+      controller : 'confCtrl'
     })
     .when("/orderlist", {
         templateUrl : "./app/contructors/ProposalList.html",

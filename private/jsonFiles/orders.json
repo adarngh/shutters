@@ -1,12 +1,12 @@
 [
     {
-        "pNumber": "bko-000-001",
-        "pDateTime":"2018-08-01T12:00:00",
-        "pWidth": 300,
-        "pHeight": 300,
-        "pProfileType": "Boreg",
-        "pNoOfWings": 3,
-        "pFields": [
+        "oNumber": "bko-000-001",
+        "oDateTime":"2018-08-01T12:00:00",
+        "oWidth": 300,
+        "oHeight": 300,
+        "oProfileType": "Boreg",
+        "oNoOfWings": 3,
+        "oFields": [
             {
                 "dir": "r"
             },
@@ -17,28 +17,28 @@
                 "dir": "d"
             }
         ],
-        "pColor": "white",
-        "pIsSliding": true,
-        "pRemarks": "My a content!",
-        "pItemList": [
+        "oColor": "white",
+        "oIsSliding": true,
+        "oRemarks": "My a content!",
+        "oItemList": [
             {
                 "catNo": "00000999",
                 "quantity": 3
             }
         ],
-        "pSpruts": "full",
-        "pSprutsHeigt": 200,
-        "pBattery": "10",
-        "pOrderOwner": "cons-0001"
+        "oSpruts": "full",
+        "oSprutsHeigt": 200,
+        "oBattery": "10",
+        "oOrderOwner": "cons-0001"
     },
     {
-        "pNumber": "bko-000-002",
-        "pDateTime":"2018-08-01T12:00:00",
-        "pWidth": 300,
-        "pHeight": 300,
-        "pProfileType": "Boreg",
-        "pNoOfWings": 7,
-        "pFields": [
+        "oNumber": "bko-000-002",
+        "oDateTime":"2018-08-01T12:00:00",
+        "oWidth": 300,
+        "oHeight": 300,
+        "oProfileType": "Boreg",
+        "oNoOfWings": 7,
+        "oFields": [
             {
                 "dir": "r"
             },
@@ -49,28 +49,28 @@
                 "dir": "d"
             }
         ],
-        "pColor": "white",
-        "pIsSliding": true,
-        "pRemarks": "My a content!",
-        "pItemList": [
+        "oColor": "white",
+        "oIsSliding": true,
+        "oRemarks": "My a content!",
+        "oItemList": [
             {
                 "catNo": "00000999",
                 "quantity": 3
             }
         ],
-        "pSpruts": "full",
-        "pSprutsHeigt": 200,
-        "pBattery": "10",
-        "pOrderOwner": "cons-0001"
+        "oSpruts": "full",
+        "oSprutsHeigt": 200,
+        "oBattery": "10",
+        "oOrderOwner": "cons-0001"
     },
     {
-        "pNumber": "bko-000-003",
-        "pDateTime":"2018-08-01T12:00:00",
-        "pWidth": 300,
-        "pHeight": 300,
-        "pProfileType": "Boreg",
-        "pNoOfWings": 5,
-        "pFields": [
+        "oNumber": "bko-000-003",
+        "oDateTime":"2018-08-01T12:00:00",
+        "oWidth": 300,
+        "oHeight": 300,
+        "oProfileType": "Boreg",
+        "oNoOfWings": 5,
+        "oFields": [
             {
                 "dir": "r"
             },
@@ -81,28 +81,28 @@
                 "dir": "d"
             }
         ],
-        "pColor": "white",
-        "pIsSliding": true,
-        "pRemarks": "My a content!",
-        "pItemList": [
+        "oColor": "white",
+        "oIsSliding": true,
+        "oRemarks": "My a content!",
+        "oItemList": [
             {
                 "catNo": "00000999",
                 "quantity": 3
             }
         ],
-        "pSpruts": "full",
-        "pSprutsHeigt": 200,
-        "pBattery": "10",
-        "pOrderOwner": "cons-0002"
+        "oSpruts": "full",
+        "oSprutsHeigt": 200,
+        "oBattery": "10",
+        "oOrderOwner": "cons-0002"
     },
     {
-        "pNumber": "bko-000-004",
-        "pDateTime":"2018-08-01T12:00:00",
-        "pWidth": 300,
-        "pHeight": 300,
-        "pProfileType": "Boreg",
-        "pNoOfWings": 2,
-        "pFields": [
+        "oNumber": "bko-000-004",
+        "oDateTime":"2018-08-01T12:00:00",
+        "oWidth": 300,
+        "oHeight": 300,
+        "oProfileType": "Boreg",
+        "oNoOfWings": 2,
+        "oFields": [
             {
                 "dir": "r"
             },
@@ -113,18 +113,18 @@
                 "dir": "d"
             }
         ],
-        "pColor": "white",
-        "pIsSliding": true,
-        "pRemarks": "My a content!",
-        "pItemList": [
+        "oColor": "white",
+        "oIsSliding": true,
+        "oRemarks": "My a content!",
+        "oItemList": [
             {
                 "catNo": "00000999",
                 "quantity": 3
             }
         ],
-        "pSpruts": "full",
-        "pSprutsHeigt": 200,
-        "pBattery": "10",
-        "pOrderOwner": "cons-0003"
+        "oSpruts": "full",
+        "oSprutsHeigt": 200,
+        "oBattery": "10",
+        "oOrderOwner": "cons-0003"
     }
 ]
