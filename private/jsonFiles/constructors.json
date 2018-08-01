@@ -1,0 +1,24 @@
+[
+    {
+    "cNumber": "cons-0001",
+    "cID":"",
+    "cMail": "a.b@c.d",
+    "cMobile": "052-6922445",
+    "cFirstName": "אמיר",
+    "cLastName": "נוי",
+    "cAdress": "לסין 8",
+    "cCity":"תל-אביב",
+    "cZip": "62997",    
+  },
+  {
+    "cNumber": "cons-0002",
+    "cID":"",
+    "cMail": "a.h@c.d",
+    "cMobile": "052-6922445",
+    "cFirstName": "אדר",
+    "cLastName": "נוי",
+    "cAdress": "בילו 16",
+    "cCity":"תל-אביב",
+    "cZip": "65222",    
+  }
+]
