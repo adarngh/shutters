@@ -1,13 +1,17 @@
-shuttersApp.controller("confCtrl", function ($scope, $routeParams,ordersSrv) {
+shuttersApp.controller("confCtrl", function ($scope, $routeParams, ordersSrv) {
     // ordersSrv.getOrders();
-    $scope.orderList=ordersSrv.orderList;
-    $scope.itemList=[];
-    $scope.currentOrder={};
-    $scope.numberOfFields=1;    
-    $scope.leverType=new Array(5);
-    $scope.fieldArray=[{ "fieldType": $scope.leverType[0] }]; 
-    
-    
+    $scope.orderList = ordersSrv.orderList;
+    $scope.itemList = [];
+    $scope.currentOrder = {};
+    $scope.orderDetail = [];
+    var orderDetailsKeys = ["oWidth", "oHeight", "oProfileType", "oNoOfWings", "oFields", "oColor", " oIsSliding", "oSpruts", " oSprutsHeigt", "oBattery", "oRemarks"];
+    var orderDetailsDesc = ["רוחב", "גובה", "סוג פרופיל", "מס' כנפיים", "שדות", "צבע", "כולל הזזה", "סוג שפרוץ", "גובה שפרוץ", "גודל סוללה", "הערות"];
+
+    $scope.numberOfFields = 1;
+    $scope.leverType = new Array(5);
+    $scope.fieldArray = [{ "fieldType": $scope.leverType[0] }];
+
+
     $scope.changeFieldArray = function () {
         $scope.fieldArray.splice(0);
         for (var i1 = 0; i1 < $scope.numberOfFields; i1++) {
@@ -18,9 +22,62 @@ shuttersApp.controller("confCtrl", function ($scope, $routeParams,ordersSrv) {
 
 
     }
-    $scope.getOrderDetails =function(order) {
-        $scope.currentOrder=order;
+    $scope.getOrderDetails = function (order) {
+        $scope.currentOrder = order;
+        $scope.orderDetail.splice(0);
+        for (var i1 = 0; i1 < orderDetailsKeys.length; i1++) {
+            if (orderDetailsDesc[i1] == "שדות") {
+                var fText = "";
+                if (order[orderDetailsKeys[i1]][0].dir == "l") {
+                    fText = "מנוף שמאלי";
+                }
+                else if (order[orderDetailsKeys[i1]][0].dir == "r") {
+                    fText = "מנוף ימני";
+                }
+                else {
+                    fText = "מנוף דו-צדדי"
+                }
+                for (var i2 = 1; i2 < order[orderDetailsKeys[i1]].length; i2++) {
+                    if (order[orderDetailsKeys[i1]][i2].dir == "l") {
+                        fText =fText + " ,מנוף שמאלי";
+                    }
+                    else if (order[orderDetailsKeys[i1]][i2].dir == "r") {
+                        fText =fText+ " ,מנוף ימני";
+                    }
+                    else {
+                        fText =fText+ " ,מנוף דו-צדדי";
+                    }
+                }
+                $scope.orderDetail.push({
+                    "text": orderDetailsDesc[i1],
+                    "value": fText
+                });
+            }
+            else if (orderDetailsDesc[i1] == "כולל הזזה") {
+                if (order[orderDetailsKeys[i1]]) {
+                    var sText = "עם הזזה"
+                }
+                else {
+                    var sText = "ללא הזזה"
+                }
+                $scope.orderDetail.push({
+                    "text": orderDetailsDesc[i1],
+                    "value": sText
+                });
+            }
+            else {
+                $scope.orderDetail.push({
+                    "text": orderDetailsDesc[i1],
+                    "value": order[orderDetailsKeys[i1]]
+                });
+            }
+        }
     }
 
 
+
+    // $('#myTab a').on('click', function (e) {
+    //     e.preventDefault()
+    //     $(this).tab('show')
+    // })
 })

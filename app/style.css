@@ -23,7 +23,7 @@ nav>a{
 
 
 
-
+/* 
 
 section {
     padding: 60px 0;
@@ -35,9 +35,9 @@ section .section-title {
     margin-bottom: 50px;
     text-transform: uppercase;
 }
-#tabs{
+#tabs{ */
 	/* background: #522370; */
-    color: #eee;
+    /* color: #eee;
 }
 #tabs h6.section-title{
     color: #eee;
@@ -57,4 +57,4 @@ section .section-title {
     border-top-right-radius: .25rem;
     color: #eee;
     font-size: 20px;
-}
+} */
