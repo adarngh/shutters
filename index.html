@@ -16,7 +16,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
+    <!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key='AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU'&callback=initMap"></script> -->
     <script src="./app/shuttersApp.js"></script>
+    <script src="./app/distributors/distCtrl.js"></script>
+    <!--google map API:AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU-->
+
+
     <script src="./app/contructors/confCtrl.js"></script>
     <script src="./app/contructors/ordersSrv.js"></script>
     <script src="./app/home/homeCtrl.js"></script>
@@ -30,19 +35,48 @@
 
 
     <div class="border-bottom border-info row">
-        <div class="col-3"></div>
-        <div class="col-8 m-auto pt-3">
+        <div class="col-lg-3"></div>
+        <div class="col-lg-9 pt-3">
             <div class="page-header">
-                <h2 class="text-secondary ml-auto">
-                    <img src="./app/shared/images/batkal.png" alt="BATKAL-IMG" class="ml-2">ביתקל בע"מ – הפיתרון החכם להצללה מיטבית</h2>
+                <p class=" h4 text-secondary">
+                    <img src="./app/shared/images/batkal.png" alt="BATKAL-IMG" class="ml-2">ביתקל בע"מ – הפיתרון החכם להצללה מיטבית</p2>
             </div>
         </div>
     </div>
     <div class="row mt-1">
-        <div class="col-md-3">
-            <nav class="nav flex-column bg-batkal mr-4">
+        <div class="col-lg-3">
+
+
+
+
+
+
+
+            <div class="nav-side-menu">
+                <div class="text-center py-2 brand" ><a href="#"><i class="fa fa-home fa-2x text-white"></a></i></div>
+                <i class="fa fa-bars fa-lg toggle-btn" data-toggle="collapse" data-target="#menu-content"></i>
+
+                <div class="menu-list">
+
+                    <ul id="menu-content" class="menu-content collapse out">
+                            <li><a href="#"><i class="brand"></i>רשימת משווקים</a></li>
+                            <li><a href="#"><i class=""></i>צור קשר</a></li>
+                            <li><a href="#"><i class=""></i>כניסת מתקינים</a></li>
+                            <li><a href="#"><i class=""></i>הרשמת מתקינים</a></li>
+                            <li><a href="#"><i class=""></i>קטלוג PDF</a></li>
+                            <li><a href="/#!/orderlist"><i class=""></i>הצעות שלי</a></li>
+                            <li><a href="/#!/neworder"><i class=""></i>הצעה חדשה</a></li>    
+                    </ul>
+                </div>
+            </div>
+
+
+
+
+
+            <!-- <nav class="nav flex-column bg-batkal mr-4">
                 <a class="nav-link active" href="#">דף הבית</a>
-                <a class="nav-link" href="#">רשימת משווקים</a>
+                <a class="nav-link" href="/#!/distributors">רשימת משווקים</a>
                 <a class="nav-link" href="#">צור קשר</a>
                 <a class="nav-link bg-batkal-const" href="/#!/signup">כניסת/הרשמת מתקינים</a>
             </nav>
@@ -52,10 +86,10 @@
                 <a class="nav-link" href="/#!/neworder">הצעה חדשה</a>
                 <a class="nav-link" href="#">פורום</a>
                 <a class="nav-link" href="#">FAQ</a>
-            </nav>
+            </nav> -->
         </div>
-        <div class="col-md-9 ">
-                <ng-view></ng-view>
+        <div class="col-lg-9 ">
+            <ng-view></ng-view>
         </div>
 
     </div>

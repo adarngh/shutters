@@ -5,12 +5,16 @@ shuttersApp.config(function($routeProvider) {
       templateUrl : "./app/home/home.html",
       controller : 'homeCtrl'
     })
+    .when("/distributors", {
+      templateUrl : "./app/distributors/distributors.html",
+      // controller : 'distCtrl'
+    })
     .when("/signup", {
       templateUrl : "./app/contructors/signUp.html",
       controller : 'confCtrl'
     })
     .when("/orderlist", {
-        templateUrl : "./app/contructors/ProposalList.html",
+        templateUrl : "./app/contructors/proposalList.html",
         controller : 'confCtrl'
       })
     .when("/neworder", {
