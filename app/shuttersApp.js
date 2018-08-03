@@ -18,7 +18,7 @@ shuttersApp.config(function($routeProvider) {
         controller : 'confCtrl'
       })
     .when("/neworder", {
-      templateUrl : "./app/contructors/configurator.html",
+      templateUrl : "./app/contructors/newProposal.html",
       controller : 'confCtrl'
     })
     .otherwise({ redirectTo: '/' });

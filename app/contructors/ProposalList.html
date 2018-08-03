@@ -1,5 +1,5 @@
 <main>
-  <div class="mx-4 mt-3 mainTable">
+  <div class=" mainTable">
     <!-- <h1>{{orderList}}</h1> -->
     <table class="table table-bordered table-hover">
       <thead>
@@ -21,22 +21,24 @@
   </div>
 
 
-  <h5 class="col-md-4">הזמנה : {{currentOrder.oNumber.toUpperCase()}}</h5>
+  <h5 class="col-md-4 mr-3">הזמנה : {{currentOrder.oNumber.toUpperCase()}}</h5>
 
 
 
 
-  <ul class="nav nav-tabs col-md-12 mr-4" id="myTab" role="tablist">
+  <ul class="nav nav-tabs col-md-12" id="myTab" role="tablist">
     <li class="nav-item">
-      <a class="nav-link active" id="home-tab" data-toggle="tab" href="javascript:void(0);" data-target="#home" role="tab" aria-controls="home" aria-selected="true">רשימת מק"טים</a>
+      <a class="nav-link active" id="home-tab" data-toggle="tab" href="javascript:void(0);" data-target="#home" role="tab" aria-controls="home"
+        aria-selected="true">רשימת מק"טים</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" id="profile-tab" data-toggle="tab" href="javascript:void(0);" data-target="#profile" role="tab" aria-controls="profile" aria-selected="false">פרטי ההזמנה</a>
+      <a class="nav-link" id="profile-tab" data-toggle="tab" href="javascript:void(0);" data-target="#profile" role="tab" aria-controls="profile"
+        aria-selected="false">פרטי ההזמנה</a>
     </li>
   </ul>
   <div class="tab-content" id="myTabContent">
     <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-      <div class="mx-4 mt-2 mainTable">
+      <div class="pt-2 subTable">
         <table class="table table-bordered table-hover">
           <thead>
             <tr class="table-secondary">
@@ -58,7 +60,7 @@
     </div>
     <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 
-      <div class="mx-4 mt-2 mainTable">
+      <div class="pt-2 subTable">
         <table class="table table-bordered table-hover">
           <thead>
             <tr class="table-secondary">
@@ -78,49 +80,4 @@
 
     </div>
   </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <!-- <div class="mt-3 mr-4 mb-0">
-    <div class="row">
-      <h5 class="col-md-4">מק"טים עבור הזמנה : {{currentOrder.oNumber.toUpperCase()}}</h5> -->
-  <!-- <button type="submit" class="btn btn-primary col-md-2 ml-3" ng-click="">רשימת פריטים</button> -->
-  <!-- <button type="submit" class="btn btn-primary col-md-2" ng-click="">צפה בנתוני ההזמנה</button>
-    </div>
-  </div>
-  <div class="mx-4 mt-5 mainTable">
-    <table class="table table-bordered table-hover">
-      <thead>
-        <tr class="table-secondary">
-          <th>מק"ט</th>
-          <th>שם</th>
-          <th>כמות</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr class="" ng-repeat="x in currentOrder.oItemList">
-          <td>{{x.catNo}}</td>
-          <td>{{x.name}}</td>
-          <td>{{x.quantity}}</td>
-        </tr>
-
-      </tbody>
-    </table>
-  </div> -->
-
-
-
-
-
-
 </main>

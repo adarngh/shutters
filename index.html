@@ -4,8 +4,9 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shutters</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt"
@@ -28,67 +29,73 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="./app/style.css" />
 
-
 </head>
 
 <body>
 
 
-    <div class="border-bottom border-info row">
+    <div class="border-bottom border-info row no-gutters">
         <div class="col-lg-3"></div>
         <div class="col-lg-9 pt-3">
             <div class="page-header">
                 <p class=" h4 text-secondary">
-                    <img src="./app/shared/images/batkal.png" alt="BATKAL-IMG" class="ml-2">ביתקל בע"מ – הפיתרון החכם להצללה מיטבית</p2>
+                    <img src="./app/shared/images/batkal.png" alt="BATKAL-IMG" class="pl-2">ביתקל בע"מ – הפיתרון החכם להצללה מיטבית</p2>
             </div>
         </div>
     </div>
-    <div class="row mt-1">
+    <div class="row no-gutters">
         <div class="col-lg-3">
-
-
-
-
-
-
-
             <div class="nav-side-menu">
-                <div class="text-center py-2 brand" ><a href="#"><i class="fa fa-home fa-2x text-white"></a></i></div>
-                <i class="fa fa-bars fa-lg toggle-btn" data-toggle="collapse" data-target="#menu-content"></i>
+                <div class="text-center pt-3 brand">
+                    <a href="#">
+                        <i class="fa fa-home fa-2x text-white"></i>
+                    </a>
+                </div>
+                <i class="fa fa-bars fa-2x toggle-btn mt-1" data-toggle="collapse" data-target="#menu-content"></i>
 
                 <div class="menu-list">
 
                     <ul id="menu-content" class="menu-content collapse out">
-                            <li><a href="#"><i class="brand"></i>רשימת משווקים</a></li>
-                            <li><a href="#"><i class=""></i>צור קשר</a></li>
-                            <li><a href="#"><i class=""></i>כניסת מתקינים</a></li>
-                            <li><a href="#"><i class=""></i>הרשמת מתקינים</a></li>
-                            <li><a href="#"><i class=""></i>קטלוג PDF</a></li>
-                            <li><a href="/#!/orderlist"><i class=""></i>הצעות שלי</a></li>
-                            <li><a href="/#!/neworder"><i class=""></i>הצעה חדשה</a></li>    
+                        <li>
+                            <a href="#">
+                                <i class="">רשימת משווקים</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="">צור קשר</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="">כניסת מתקינים</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="">הרשמת מתקינים</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="">קטלוג PDF</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/#!/orderlist">
+                                <i class="">הצעות שלי</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/#!/neworder">
+                                <i class="">הצעה חדשה</i>
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </div>
-
-
-
-
-
-            <!-- <nav class="nav flex-column bg-batkal mr-4">
-                <a class="nav-link active" href="#">דף הבית</a>
-                <a class="nav-link" href="/#!/distributors">רשימת משווקים</a>
-                <a class="nav-link" href="#">צור קשר</a>
-                <a class="nav-link bg-batkal-const" href="/#!/signup">כניסת/הרשמת מתקינים</a>
-            </nav>
-            <nav class="nav flex-column bg-batkal-const  mr-4">
-                <a class="nav-link active" href="#">להורדת קטלוג PDF</a>
-                <a class="nav-link" href="/#!/orderlist">ההצעות שלי</a>
-                <a class="nav-link" href="/#!/neworder">הצעה חדשה</a>
-                <a class="nav-link" href="#">פורום</a>
-                <a class="nav-link" href="#">FAQ</a>
-            </nav> -->
         </div>
-        <div class="col-lg-9 ">
+        <div class="col-lg-9">
             <ng-view></ng-view>
         </div>
 

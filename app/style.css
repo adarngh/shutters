@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 body{
     text-align: right;
 }
@@ -17,6 +20,16 @@ nav>a{
   max-height: 35vh;
   overflow-y: auto;
 }
+.subTable{
+  display: block;
+  overflow-y: auto;
+}
+.formbg{
+  background-color:rgb(123, 158, 137);
+}
+.formbg > {
+  background-color:rgb(123, 158, 137);
+}
 
 
 
@@ -30,7 +43,7 @@ nav>a{
     background-color: rgb(255, 128, 0);
     position: fixed;
     top: 0px;
-    width: 300px;
+    width:25%;
     height: 100%;
     color: #e1ffff;
   }
@@ -147,8 +160,8 @@ nav>a{
       top: 10px;
       z-index: 10 !important;
       padding: 3px;
-      background-color:  rgb(255, 128, 0);
-      color: #000;
+      background-color: white;
+      color: #888888;
       width: 40px;
       text-align: center;
     }
