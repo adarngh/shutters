@@ -1,174 +1,336 @@
 [
     {
         "oNumber": "bko-000-001",
-        "oDateTime":"2018-08-01T12:00:00",
+        "oOrderOwner": "cons-0001",
         "oWidth": 300,
         "oHeight": 300,
         "oProfileType": "Boreg",
         "oNoOfWings": 3,
         "oFields": [
             {
-                "dir": "r"
+                "dir": "ימין"
             },
             {
-                "dir": "l"
+                "dir": "שמאל"
             },
             {
-                "dir": "d"
+                "dir": "דו צדדי"
             }
         ],
         "oColor": "white",
         "oIsSliding": true,
-        "oRemarks": "My a content!",
-        "oItemList": [
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            },
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            },
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            },
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            },
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            },
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            },
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            },
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            },
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            }
-        ],
         "oSpruts": "full",
         "oSprutsHeigt": 200,
         "oBattery": "10",
-        "oOrderOwner": "cons-0001"
+        "oItemList": [
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            },
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            },
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            },
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            },
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            },
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            },
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            },
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            },
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            }
+        ],
+        "oDateTime": "2018-08-01T12: 00: 00",
+        "oRemarks": "My a content!",
+        "$$hashKey": "object: 5"
     },
     {
         "oNumber": "bko-000-002",
-        "oDateTime":"2018-07-29T12:00:00",
+        "oOrderOwner": "cons-0001",
         "oWidth": 300,
         "oHeight": 300,
         "oProfileType": "Boreg",
         "oNoOfWings": 7,
         "oFields": [
             {
-                "dir": "r"
+                "dir": "ימין"
             },
             {
-                "dir": "l"
+                "dir": "שמאל"
             },
             {
-                "dir": "d"
+                "dir": "דו צדדי"
             }
         ],
         "oColor": "white",
         "oIsSliding": true,
-        "oRemarks": "My a content!",
-        "oItemList": [
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            }
-        ],
         "oSpruts": "full",
         "oSprutsHeigt": 200,
         "oBattery": "10",
-        "oOrderOwner": "cons-0001"
+        "oItemList": [
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            }
+        ],
+        "oDateTime": "2018-07-29T12: 00: 00",
+        "oRemarks": "My a content!",
+        "$$hashKey": "object: 6"
     },
     {
         "oNumber": "bko-000-003",
-        "oDateTime":"2018-07-28T12:00:00",
+        "oOrderOwner": "cons-0002",
         "oWidth": 300,
         "oHeight": 300,
         "oProfileType": "Boreg",
         "oNoOfWings": 5,
         "oFields": [
             {
-                "dir": "r"
+                "dir": "ימין"
             },
             {
-                "dir": "l"
+                "dir": "שמאל"
             },
             {
-                "dir": "d"
+                "dir": "דו צדדי"
             }
         ],
         "oColor": "white",
         "oIsSliding": true,
-        "oRemarks": "My a content!",
-        "oItemList": [
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            }
-        ],
         "oSpruts": "full",
         "oSprutsHeigt": 200,
         "oBattery": "10",
-        "oOrderOwner": "cons-0002"
+        "oItemList": [
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            }
+        ],
+        "oDateTime": "2018-07-28T12: 00: 00",
+        "oRemarks": "My a content!"
     },
     {
         "oNumber": "bko-000-004",
-        "oDateTime":"2018-07-26T12:00:00",
+        "oOrderOwner": "cons-0003",
         "oWidth": 300,
         "oHeight": 300,
         "oProfileType": "Boreg",
         "oNoOfWings": 2,
         "oFields": [
             {
-                "dir": "r"
+                "dir": "ימין"
             },
             {
-                "dir": "l"
+                "dir": "שמאל"
             },
             {
-                "dir": "d"
+                "dir": "דו צדדי"
             }
         ],
         "oColor": "white",
         "oIsSliding": true,
-        "oRemarks": "My a content!",
-        "oItemList": [
-            {
-                "catNo": "00000999",
-                "name" : "cer02",
-                "quantity": 3
-            }
-        ],
         "oSpruts": "full",
         "oSprutsHeigt": 200,
         "oBattery": "10",
-        "oOrderOwner": "cons-0003"
+        "oItemList": [
+            {
+                "catNo": "00000999",
+                "name": "cer02",
+                "quantity": 3
+            }
+        ],
+        "oDateTime": "2018-07-26T12: 00: 00",
+        "oRemarks": "My a content!"
+    },
+    {
+        "oNumber": "bko-000-010",
+        "oOrderOwner": "cons-0001",
+        "oWidth": "5",
+        "oHeight": "5",
+        "oProfileType": "פרופיל \"בורג\"",
+        "oNoOfWings": 5,
+        "oFields": [
+            {
+                "dir": "ימין"
+            },
+            {
+                "dir": "שמאל"
+            }
+        ],
+        "oColor": "לבן",
+        "oIsSliding": "כן",
+        "oSpruts": "שלם",
+        "oSprutsHeigt": "5",
+        "oBattery": "AH 13",
+        "oItemList": [
+            {
+                "catNo": "BKAL07-002",
+                "name": "דף הוראות",
+                "quantity": 1,
+                "$$hashKey": "object:21"
+            },
+            {
+                "catNo": "BKAL07-001",
+                "name": "מטען USB",
+                "quantity": 1,
+                "$$hashKey": "object:22"
+            },
+            {
+                "catNo": "BKAL05-05-1000",
+                "name": "פאנל05",
+                "quantity": 25,
+                "$$hashKey": "object:23"
+            },
+            {
+                "catNo": "BKAL06-06-1004",
+                "name": "20.7 Ah 3.7V 2A גדול פנסוניק",
+                "quantity": 5,
+                "$$hashKey": "object:24"
+            },
+            {
+                "catNo": "BKAL03-03W-1000",
+                "name": "סבסוב03-לבן",
+                "quantity": 10,
+                "$$hashKey": "object:25"
+            },
+            {
+                "catNo": "BKAL02-01W-1000",
+                "name": "בקרה02רגיל-לבן",
+                "quantity": 5,
+                "$$hashKey": "object:26"
+            },
+            {
+                "catNo": "BKAL03-03-W1063",
+                "name": "מנוף ימני-לבן",
+                "quantity": 5,
+                "$$hashKey": "object:27"
+            },
+            {
+                "catNo": "BKAL03-03-W1062",
+                "name": "מנוף שמאלי-לבן",
+                "quantity": 5,
+                "$$hashKey": "object:28"
+            },
+            {
+                "catNo": "BKAL04-04W-1000",
+                "name": "הזזה04-לבן",
+                "quantity": 5,
+                "$$hashKey": "object:29"
+            },
+            {
+                "catNo": "BKAL04-04W-2000",
+                "name": "מגנט04-לבן",
+                "quantity": 4,
+                "$$hashKey": "object:30"
+            }
+        ],
+        "oDateTime": "Sat Aug 04 2018 22:38:47 GMT+0300 (Israel Daylight Time)",
+        "oRemarks": "55555"
+    },
+    {
+        "oNumber": "bko-000-011",
+        "oOrderOwner": "cons-0001",
+        "oWidth": "2",
+        "oHeight": "2",
+        "oProfileType": "פרופיל \"בורג\"",
+        "oNoOfWings": 2,
+        "oFields": [
+            {
+                "dir": "ימין"
+            }
+        ],
+        "oColor": "אפור",
+        "oIsSliding": "כן",
+        "oSpruts": "שלם",
+        "oSprutsHeigt": "2",
+        "oBattery": "AH 13",
+        "oItemList": [
+            {
+                "catNo": "BKAL07-002",
+                "name": "דף הוראות",
+                "quantity": 1,
+                "$$hashKey": "object:72"
+            },
+            {
+                "catNo": "BKAL07-001",
+                "name": "מטען USB",
+                "quantity": 1,
+                "$$hashKey": "object:73"
+            },
+            {
+                "catNo": "BKAL05-05-1000",
+                "name": "פאנל05",
+                "quantity": 4,
+                "$$hashKey": "object:74"
+            },
+            {
+                "catNo": "BKAL06-06-1004",
+                "name": "20.7 Ah 3.7V 2A גדול פנסוניק",
+                "quantity": 2,
+                "$$hashKey": "object:75"
+            },
+            {
+                "catNo": "BKAL03-03G-1000",
+                "name": "סבסוב03-אפור",
+                "quantity": 2,
+                "$$hashKey": "object:76"
+            },
+            {
+                "catNo": "BKAL02-01G-1000",
+                "name": "בקרה02רגיל-אפור",
+                "quantity": 2,
+                "$$hashKey": "object:77"
+            },
+            {
+                "catNo": "BKAL03-03-G1063",
+                "name": "מנוף ימני-אפור",
+                "quantity": 2,
+                "$$hashKey": "object:78"
+            },
+            {
+                "catNo": "BKAL04-04G-1000",
+                "name": "הזזה04-אפור",
+                "quantity": 2,
+                "$$hashKey": "object:79"
+            },
+            {
+                "catNo": "BKAL04-04G-2000",
+                "name": "מגנט04-אפור",
+                "quantity": 1
+            }
+        ],
+        "oDateTime": "Sat Aug 04 2018 22:39:30 GMT+0300 (Israel Daylight Time)",
+        "oRemarks": "2222"
     }
 ]

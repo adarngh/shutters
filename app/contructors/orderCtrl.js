@@ -33,20 +33,20 @@ shuttersApp.controller("orderCtrl", function ($scope, $routeParams,$location, or
         for (var i1 = 0; i1 < orderDetailsKeys.length; i1++) {
             if (orderDetailsDesc[i1] == "שדות") {
                 var fText = "";
-                if (order[orderDetailsKeys[i1]][0].dir == "l") {
+                if (order[orderDetailsKeys[i1]][0].dir == "שמאל") {
                     fText = "מנוף שמאלי";
                 }
-                else if (order[orderDetailsKeys[i1]][0].dir == "r") {
+                else if (order[orderDetailsKeys[i1]][0].dir == "ימין") {
                     fText = "מנוף ימני";
                 }
                 else {
                     fText = "מנוף דו-צדדי"
                 }
                 for (var i2 = 1; i2 < order[orderDetailsKeys[i1]].length; i2++) {
-                    if (order[orderDetailsKeys[i1]][i2].dir == "l") {
+                    if (order[orderDetailsKeys[i1]][i2].dir == "שמאל") {
                         fText =fText + " ,מנוף שמאלי";
                     }
-                    else if (order[orderDetailsKeys[i1]][i2].dir == "r") {
+                    else if (order[orderDetailsKeys[i1]][i2].dir == "ימין") {
                         fText =fText+ " ,מנוף ימני";
                     }
                     else {

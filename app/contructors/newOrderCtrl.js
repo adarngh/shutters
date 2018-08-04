@@ -20,6 +20,10 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $routeParams, $location
 
     $scope.createOrder = function () {
         var itemList = [];
+        var tempField=[];
+        
+           
+        
         itemList.push({
             "catNo": "BKAL07-002",
             "name": "דף הוראות",
@@ -83,14 +87,17 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $routeParams, $location
             var noRight = 0;
             var noLeft = 0;
             var noDouble = 0;
-            for (var i1 = 0; i1 < $scope.leverType.length; i1++) {
+            for (var i1 = 0; i1 < $scope.fieldArray.length; i1++) {
                 if ($scope.leverType[i1] == "ימין") {
+                    tempField.push({"dir":"ימין"});
                     noRight++;
                 }
                 else if ($scope.leverType[i1] == "שמאל") {
+                    tempField.push({"dir":"שמאל"});
                     noLeft++;
                 }
                 else {
+                    tempField.push({"dir":"דו צדדי"});
                     noDouble++;
                 }
             }
@@ -144,14 +151,17 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $routeParams, $location
             var noRight = 0;
             var noLeft = 0;
             var noDouble = 0;
-            for (var i1 = 0; i1 < $scope.leverType.length; i1++) {
+            for (var i1 = 0; i1 < $scope.fieldArray.length; i1++) {
                 if ($scope.leverType[i1] == "ימין") {
+                    tempField.push({"dir":"ימין"});
                     noRight++;
                 }
                 else if ($scope.leverType[i1] == "שמאל") {
+                    tempField.push({"dir":"שמאל"});
                     noLeft++;
                 }
                 else {
+                    tempField.push({"dir":"דו צדדי"});
                     noDouble++;
                 }
             }
@@ -191,8 +201,9 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $routeParams, $location
                 }
             }
         }
+        
         var date=new Date()
-        var newOrder=new orderSrv.Order(orderSrv.getNewOrderNum(), activeUser.cNumber, $scope.pWidth,  $scope.pHeight, $scope.pProfileType,$scope.pNoOfWings, $scope.numberOfFields, $scope.pColor, $scope.pIsSliding, $scope.pSpruts, $scope.pSprutsHeigt, $scope.pBattery,itemList,date.toString(), $scope.pRemarks);
+        var newOrder=new orderSrv.Order(orderSrv.getNewOrderNum(), activeUser.cNumber, $scope.pWidth,  $scope.pHeight, $scope.pProfileType,$scope.pNoOfWings, tempField, $scope.pColor, $scope.pIsSliding, $scope.pSpruts, $scope.pSprutsHeigt, $scope.pBattery,itemList,date.toString(), $scope.pRemarks);
         $scope.orderList.push(newOrder);
         var stop=null;
     }
