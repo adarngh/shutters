@@ -1,6 +1,13 @@
-shuttersApp.controller("confCtrl", function ($scope, $routeParams, ordersSrv) {
+shuttersApp.controller("orderCtrl", function ($scope, $routeParams,$location, orderSrv,userSrv) {
     // ordersSrv.getOrders();
-    $scope.orderList = ordersSrv.orderList;
+    if (!userSrv.isLoggedIn()) {
+        $location.path("/");
+        return;
+    }
+    
+    $scope.orderList = orderSrv.orderList;
+    $scope.activeUser=userSrv.getActiveUser();
+        
     $scope.itemList = [];
     $scope.currentOrder = {};
     $scope.orderDetail = [];

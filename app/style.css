@@ -25,10 +25,7 @@ nav>a{
   overflow-y: auto;
 }
 .formbg{
-  background-color:rgb(123, 158, 137);
-}
-.formbg > {
-  background-color:rgb(123, 158, 137);
+  background-color:rgb(212, 212, 212);
 }
 
 

@@ -1,13 +1,13 @@
 <main>
-    <form class="mt-4 col-11">
+    <form class="mt-4 col-lg-11 mx-auto formbg">
         <div class="form-row">
             <div class="form-group col-md-6">
                 <label for="inputEmail4">כתובת דוא"ל</label>
-                <input type="email" class="form-control" id="inputEmail4" placeholder='כתובת דוא"ל'>
+                <input type="email" class="form-control" id="inputEmail4" placeholder='כתובת דוא"ל' ng-model="oEmail">
             </div>
             <div class="form-group col-md-6">
                 <label for="inputPassword4">סיסמה</label>
-                <input type="password" class="form-control" id="inputPassword4" placeholder="סיסמה">
+                <input type="password" class="form-control" id="inputPassword4" placeholder="סיסמה" ng-model="oPass">
             </div>
         </div>
         <div class=""> <!--d-none-->
@@ -17,7 +17,7 @@
                 </div>
                 <div class="form-group col-md-6">
                     <label for="inputPassword42">חזור על הסיסמה</label>
-                    <input type="password" class="form-control" id="inputPassword42" placeholder="סיסמה">
+                    <input type="password" class="form-control" id="inputPassword42" placeholder="סיסמה" ng-model="oPass2"> 
                 </div>
             </div>
             <div class="form-row">
@@ -64,6 +64,6 @@
                 </div>
             </div>
         </div>
-        <button type="submit" class="btn btn-primary">הרשמה</button>
+        <button type="submit" class="btn btn-primary mb-4">הרשמה</button>
     </form>
 </main>

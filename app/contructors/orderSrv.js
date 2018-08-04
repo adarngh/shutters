@@ -1,4 +1,4 @@
-shuttersApp.factory("ordersSrv", function ($http, $q) {
+shuttersApp.factory("orderSrv", function ($http, $q) {
     var temp
     var orderList = [];
     var ordersUrl = "./private/jsonFiles/orders.json"

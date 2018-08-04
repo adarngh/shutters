@@ -21,10 +21,12 @@
     <script src="./app/shuttersApp.js"></script>
     <script src="./app/distributors/distCtrl.js"></script>
     <!--google map API:AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU-->
+    <script src="./app/contructors/userSrv.js"></script>
+    <script src="./app/contructors/userCtrl.js"></script>
 
 
-    <script src="./app/contructors/confCtrl.js"></script>
-    <script src="./app/contructors/ordersSrv.js"></script>
+    <script src="./app/contructors/orderCtrl.js"></script>
+    <script src="./app/contructors/orderSrv.js"></script>
     <script src="./app/home/homeCtrl.js"></script>
 
     <link rel="stylesheet" type="text/css" media="screen" href="./app/style.css" />
@@ -58,37 +60,50 @@
                     <ul id="menu-content" class="menu-content collapse out">
                         <li>
                             <a href="#">
+                                    <i class="fa fa-list-ul"></i>
                                 <i class="">רשימת משווקים</i>
                             </a>
                         </li>
                         <li>
                             <a href="#">
+                                <i class="fa fa-info-circle"></i>
                                 <i class="">צור קשר</i>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="/#!/login">
+                                <i class="fa fa-sign-in-alt"></i>
                                 <i class="">כניסת מתקינים</i>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="/#!/signup">
+                                <i class="fa fa-user-plus"></i>
                                 <i class="">הרשמת מתקינים</i>
                             </a>
                         </li>
                         <li>
                             <a href="#">
+                                <i class="fa fa-file-pdf"></i>
                                 <i class="">קטלוג PDF</i>
                             </a>
                         </li>
                         <li>
                             <a href="/#!/orderlist">
+                                <i class="fa fa-clipboard-list"></i>
                                 <i class="">הצעות שלי</i>
                             </a>
                         </li>
                         <li>
                             <a href="/#!/neworder">
+                                <i class="fa fa-plus-square"></i>
                                 <i class="">הצעה חדשה</i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/#!/logout">
+                                <i class="fa fa-sign-out-alt"></i>
+                                <i class="">יציאה</i>
                             </a>
                         </li>
                     </ul>

@@ -9,17 +9,21 @@ shuttersApp.config(function($routeProvider) {
       templateUrl : "./app/distributors/distributors.html",
       // controller : 'distCtrl'
     })
+    .when("/login", {
+      templateUrl : "./app/contructors/login.html",
+      controller : 'userCtrl'
+    })
     .when("/signup", {
       templateUrl : "./app/contructors/signUp.html",
-      controller : 'confCtrl'
+      controller : 'userCtrl'
     })
     .when("/orderlist", {
-        templateUrl : "./app/contructors/proposalList.html",
-        controller : 'confCtrl'
+        templateUrl : "./app/contructors/orderList.html",
+        controller : 'orderCtrl'
       })
     .when("/neworder", {
-      templateUrl : "./app/contructors/newProposal.html",
-      controller : 'confCtrl'
+      templateUrl : "./app/contructors/newOrder.html",
+      controller : 'orderCtrl'
     })
     .otherwise({ redirectTo: '/' });
   });
