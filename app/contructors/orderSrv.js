@@ -1,5 +1,5 @@
 shuttersApp.factory("orderSrv", function ($http, $q) {
-    var temp
+    var orderNo=9;
     var orderList = [];
     var ordersUrl = "./private/jsonFiles/orders.json"
     getOrders()
@@ -39,11 +39,17 @@ shuttersApp.factory("orderSrv", function ($http, $q) {
         })
 
     }
+    function getNewOrderNum(){
+        orderNo++;
+        return "bko-000-0"+orderNo;
+
+    }
 
     return {
         Order: Order,
         getOrders: getOrders,
-        orderList:orderList
+        orderList:orderList,
+        getNewOrderNum: getNewOrderNum
     }
 
 
