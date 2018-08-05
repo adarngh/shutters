@@ -5,15 +5,15 @@
                 <tr class="table-primary">
                     <th>שם הספק</th>
                     <th>טלפון</th>
-                    <th>פקס</th>
-                    <th>מיל</th>
+                    <th>מייל</th>
                 </tr>
             </thead>
             <tbody>
-                <tr class="" ng-repeat="x in orderList" ng-click="getOrderDetails(x)">
-                    <td>{{x.oNumber.toUpperCase()}}</td>
-                    <td>{{x.oDateTime}}</td>
-                    <td>{{x.oRemarks}}</td>
+                <tr class="" ng-repeat="x in userList" ng-click="getOrderDetails(x)">
+                        <td>{{x.cFirstName+" "+x.cLastName}}</td>
+                        <td>{{x.cAdress+" "+x.cCity}}</td>
+                        <td>{{x.cFirstName+" "+x.cLastName}}</td>
+                    
                 </tr>
 
             </tbody>
@@ -21,8 +21,6 @@
         <iframe width="600" height="450" frameborder="0" style="border:0" src={{address}} allowfullscreen>
         </iframe>
     </div>
-    <!-- <iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU
-    &q=tel aviv" allowfullscreen>
-    </iframe> -->
+   
 
 </main>

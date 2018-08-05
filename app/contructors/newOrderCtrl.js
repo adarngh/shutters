@@ -1,6 +1,6 @@
 shuttersApp.controller("newOrderCtrl", function ($scope, $routeParams, $location, orderSrv, userSrv) {
     if (!userSrv.isLoggedIn()) {
-        // $location.path("/");
+        $location.path("/");
         return;
     }
     
