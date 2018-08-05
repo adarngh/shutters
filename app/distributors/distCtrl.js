@@ -1,17 +1,10 @@
-shuttersApp.controller("distCtrl", function ($scope, $routeParams,document) {
+shuttersApp.controller("distCtrl", function ($scope,$sce,userSrv,$routeParams) {
+    // var userList=userSrv.getDistList();
+    // var userAdress=(userList[0].cAdress+" "+userList[0].cAdress).replace(" ","+");
+    $scope.address=$sce.trustAsResourceUrl("https://www.google.com/maps/embed/v1/place?key=AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU&q=בילו+16+תל+אביב");
+    // $scope.address=$sce.trustAsResourceUrl("https://www.google.com/maps/embed/v1/place?key=AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU&q="+userAdress);
     
     
-    
-    function initMap() {
-        // The location of Home
-        var Home = { lat: 32.069319, lng: 34.780047 };
-        // The map, centered at Home
-        var map = new google.maps.Map(
-            document.getElementById('map'), { zoom: 4, center: Home });
-        // The marker, positioned at Home
-        var marker = new google.maps.Marker({ position: Home, map: map });
-    }
-
 
 
 });

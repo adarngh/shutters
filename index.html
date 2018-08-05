@@ -24,12 +24,11 @@
     <script src="./app/contructors/userSrv.js"></script>
     <script src="./app/contructors/userCtrl.js"></script>
 
-
     <script src="./app/contructors/orderCtrl.js"></script>
     <script src="./app/contructors/newOrderCtrl.js"></script>
     <script src="./app/contructors/orderSrv.js"></script>
     <script src="./app/home/homeCtrl.js"></script>
-
+    
     <link rel="stylesheet" type="text/css" media="screen" href="./app/style.css" />
 
 </head>
@@ -46,7 +45,7 @@
             </div>
         </div>
     </div>
-    <div class="row no-gutters">
+    <div class="row no-gutters" ng-controller="userCtrl">
         <div class="col-lg-3">
             <div class="nav-side-menu">
                 <div class="text-center pt-3 brand">
@@ -60,7 +59,7 @@
 
                     <ul id="menu-content" class="menu-content collapse out">
                         <li>
-                            <a href="#">
+                            <a href="/#!/dist">
                                     <i class="fa fa-list-ul"></i>
                                 <i class="">רשימת משווקים</i>
                             </a>
@@ -71,38 +70,38 @@
                                 <i class="">צור קשר</i>
                             </a>
                         </li>
-                        <li>
-                            <a href="/#!/login">
+                        <li >
+                            <a href="#!/login">
                                 <i class="fa fa-sign-in-alt"></i>
                                 <i class="">כניסת מתקינים</i>
                             </a>
                         </li>
-                        <li>
-                            <a href="/#!/signup">
+                        <li >
+                            <a href="#!/signup">
                                 <i class="fa fa-user-plus"></i>
                                 <i class="">הרשמת מתקינים</i>
                             </a>
                         </li>
-                        <li>
+                        <li > 
                             <a href="#">
                                 <i class="fa fa-file-pdf"></i>
                                 <i class="">קטלוג PDF</i>
                             </a>
                         </li>
                         <li>
-                            <a href="/#!/orderlist">
+                            <a href="#!/orderlist">
                                 <i class="fa fa-clipboard-list"></i>
                                 <i class="">הצעות שלי</i>
                             </a>
                         </li>
                         <li>
-                            <a href="/#!/neworder">
+                            <a href="#!/neworder">
                                 <i class="fa fa-plus-square"></i>
                                 <i class="">הצעה חדשה</i>
                             </a>
                         </li>
                         <li>
-                            <a href="/#!/logout">
+                            <a href="#!/logout">
                                 <i class="fa fa-sign-out-alt"></i>
                                 <i class="">יציאה</i>
                             </a>

@@ -5,13 +5,14 @@ shuttersApp.controller("orderCtrl", function ($scope, $routeParams,$location, or
         return;
     }
     
+    
     $scope.orderList = orderSrv.orderList;
     $scope.activeUser=userSrv.getActiveUser();
         
     $scope.itemList = [];
     $scope.currentOrder = {};
     $scope.orderDetail = [];
-    var orderDetailsKeys = ["oWidth", "oHeight", "oProfileType", "oNoOfWings", "oFields", "oColor", " oIsSliding", "oSpruts", " oSprutsHeigt", "oBattery", "oRemarks"];
+    var orderDetailsKeys = ["oWidth", "oHeight", "oProfileType", "oNoOfWings", "oFields", "oColor", "oIsSliding", "oSpruts", "oSprutsHeigt", "oBattery", "oRemarks"];
     var orderDetailsDesc = ["רוחב", "גובה", "סוג פרופיל", "מס' כנפיים", "שדות", "צבע", "כולל הזזה", "סוג שפרוץ", "גובה שפרוץ", "גודל סוללה", "הערות"];
 
     // $scope.numberOfFields = 1;
@@ -59,11 +60,11 @@ shuttersApp.controller("orderCtrl", function ($scope, $routeParams,$location, or
                 });
             }
             else if (orderDetailsDesc[i1] == "כולל הזזה") {
-                if (order[orderDetailsKeys[i1]]) {
-                    var sText = "עם הזזה"
+                if (order[orderDetailsKeys[i1]]=="כן") {
+                    var sText = "כן"
                 }
                 else {
-                    var sText = "ללא הזזה"
+                    var sText = "לא"
                 }
                 $scope.orderDetail.push({
                     "text": orderDetailsDesc[i1],
