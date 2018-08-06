@@ -17,6 +17,7 @@ shuttersApp.controller("userCtrl", function ($scope, $routeParams, $location, us
 
     $scope.logout = function () {
         userSrv.logout() 
+        $location.path("/");
     }
 
 
