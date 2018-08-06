@@ -1,10 +1,15 @@
-shuttersApp.controller("newOrderCtrl", function ($scope, $routeParams, $location, orderSrv, userSrv) {
+shuttersApp.controller("newOrderCtrl", function ($scope, $timeout, $location, orderSrv, userSrv) {
     if (!userSrv.isLoggedIn()) {
         $location.path("/");
         return;
     }
-    
+
+
+
     var activeUser = userSrv.getActiveUser();
+    $scope.userName = activeUser.cFirstName + " " + activeUser.cLastName;
+    $scope.userPhone = activeUser.cMobile;
+    $scope.userMail = activeUser.cMail;
     $scope.orderList = orderSrv.orderList;
     $scope.numberOfFields = 1;
     $scope.leverType = new Array(5);
@@ -16,6 +21,26 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $routeParams, $location
 
             $scope.fieldArray.push({ "fieldType": $scope.leverType[i1] })
         }
+    }
+    printDiv = function (divName) {
+        var printContents = document.getElementById(divName).innerHTML;
+        var popupWin = window.open('', '_blank', 'width=300,height=300');
+        popupWin.document.open();
+        popupWin.document.write('<!DOCTYPE html><html ng-app="shuttersApp" dir="rtl"><head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge">'
+        +'<title>Shutters</title><meta name="viewport" content="width=device-width, initial-scale=1.0">'
+        +'<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">'
+        +'<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">'
+        +'<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt"crossorigin="anonymous">'
+        +'<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js">'
+        +'</script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js">'
+        +'</script><script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js">'
+        +'</script><script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js">'
+        +'</script><script src="./app/shuttersApp.js"></script><script src="./app/distributors/distCtrl.js"></script>'
+        +'<script src="./app/contructors/userSrv.js"></script><script src="./app/contructors/userCtrl.js"></script><script src="./app/contructors/orderCtrl.js"></script>'
+        +'<script src="./app/contructors/newOrderCtrl.js"></script><script src="./app/contructors/orderSrv.js"></script><script src="./app/home/homeCtrl.js"></script>'
+        +'<link rel="stylesheet" type="text/css" media="screen" href="./app/style.css" /></head><body ng-controller="newOrderCtrl">'         
+        + printContents + '</body></html>');
+        popupWin.document.close();
     }
 
 
@@ -207,11 +232,16 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $routeParams, $location
         var monthNames = ["January", "February", "March", "April", "May", "June",
             "July", "August", "September", "October", "November", "December"
         ];
-        var dateText = date.getHours() + ":" + date.getMinutes()+" "+date.getDate()+"/"+ date.getUTCMonth() +"/"+ date.getFullYear() ;
+        var dateText = date.getHours() + ":" + date.getMinutes() + " " + date.getDate() + "/" + date.getUTCMonth() + "/" + date.getFullYear();
         var newOrder = new orderSrv.Order(orderSrv.getNewOrderNum(), activeUser.cNumber, $scope.pWidth, $scope.pHeight, $scope.pProfileType, $scope.pNoOfWings, tempField, $scope.pColor, $scope.pIsSliding, $scope.pSpruts, $scope.pSprutsHeigt, $scope.pBattery, itemList, dateText, $scope.pRemarks);
         $scope.orderList.push(newOrder);
+        $scope.newOrder = newOrder;
+        $timeout(function(){printDiv("ordetoprint")},3000);
+        // $timeout(printDiv
+
+
         
-        $location.path("/orderlist");
+        // $location.path("/orderlist");
 
         var stop = null;
     }

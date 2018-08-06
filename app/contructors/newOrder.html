@@ -1,112 +1,150 @@
-<main class="formbg col-lg-11 mx-auto mt-4">
-    <form class="pr-4 pt-4 align-right">
-        <div class="row no-gutters">
-            <div class="col-lg-10">
-                <p class="h3">
-                    <u>בבקשה הזן את פרטי ההזמנה</u>
-                </p>
-            </div>
-            <button type="submit" class="btn btn-warning col-lg-2" ng-click="createOrder()">בדוק וצור
-                <br>דף הזמנה</button>
-        </div>
-        <div class="row no-gutters">
-            <div class="form-group col-lg-5">
-                <label for="pProfileType" class="h5">סוג תריס</label>
-                <select id="pProfileType" class="form-control " ng-model="pProfileType">
-                    <option>פרופיל "בורג"</option>
-                    <option>9000</option>
-                </select>
-            </div>
-            <!-- <div class="col-lg-1"></div> -->
-            <div class="form-group col-lg-7">
-                <h5 class="pr-3">גודל מפתח</h5>
-                <div class="row no-gutters pr-3">
-                    <label for="pHeight" class="col-form-label h6 ">גובה(ס"מ)</label>
-                    <input type="text" class="form-control col-lg-4" id="pHeight" placeholder="" ng-model="pHeight">
-                    <label for="pWidth" class="col-form-label h6 pr-4">רוחב(ס"מ)</label>
-                    <input type="text" class="form-control col-lg-4" id="pWidth" placeholder="" ng-model="pWidth">
-                </div>
-            </div>
-
-        </div>
-        <div class="row no-gutters mt-3">
-            <div class="form-group col-lg-4">
-                <label for="pNoOfWings" class="h5">מספר כנפיים</label>
-                <input type="number" class="form-control col-lg-10" id="pNoOfWings" value="1" min="1" max="8" ng-model="pNoOfWings">
-            </div>
-            <div class="form-group col-lg-4">
-                <label for="pSolarPanels" class="h5">פאנלים סולאריים בכנף</label>
-                <input type="number" class="form-control col-lg-10" id="pSolarPanels" value="1" min="1" max="8" ng-model="pSolarPanels">
-            </div>
-            <div class="form-group col-lg-4">
-                <label for="battery" class="h5">קיבולת סוללה</label>
-                <select id="battery" class="form-control " ng-model="pBattery">
-                    <option>AH 10</option>
-                    <option>AH 13</option>
-                    <option>AH 16</option>
-                    <option>AH 20</option>
-                </select>
-            </div>
-        </div>
-        <div class="border border-info px-3">
+<main>
+    <div class="formbg col-lg-11 mx-auto mt-4">
+        <form class="pr-4 pt-4 align-right">
             <div class="row no-gutters">
-                <div class="form-group col-lg-2">
-                    <label for="profileType" class="h5">שדות בכנף</label>
-                    <input type="number" class="form-control col-lg-6" id="windowHeight" min="1" max="5" ng-model="numberOfFields" ng-change="changeFieldArray()">
+                <div class="col-lg-10">
+                    <p class="h3">
+                        <u>בבקשה הזן את פרטי ההזמנה</u>
+                    </p>
                 </div>
+                <button type="submit" class="btn btn-primary col-lg-2" ng-click="createOrder()">בדוק וצור
+                    <br>דף הזמנה</button>
             </div>
-            <div class="row no-gutters mb-2">
-                <div class="col-lg-2 ml-3" ng-repeat="x in fieldArray">
-                    <div class="row no-gutters field">
-                        <label for="profileType{{$index}}" class="col-form-label col-lg-6 h5 pr-3 pl-0">כיוון {{$index+1}}</label>
-                        <select id="profileType{{$index}}" class="form-control col-lg-10 pl-5" ng-model="leverType[$index]">
-                            <option>ימין</option>
-                            <option>שמאל</option>
-                            <option>דו צדדי</option>
-                        </select>
+            <div class="row no-gutters">
+                <div class="form-group col-lg-5">
+                    <label for="pProfileType" class="h5">סוג תריס</label>
+                    <select id="pProfileType" class="form-control " ng-model="pProfileType">
+                        <option>פרופיל "בורג"</option>
+                        <option>9000</option>
+                    </select>
+                </div>
+                <!-- <div class="col-lg-1"></div> -->
+                <div class="form-group col-lg-7">
+                    <h5 class="pr-3">גודל מפתח</h5>
+                    <div class="row no-gutters pr-3">
+                        <label for="pHeight" class="col-form-label h6 ">גובה(ס"מ)</label>
+                        <input type="text" class="form-control col-lg-4" id="pHeight" placeholder="" ng-model="pHeight">
+                        <label for="pWidth" class="col-form-label h6 pr-4">רוחב(ס"מ)</label>
+                        <input type="text" class="form-control col-lg-4" id="pWidth" placeholder="" ng-model="pWidth">
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="row no-gutters mt-3">
-            <div class="form-group col-lg-3">
-                <label for="profileType" class="h5">שפרוץ רוחב</label>
-                <select id="profileType" class="form-control col-lg-10" ng-model="pSpruts">
-                    <option>אין</option>
-                    <option>שלם</option>
-                    <option>חצוי</option>
-                </select>
-            </div>
-            <div class="form-group col-lg-3">
-                <label for="workOrderNum" class="h5">גובה בס"מ</label>
-                <input type="text" class="form-control col-lg-10" id="workOrderNum" placeholder="" ng-model="pSprutsHeigt">
-            </div>
-            <div class="form-group col-lg-3">
-                <label for="profileType" class="h5">צבע</label>
-                <select id="profileType" class="form-control col-lg-10" ng-model="pColor">
-                    <option>לבן</option>
-                    <option>אפור</option>
-                </select>
-            </div>
-            <div class="form-group col-lg-3">
-                <label for="profileType" class="h5">כולל הזזה?</label>
-                <select id="profileType" class="form-control" ng-model="pIsSliding">
-                    <option>כן</option>
-                    <option>לא</option>
-                </select>
-            </div>
 
-        </div>
-        <div class="row no-gutters">
-            <div class="form-group col-lg-12">
+            </div>
+            <div class="row no-gutters mt-3">
+                <div class="form-group col-lg-4">
+                    <label for="pNoOfWings" class="h5">מספר כנפיים</label>
+                    <input type="number" class="form-control col-lg-10" id="pNoOfWings" value="1" min="1" max="8" ng-model="pNoOfWings">
+                </div>
+                <div class="form-group col-lg-4">
+                    <label for="pSolarPanels" class="h5">פאנלים סולאריים בכנף</label>
+                    <input type="number" class="form-control col-lg-10" id="pSolarPanels" value="1" min="1" max="8" ng-model="pSolarPanels">
+                </div>
+                <div class="form-group col-lg-4">
+                    <label for="battery" class="h5">קיבולת סוללה</label>
+                    <select id="battery" class="form-control " ng-model="pBattery">
+                        <option>AH 10</option>
+                        <option>AH 13</option>
+                        <option>AH 16</option>
+                        <option>AH 20</option>
+                    </select>
+                </div>
+            </div>
+            <div class="border border-info px-3">
                 <div class="row no-gutters">
-                    <div class="col-12">
-                        <label for="remarks" class="h5">הערות</label>
-                        <textarea class="form-control  col-lg-12" rows="2" id="remarks" placeholder="הערות מיוחדות" ng-model="pRemarks"></textarea>
+                    <div class="form-group col-lg-2">
+                        <label for="profileType" class="h5">שדות בכנף</label>
+                        <input type="number" class="form-control col-lg-6" id="windowHeight" min="1" max="5" ng-model="numberOfFields" ng-change="changeFieldArray()">
                     </div>
+                </div>
+                <div class="row no-gutters mb-2">
+                    <div class="col-lg-2 ml-3" ng-repeat="x in fieldArray">
+                        <div class="row no-gutters field">
+                            <label for="profileType{{$index}}" class="col-form-label col-lg-6 h5 pr-3 pl-0">כיוון {{$index+1}}</label>
+                            <select id="profileType{{$index}}" class="form-control col-lg-10 pl-5" ng-model="leverType[$index]">
+                                <option>ימין</option>
+                                <option>שמאל</option>
+                                <option>דו צדדי</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row no-gutters mt-3">
+                <div class="form-group col-lg-3">
+                    <label for="profileType" class="h5">שפרוץ רוחב</label>
+                    <select id="profileType" class="form-control col-lg-10" ng-model="pSpruts">
+                        <option>אין</option>
+                        <option>שלם</option>
+                        <option>חצוי</option>
+                    </select>
+                </div>
+                <div class="form-group col-lg-3">
+                    <label for="workOrderNum" class="h5">גובה בס"מ</label>
+                    <input type="text" class="form-control col-lg-10" id="workOrderNum" placeholder="" ng-model="pSprutsHeigt">
+                </div>
+                <div class="form-group col-lg-3">
+                    <label for="profileType" class="h5">צבע</label>
+                    <select id="profileType" class="form-control col-lg-10" ng-model="pColor">
+                        <option>לבן</option>
+                        <option>אפור</option>
+                    </select>
+                </div>
+                <div class="form-group col-lg-3">
+                    <label for="profileType" class="h5">כולל הזזה?</label>
+                    <select id="profileType" class="form-control" ng-model="pIsSliding">
+                        <option>כן</option>
+                        <option>לא</option>
+                    </select>
+                </div>
+
+            </div>
+            <div class="row no-gutters">
+                <div class="form-group col-lg-12">
+                    <div class="row no-gutters">
+                        <div class="col-12">
+                            <label for="remarks" class="h5">הערות</label>
+                            <textarea class="form-control  col-lg-12" rows="2" id="remarks" placeholder="הערות מיוחדות" ng-model="pRemarks"></textarea>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="">
+        <div id="ordetoprint">
+            <div class="row">
+                <div class=" col-lg-11 mx-auto mt-4">
+                    <p class="h3">הזמנה מס:{{newOrder.oNumber}}</p>
+                    <p class="h3">הערות:{{newOrder.oRemarks}}</p>
+                    <p class="h5">להלן רשימת הפריטים להזמנה בבקשה העבירו לי הצעת מחיר</p>
+                    <table class="table table-bordered table-hover">
+                        <thead>
+                            <tr class="table-secondary">
+                                <th>מק"ט</th>
+                                <th>שם</th>
+                                <th>כמות</th>
+                                <th>מחיר</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="" ng-repeat="x in newOrder.oItemList">
+                                <td>{{x.catNo}}</td>
+                                <td>{{x.name}}</td>
+                                <td>{{x.quantity}}</td>
+                                <td></td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+
+                    <p class="h5">בברכה {{userName}}</p>
+                    <p class="h5">טלפון:{{userPhone}}</p>
+                    <p class="h5">מייל:{{userMail}}</p>
 
                 </div>
             </div>
         </div>
-    </form>
+    </div>
 </main>
