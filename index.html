@@ -11,15 +11,19 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt"
         crossorigin="anonymous">
-
+    <link rel="stylesheet" href="./components/ngPrint/ngPrint.min.css">
+    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
+    <script src="./components/ngPrint/ngPrint.min.js"></script>
+    
+    
     <script src="./app/shuttersApp.js"></script>
     <script src="./app/distributors/distCtrl.js"></script>
-    
+
     <script src="./app/contructors/userSrv.js"></script>
     <script src="./app/contructors/userCtrl.js"></script>
 
@@ -69,7 +73,7 @@
                                 <i class="">צור קשר</i>
                             </a>
                         </li>
-                        <li ng-show="!isLoggedIn()"> 
+                        <li ng-show="!isLoggedIn()">
                             <a href="#!/login">
                                 <i class="fa fa-sign-in-alt"></i>
                                 <i class="">כניסת מתקינים</i>

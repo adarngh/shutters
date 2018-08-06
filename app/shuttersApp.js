@@ -1,4 +1,4 @@
-var shuttersApp = angular.module("shuttersApp", ['ngRoute']);
+var shuttersApp = angular.module("shuttersApp", ['ngRoute','ngPrint']);
 shuttersApp.config(function($routeProvider) {
     $routeProvider
     .when("/", {
