@@ -210,7 +210,9 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $routeParams, $location
         var dateText = date.getHours() + ":" + date.getMinutes()+" "+date.getDate()+"/"+ date.getUTCMonth() +"/"+ date.getFullYear() ;
         var newOrder = new orderSrv.Order(orderSrv.getNewOrderNum(), activeUser.cNumber, $scope.pWidth, $scope.pHeight, $scope.pProfileType, $scope.pNoOfWings, tempField, $scope.pColor, $scope.pIsSliding, $scope.pSpruts, $scope.pSprutsHeigt, $scope.pBattery, itemList, dateText, $scope.pRemarks);
         $scope.orderList.push(newOrder);
+        
         $location.path("/orderlist");
+
         var stop = null;
     }
 });

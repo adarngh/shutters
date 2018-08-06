@@ -17,10 +17,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
-    <!-- <script async defer src="https://maps.googleapis.com/maps/api/js?key='AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU'&callback=initMap"></script> -->
     <script src="./app/shuttersApp.js"></script>
     <script src="./app/distributors/distCtrl.js"></script>
-    <!--google map API:AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU-->
+    
     <script src="./app/contructors/userSrv.js"></script>
     <script src="./app/contructors/userCtrl.js"></script>
 
@@ -57,8 +56,8 @@
 
                 <div class="menu-list">
 
-                    <ul id="menu-content" class="menu-content collapse out">
-                        <li>
+                    <ul id="menu-content" class="menu-content collapse">
+                        <li class="">
                             <a href="#!/dist">
                                 <i class="fa fa-list-ul"></i>
                                 <i class="">רשימת משווקים</i>
@@ -70,37 +69,37 @@
                                 <i class="">צור קשר</i>
                             </a>
                         </li>
-                        <li>
+                        <li ng-show="!isLoggedIn()"> 
                             <a href="#!/login">
                                 <i class="fa fa-sign-in-alt"></i>
                                 <i class="">כניסת מתקינים</i>
                             </a>
                         </li>
-                        <li>
+                        <li ng-show="!isLoggedIn()">
                             <a href="#!/signup">
                                 <i class="fa fa-user-plus"></i>
                                 <i class="">הרשמת מתקינים</i>
                             </a>
                         </li>
-                        <li>
+                        <li ng-show="isLoggedIn()">
                             <a href="#">
                                 <i class="fa fa-file-pdf"></i>
                                 <i class="">קטלוג PDF</i>
                             </a>
                         </li>
-                        <li>
+                        <li ng-show="isLoggedIn()">
                             <a href="#!/orderlist">
                                 <i class="fa fa-clipboard-list"></i>
                                 <i class="">הצעות שלי</i>
                             </a>
                         </li>
-                        <li>
+                        <li ng-show="isLoggedIn()">
                             <a href="#!/neworder">
                                 <i class="fa fa-plus-square"></i>
                                 <i class="">הצעה חדשה</i>
                             </a>
                         </li>
-                        <li>
+                        <li ng-show="isLoggedIn()" ng-click="logout()">
                             <a href="#!/logout">
                                 <i class="fa fa-sign-out-alt"></i>
                                 <i class="">יציאה</i>

@@ -4,23 +4,32 @@
             <thead>
                 <tr class="table-primary">
                     <th>שם הספק</th>
+                    <th>כתובת</th>
                     <th>טלפון</th>
                     <th>מייל</th>
                 </tr>
             </thead>
             <tbody>
-                <tr class="" ng-repeat="x in userList" ng-click="getOrderDetails(x)">
-                        <td>{{x.cFirstName+" "+x.cLastName}}</td>
-                        <td>{{x.cAdress+" "+x.cCity}}</td>
-                        <td>{{x.cFirstName+" "+x.cLastName}}</td>
-                    
+                <tr class="" ng-repeat="x in userList" ng-click="showMap(x)">
+                    <td>{{x.cFirstName+" "+x.cLastName}}</td>
+                    <td>{{x.cAdress+" "+x.cCity}}</td>
+                    <td>{{x.cMobile}}</td>
+                    <td>{{x.cMail}}</td>
+
                 </tr>
 
             </tbody>
         </table>
-        <iframe width="600" height="450" frameborder="0" style="border:0" src={{address}} allowfullscreen>
-        </iframe>
+
     </div>
-   
+    <div class="row ">
+        <div class="col-lg-2"></div>
+        <div  class="col-lg-8">
+            <iframe width="100%" height="400vh" frameborder="0" style="border:0" src={{address}} allowfullscreen>
+            </iframe>
+        </div>
+        <div class="col-lg-2"></div>
+    </div>
+
 
 </main>

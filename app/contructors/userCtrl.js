@@ -13,20 +13,26 @@ shuttersApp.controller("userCtrl", function ($scope, $routeParams, $location, us
         }, function () {
             $scope.invalidLogin = true;
         })
+    }
 
-
+    $scope.logout = function () {
+        userSrv.logout() 
     }
 
 
 
 
+    $scope.isLoggedIn = function () {
+        if (userSrv.isLoggedIn()) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
 
     $scope.changeClass = function () {
         return $scope.genNav;
-
-
-
-
     }
 
 

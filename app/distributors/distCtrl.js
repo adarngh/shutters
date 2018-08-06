@@ -1,11 +1,10 @@
-shuttersApp.controller("distCtrl", function ($scope,$sce,userSrv,$routeParams) {
-    // userSrv.getDistList();
-    $scope.userList=userSrv.userList;
-    var userAdress=($scope.userList[0].cAdress+"+"+$scope.userList[0].cCity).replace(/\s+/g, '+');
-    // $scope.address=$sce.trustAsResourceUrl("https://www.google.com/maps/embed/v1/place?key=AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU&q=בילו+16+תל+אביב");
-    $scope.address=$sce.trustAsResourceUrl("https://www.google.com/maps/embed/v1/place?key=AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU&q="+userAdress);
-    
-    
+shuttersApp.controller("distCtrl", function ($scope, $sce, userSrv, $routeParams) {
+    $scope.userList = userSrv.userList;
+    $scope.address = $sce.trustAsResourceUrl("https://www.google.com/maps/embed/v1/place?key=AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU&language=he&zoom=10&q=tel aviv");
+        var userAdress = (xUser.cAdress + "+" + xUser.cCity).replace(/\s+/g, '+');
+        $scope.address = $sce.trustAsResourceUrl("https://www.google.com/maps/embed/v1/place?key=AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU&language=he&zoom=13&q=" + userAdress);
+    }
+    // <!--google map API:AIzaSyDj2_x8-Phi_rdxi2_UBOgDlOydfPEf2BU-->
 
 
 });
