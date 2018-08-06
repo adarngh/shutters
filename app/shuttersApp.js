@@ -10,7 +10,7 @@ shuttersApp.config(function($routeProvider) {
       controller : 'distCtrl'
     })
     .when("/login", {
-      templateUrl : "./app/contructors/logIn.html",
+      templateUrl : "./app/contructors/login.html",
       controller : 'userCtrl'
     })
     .when("/signup", {
