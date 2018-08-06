@@ -7,7 +7,7 @@
                         <u>בבקשה הזן את פרטי ההזמנה</u>
                     </p>
                 </div>
-                <button type="submit" class="btn btn-primary col-lg-2" ng-click="createOrder()">בדוק וצור
+                <button type="button" class="btn btn-primary col-lg-2" ng-click="createOrder()">בדוק וצור
                     <br>דף הזמנה</button>
             </div>
             <div class="row no-gutters">
@@ -111,10 +111,9 @@
             </div>
         </form>
     </div>
-    <div class="">
-        <button type="submit" class="btn btn-primary col-lg-2" ng-print print-element-id="printThisElement">הדפס הזמנה</button>
+    <div class="d-none">
         <div id="ordetoprint">
-            <div class="row">
+            <div class="row mx-4 text-right" dir="auto">
                 <div class=" col-lg-11 mx-auto mt-4">
                     <p class="h3">הזמנה מס:{{newOrder.oNumber}}</p>
                     <p class="h3">הערות:{{newOrder.oRemarks}}</p>
@@ -148,4 +147,5 @@
             </div>
         </div>
     </div>
+    <!-- <button type="button" class="btn btn-primary col-lg-2" ng-print print-element-id="ordetoprint">הדפס הזמנה</button> -->
 </main>
