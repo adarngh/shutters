@@ -1,6 +1,7 @@
 <main>
     <div class="formbg col-lg-11 mx-auto mt-4">
-        <form class="pr-4 pt-4 align-right">
+        <form class="pr-4 pt-4 align-right" name="orderForm">
+                <h1 ng-if="!orderForm.myInput.$valid">The input field cannot be empty</h1>
             <div class="row no-gutters">
                 <div class="col-lg-10">
                     <p class="h3">
@@ -11,7 +12,7 @@
                     <br>דף הזמנה</button>
             </div>
             <div class="row no-gutters">
-                <div class="form-group col-lg-5">
+                <div class="form-group col-xl-3">
                     <label for="pProfileType" class="h5">סוג תריס</label>
                     <select id="pProfileType" class="form-control " ng-model="pProfileType">
                         <option>פרופיל "בורג"</option>
@@ -19,13 +20,13 @@
                     </select>
                 </div>
                 <!-- <div class="col-lg-1"></div> -->
-                <div class="form-group col-lg-7">
+                <div class="form-group col-xl-9">
                     <h5 class="pr-3">גודל מפתח</h5>
                     <div class="row no-gutters pr-3">
                         <label for="pHeight" class="col-form-label h6 ">גובה(ס"מ)</label>
-                        <input type="text" class="form-control col-lg-4" id="pHeight" placeholder="" ng-model="pHeight">
+                        <input type="number" class="form-control col-lg-4 pr-3" id="pHeight" placeholder="" ng-model="pHeight">
                         <label for="pWidth" class="col-form-label h6 pr-4">רוחב(ס"מ)</label>
-                        <input type="text" class="form-control col-lg-4" id="pWidth" placeholder="" ng-model="pWidth">
+                        <input type="number" class="form-control col-lg-4 pr-3" id="pWidth" placeholder="" ng-model="pWidth">
                     </div>
                 </div>
 
@@ -80,7 +81,7 @@
                 </div>
                 <div class="form-group col-lg-3">
                     <label for="workOrderNum" class="h5">גובה בס"מ</label>
-                    <input type="text" class="form-control col-lg-10" id="workOrderNum" placeholder="" ng-model="pSprutsHeigt">
+                    <input type="number" class="form-control col-lg-10" id="workOrderNum" placeholder="" ng-model="pSprutsHeigt">
                 </div>
                 <div class="form-group col-lg-3">
                     <label for="profileType" class="h5">צבע</label>

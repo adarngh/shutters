@@ -12,6 +12,8 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $timeout, $location, or
     $scope.userMail = activeUser.cMail;
     $scope.orderList = orderSrv.orderList;
     $scope.numberOfFields = 1;
+    $scope.pNoOfWings = 1;
+    $scope.pSolarPanels = 1;
     $scope.leverType = new Array(5);
     $scope.fieldArray = [{ "fieldType": $scope.leverType[0] }];
 
@@ -46,10 +48,56 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $timeout, $location, or
         // popupWin.document.close();
     }
 
+    $scope.checkOrder = function () {
+        if (!$scope.pProfileType) {
+            window.alert("יש לבחור פרופיל");
+            return true;
+        }
+        if (!$scope.pHeight || $scope.pHeight < 100) {
+            window.alert("יש להזין גובה/גובה קטן מדי");
+            return true;
+        }
+        if (!$scope.pWidth || $scope.pWidth < 100) {
+            window.alert("יש להזין רוחב/רוחב קטן מדי");
+            return true;
+        }
+        if (!$scope.pBattery) {
+            window.alert("יש להזין רוחב/רוחב קטן מדי");
+            return true;
+        }
+        for(var i1=0; i1<$scope.fieldArray.length;i1++){
+           if(!$scope.leverType[i1]){
+            window.alert("כל כיווני המנופים חייבים להיות מוגדרים");
+            return true;
+           }
+        }
+        if (($scope.pSpruts=="שלם" ||$scope.pSpruts=="שלם" )&&!$scope.pSprutsHeigt) {
+            window.alert("בהגדרת שפרוץ יש להגדיר גובה");
+            return true;
+        }
+        if (!$scope.pColor) {
+            window.alert("חייבים להגדיר צבע");
+            return true;
+        }
+        if (!$scope.pIsSliding) {
+            window.alert("חייבים להגדיר האם תריס הזזה");
+            return true;
+        }
+        
+        
+       
+        return false;
+    }
 
+
+    
     $scope.createOrder = function () {
         var itemList = [];
         var tempField = [];
+        if ($scope.checkOrder()) {
+            return;
+        }
+
 
 
 
@@ -239,7 +287,7 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $timeout, $location, or
         var newOrder = new orderSrv.Order(orderSrv.getNewOrderNum(), activeUser.cNumber, $scope.pWidth, $scope.pHeight, $scope.pProfileType, $scope.pNoOfWings, tempField, $scope.pColor, $scope.pIsSliding, $scope.pSpruts, $scope.pSprutsHeigt, $scope.pBattery, itemList, dateText, $scope.pRemarks);
         $scope.orderList.push(newOrder);
         $scope.newOrder = newOrder;
-        
+
         // $location.path("/orderlist");
         // $timeout(function () { $scope.orderList.push(newOrder) });
         $timeout(function () { printDiv("ordetoprint") });

@@ -11,7 +11,7 @@
         </tr>
       </thead>
       <tbody>
-        <tr class="" ng-repeat="x in orderList | filter: activeUser.cNumber" ng-click="getOrderDetails(x)">
+        <tr class="" ng-repeat="x in orderList | orderBy:'$index':true |filter: activeUser.cNumber" ng-click="getOrderDetails(x)">
           <td>{{x.oNumber.toUpperCase()}}</td>
           <td>{{x.oDateTime}}</td>
           <td>{{x.oRemarks}}</td>
