@@ -43,9 +43,6 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $timeout, $location, or
             + '<link rel="stylesheet" type="text/css" media="screen" href="./app/style.css" /></head><body onload="window.print()" ng-controller="newOrderCtrl">'
             + printContents + '</body></html>');
         popupWin.document.close();
-        // popupWin.document.focus();
-        // popupWin.document.print();
-        // popupWin.document.close();
     }
 
     $scope.checkOrder = function () {

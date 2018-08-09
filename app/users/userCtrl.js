@@ -60,7 +60,7 @@ shuttersApp.controller("userCtrl", function ($scope, $timeout, $location, userSr
     }
 
     checkUserData = function () {
-        if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test($scope.uEmail))){
+        if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test($scope.uEmail))) {
             window.alert("בבקשה הזן כתובת מייל חוקית");
             return (true)
         }
@@ -68,13 +68,22 @@ shuttersApp.controller("userCtrl", function ($scope, $timeout, $location, userSr
             window.alert("הסיסמאות אינן זהות");
             return true;
         }
-        if(!($scope.uMobileArea && $scope.uMobile && $scope.uMobileArea && $scope.uFname && $scope.uLname && $scope.uAddress && $scope.uCity && $scope.uZip )){
+        if (!($scope.uMobileArea && $scope.uMobile && $scope.uMobileArea && $scope.uFname && $scope.uLname && $scope.uAddress && $scope.uCity && $scope.uZip)) {
             window.alert("יש למלא את כל השדות");
             return true;
 
         }
         return false;
 
+    }
+
+    $scope.goToPage = function (page) {
+        if (page == "pdf") {
+            window.open('./app/shared/pdf/pdf.pdf', 'קטלוג', 'resizable,height=500,width=600');
+        }
+        else {
+            $location.path(page);
+        }
     }
 
 

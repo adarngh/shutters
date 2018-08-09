@@ -58,23 +58,13 @@ nav>a{
   .nav-side-menu ul,
   .nav-side-menu li {
     list-style: none;
-    padding: 10px 5px;
+    padding: 10px 5px ;
     margin: 0px;
     line-height: 35px;
     cursor: pointer;
-    /*    
-      .collapsed{
-         .arrow:before{
-                   font-family: FontAwesome;
-                   content: "\f053";
-                   display: inline-block;
-                   padding-left:10px;
-                   padding-right: 10px;
-                   vertical-align: middle;
-                   float:right;
-              }
-       }
-  */
+  }
+  .nav-side-menu li i:first-child {
+    padding-right: 20px
   }
   .nav-side-menu ul :not(collapsed) .arrow:before,
   .nav-side-menu li :not(collapsed) .arrow:before {

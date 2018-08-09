@@ -58,53 +58,53 @@
                 <div class="menu-list">
 
                     <ul id="menu-content" class="menu-content collapse">
-                        <li class="">
-                            <a href="#!/dist">
+                        <li class="" ng-click="goToPage('/dist')">
+                            <!-- <a href="#!/dist"> -->
                                 <i class="fa fa-list-ul"></i>
                                 <i class="">רשימת משווקים</i>
-                            </a>
+                            <!-- </a> -->
                         </li>
-                        <li>
-                            <a href="#!/info">
+                        <li ng-click="goToPage('/info')">
+                            <!-- <a href="#!/info" > -->
                                 <i class="fa fa-info-circle"></i>
                                 <i class="">צור קשר</i>
-                            </a>
+                            <!-- </a> -->
                         </li>
-                        <li ng-show="!isLoggedIn()">
-                            <a href="#!/login">
+                        <li ng-show="!isLoggedIn()" ng-click="goToPage('/login')">
+                            <!-- <a href="#!/login"> -->
                                 <i class="fa fa-sign-in-alt"></i>
                                 <i class="">כניסת מתקינים</i>
-                            </a>
+                            <!-- </a> -->
                         </li>
-                        <li ng-show="!isLoggedIn()">
-                            <a href="#!/signup">
+                        <li ng-show="!isLoggedIn()" ng-click="goToPage('/signup')">
+                            <!-- <a href="#!/signup"> -->
                                 <i class="fa fa-user-plus"></i>
                                 <i class="">הרשמת מתקינים</i>
-                            </a>
+                            <!-- </a> -->
                         </li>
-                        <li ng-show="isLoggedIn()">
-                            <a href="#" target="_blank" onClick="window.open('./app/shared/pdf/pdf.pdf','קטלוג','resizable,height=500,width=600'); return false;">
+                        <li ng-show="isLoggedIn()" ng-click="goToPage('pdf')">
+                            <!-- <a href="#" target="_blank" onClick="window.open('./app/shared/pdf/pdf.pdf','קטלוג','resizable,height=500,width=600'); return false;"> -->
                                 <i class="fa fa-file-pdf"></i>
                                 <i class="">קטלוג PDF</i>
-                            </a>
+                            <!-- </a> -->
                         </li>
-                        <li ng-show="isLoggedIn()">
-                            <a href="#!/orderlist">
+                        <li ng-show="isLoggedIn()" ng-click="goToPage('/orderlist')">
+                            <!-- <a href="#!/orderlist"> -->
                                 <i class="fa fa-clipboard-list"></i>
                                 <i class="">הצעות שלי</i>
-                            </a>
+                            <!-- </a> -->
                         </li>
-                        <li ng-show="isLoggedIn()">
-                            <a href="#!/neworder">
+                        <li ng-show="isLoggedIn()" ng-click="goToPage('/neworder')">
+                            <!-- <a href="#!/neworder"> -->
                                 <i class="fa fa-plus-square"></i>
                                 <i class="">הצעה חדשה</i>
-                            </a>
+                            <!-- </a> -->
                         </li>
                         <li ng-show="isLoggedIn()" ng-click="logout()">
-                            <a href="#!/logout">
+                            <!-- <a href="#!/logout"> -->
                                 <i class="fa fa-sign-out-alt"></i>
                                 <i class="">יציאה</i>
-                            </a>
+                            <!-- </a> -->
                         </li>
                     </ul>
                 </div>
