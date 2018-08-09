@@ -284,7 +284,7 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $timeout, $location, or
         var newOrder = new orderSrv.Order(orderSrv.getNewOrderNum(), activeUser.cNumber, $scope.pWidth, $scope.pHeight, $scope.pProfileType, $scope.pNoOfWings, tempField, $scope.pColor, $scope.pIsSliding, $scope.pSpruts, $scope.pSprutsHeigt, $scope.pBattery, itemList, dateText, $scope.pRemarks);
         $scope.orderList.push(newOrder);
         $scope.newOrder = newOrder;
-
+        $timeout(function () { printDiv("ordetoprint") });
         $timeout(function () { $location.path("/orderlist") });
 
     }
