@@ -52,9 +52,4 @@ shuttersApp.factory("orderSrv", function ($http, $q) {
         getNewOrderNum: getNewOrderNum
     }
 
-
-
-
-
-
 });

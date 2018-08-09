@@ -86,12 +86,4 @@ shuttersApp.controller("userCtrl", function ($scope, $timeout, $location, userSr
         }
     }
 
-
-
-
-
-
-
-
-
 });

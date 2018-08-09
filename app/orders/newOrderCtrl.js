@@ -285,9 +285,6 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $timeout, $location, or
         $scope.orderList.push(newOrder);
         $scope.newOrder = newOrder;
 
-        // $location.path("/orderlist");
-        // $timeout(function () { $scope.orderList.push(newOrder) });
-        $timeout(function () { printDiv("ordetoprint") });
         $timeout(function () { $location.path("/orderlist") });
 
     }

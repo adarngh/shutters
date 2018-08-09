@@ -78,14 +78,5 @@ shuttersApp.controller("orderCtrl", function ($scope, $routeParams,$location, or
                 });
             }
         }
-    } 
-    
-    
-
-
-
-
-
-
-
+    }    
 })
