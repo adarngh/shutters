@@ -62,7 +62,7 @@ shuttersApp.controller("newOrderCtrl", function ($scope, $timeout, $location, or
             return true;
         }
         if (!$scope.pBattery) {
-            window.alert("יש להזין רוחב/רוחב קטן מדי");
+            window.alert("בבקשה לבחור קיבולת סוללה");
             return true;
         }
         for(var i1=0; i1<$scope.fieldArray.length;i1++){

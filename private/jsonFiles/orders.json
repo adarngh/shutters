@@ -83,7 +83,7 @@
             }
         ],
         "oDateTime": "14:4 4/7/2018",
-        "oRemarks": "55555"
+        "oRemarks": "חברה חדשה 5 קומה 4"
     },
     {
         "oNumber": "bko-000-008",
@@ -158,7 +158,7 @@
             }
         ],
         "oDateTime": "14:4 5/7/2018",
-        "oRemarks": "2222"
+        "oRemarks": "גור 9 קומה 3"
     },
     {
         "oNumber": "bko-000-009",
@@ -243,7 +243,7 @@
             }
         ],
         "oDateTime": "14:4 4/7/2018",
-        "oRemarks": "55555"
+        "oRemarks": "שרת 64 קומה 2"
     },{
         "oNumber": "bko-000-010",
         "oOrderOwner": "cons-0001",
@@ -327,7 +327,7 @@
             }
         ],
         "oDateTime": "14:4 4/7/2018",
-        "oRemarks": "55555"
+        "oRemarks": "שמעוני 5 - קומה 2 - לא החליט לבן או אפור"
     },{
         "oNumber": "bko-000-011",
         "oOrderOwner": "cons-0001",
@@ -411,6 +411,6 @@
             }
         ],
         "oDateTime": "14:4 4/7/2018",
-        "oRemarks": "55555"
+        "oRemarks": "דמו"
     }
 ]

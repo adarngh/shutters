@@ -1,0 +1,6367 @@
+[
+    {
+      "SettlementNo": 967,
+      "SettlementNam": "אבו ג'ווייעד )שבט(",
+      "SettlementNameEng": "ABU JUWEI'ID"
+    },
+    {
+      "SettlementNo": 472,
+      "SettlementNam": "אבו גוש",
+      "SettlementNameEng": "ABU GHOSH"
+    },
+    {
+      "SettlementNo": 473,
+      "SettlementNam": "אבו סנאן",
+      "SettlementNameEng": "ABU SINAN"
+    },
+    {
+      "SettlementNo": 935,
+      "SettlementNam": "אבו סריחאן )שבט(",
+      "SettlementNameEng": "ABU SUREIHAN"
+    },
+    {
+      "SettlementNo": 958,
+      "SettlementNam": "אבו עבדון )שבט(",
+      "SettlementNameEng": "ABU  ABDUN"
+    },
+    {
+      "SettlementNo": 1042,
+      "SettlementNam": "אבו עמאר )שבט(",
+      "SettlementNameEng": "ABU  AMMAR"
+    },
+    {
+      "SettlementNo": 932,
+      "SettlementNam": "אבו עמרה )שבט(",
+      "SettlementNameEng": "ABU  AMRE"
+    },
+    {
+      "SettlementNo": 968,
+      "SettlementNam": "אבו קורינאת )שבט(",
+      "SettlementNameEng": "ABU QUREINAT"
+    },
+    {
+      "SettlementNo": 1342,
+      "SettlementNam": "אבו קרינאת )יישוב(",
+      "SettlementNameEng": "ABU QUREINAT"
+    },
+    {
+      "SettlementNo": 966,
+      "SettlementNam": "אבו רובייעה )שבט(",
+      "SettlementNameEng": "ABU RUBEI'A"
+    },
+    {
+      "SettlementNo": 961,
+      "SettlementNam": "אבו רוקייק )שבט(",
+      "SettlementNameEng": "ABU RUQAYYEQ"
+    },
+    {
+      "SettlementNo": 1375,
+      "SettlementNam": "אבו תלול",
+      "SettlementNameEng": "ABU TULUL"
+    },
+    {
+      "SettlementNo": 652,
+      "SettlementNam": "אבטין",
+      "SettlementNameEng": "IBTIN"
+    },
+    {
+      "SettlementNo": 1275,
+      "SettlementNam": "אבטליון",
+      "SettlementNameEng": "AVTALYON"
+    },
+    {
+      "SettlementNo": 679,
+      "SettlementNam": "אביאל",
+      "SettlementNameEng": "AVI'EL"
+    },
+    {
+      "SettlementNo": 1115,
+      "SettlementNam": "אביבים",
+      "SettlementNameEng": "AVIVIM"
+    },
+    {
+      "SettlementNo": 819,
+      "SettlementNam": "אביגדור",
+      "SettlementNameEng": "AVIGEDOR"
+    },
+    {
+      "SettlementNo": 175,
+      "SettlementNam": "אביחיל",
+      "SettlementNameEng": "AVIHAYIL"
+    },
+    {
+      "SettlementNo": 2052,
+      "SettlementNam": "אביטל",
+      "SettlementNameEng": "AVITAL"
+    },
+    {
+      "SettlementNo": 1070,
+      "SettlementNam": "אביעזר",
+      "SettlementNameEng": "AVI'EZER"
+    },
+    {
+      "SettlementNo": 1220,
+      "SettlementNam": "אבירים",
+      "SettlementNameEng": "ABBIRIM"
+    },
+    {
+      "SettlementNo": 182,
+      "SettlementNam": "אבן יהודה",
+      "SettlementNameEng": "EVEN YEHUDA"
+    },
+    {
+      "SettlementNo": 1081,
+      "SettlementNam": "אבן מנחם",
+      "SettlementNameEng": "EVEN MENAHEM"
+    },
+    {
+      "SettlementNo": 783,
+      "SettlementNam": "אבן ספיר",
+      "SettlementNameEng": "EVEN SAPPIR"
+    },
+    {
+      "SettlementNo": 400,
+      "SettlementNam": "אבן שמואל",
+      "SettlementNameEng": "EVEN SHEMU'EL"
+    },
+    {
+      "SettlementNo": 4011,
+      "SettlementNam": "אבני איתן",
+      "SettlementNameEng": "AVNE ETAN"
+    },
+    {
+      "SettlementNo": 3793,
+      "SettlementNam": "אבני חפץ",
+      "SettlementNameEng": "AVNE HEFEZ"
+    },
+    {
+      "SettlementNo": 3786,
+      "SettlementNam": "אבנת",
+      "SettlementNameEng": "AVENAT"
+    },
+    {
+      "SettlementNo": 1311,
+      "SettlementNam": "אבשלום",
+      "SettlementNameEng": "AVSHALOM"
+    },
+    {
+      "SettlementNo": 3759,
+      "SettlementNam": "אדורה",
+      "SettlementNameEng": "ADORA"
+    },
+    {
+      "SettlementNo": 113,
+      "SettlementNam": "אדירים",
+      "SettlementNameEng": "ADDIRIM"
+    },
+    {
+      "SettlementNo": 1068,
+      "SettlementNam": "אדמית",
+      "SettlementNameEng": "ADAMIT"
+    },
+    {
+      "SettlementNo": 1123,
+      "SettlementNam": "אדרת",
+      "SettlementNameEng": "ADDERET"
+    },
+    {
+      "SettlementNo": 446,
+      "SettlementNam": "אודים",
+      "SettlementNameEng": "UDIM"
+    },
+    {
+      "SettlementNo": 4010,
+      "SettlementNam": "אודם",
+      "SettlementNameEng": "ODEM"
+    },
+    {
+      "SettlementNo": 1046,
+      "SettlementNam": "אוהד",
+      "SettlementNameEng": "OHAD"
+    },
+    {
+      "SettlementNo": 2710,
+      "SettlementNam": "אום אל-פחם",
+      "SettlementNameEng": "UMM AL-FAHM"
+    },
+    {
+      "SettlementNo": 2024,
+      "SettlementNam": "אום אל-קוטוף",
+      "SettlementNameEng": "UMM AL-QUTUF"
+    },
+    {
+      "SettlementNo": 1358,
+      "SettlementNam": "אום בטין",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1108,
+      "SettlementNam": "אומן",
+      "SettlementNameEng": "OMEN"
+    },
+    {
+      "SettlementNo": 680,
+      "SettlementNam": "אומץ",
+      "SettlementNameEng": "OMEZ"
+    },
+    {
+      "SettlementNo": 31,
+      "SettlementNam": "אופקים",
+      "SettlementNameEng": "OFAQIM"
+    },
+    {
+      "SettlementNo": 1294,
+      "SettlementNam": "אור הגנוז",
+      "SettlementNameEng": "OR HAGANUZ"
+    },
+    {
+      "SettlementNo": 67,
+      "SettlementNam": "אור הנר",
+      "SettlementNameEng": "OR HANER"
+    },
+    {
+      "SettlementNo": 2400,
+      "SettlementNam": "אור יהודה",
+      "SettlementNameEng": "OR YEHUDA"
+    },
+    {
+      "SettlementNo": 1020,
+      "SettlementNam": "אור עקיבא",
+      "SettlementNameEng": "OR AQIVA"
+    },
+    {
+      "SettlementNo": 780,
+      "SettlementNam": "אורה",
+      "SettlementNameEng": "ORA"
+    },
+    {
+      "SettlementNo": 2012,
+      "SettlementNam": "אורות",
+      "SettlementNameEng": "OROT"
+    },
+    {
+      "SettlementNo": 4013,
+      "SettlementNam": "אורטל",
+      "SettlementNameEng": "ORTAL"
+    },
+    {
+      "SettlementNo": 403,
+      "SettlementNam": "אורים",
+      "SettlementNameEng": "URIM"
+    },
+    {
+      "SettlementNo": 882,
+      "SettlementNam": "אורנים",
+      "SettlementNameEng": "ORANIM"
+    },
+    {
+      "SettlementNo": 3760,
+      "SettlementNam": "אורנית",
+      "SettlementNameEng": "ORANIT"
+    },
+    {
+      "SettlementNo": 278,
+      "SettlementNam": "אושה",
+      "SettlementNameEng": "USHA"
+    },
+    {
+      "SettlementNo": 565,
+      "SettlementNam": "אזור",
+      "SettlementNameEng": "AZOR"
+    },
+    {
+      "SettlementNo": 1157,
+      "SettlementNam": "אחווה",
+      "SettlementNameEng": "AHAWA"
+    },
+    {
+      "SettlementNo": 821,
+      "SettlementNam": "אחוזם",
+      "SettlementNameEng": "AHUZZAM"
+    },
+    {
+      "SettlementNo": 1330,
+      "SettlementNam": "אחוזת ברק",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 785,
+      "SettlementNam": "אחיהוד",
+      "SettlementNameEng": "AHIHUD"
+    },
+    {
+      "SettlementNo": 850,
+      "SettlementNam": "אחיטוב",
+      "SettlementNameEng": "AHITUV"
+    },
+    {
+      "SettlementNo": 804,
+      "SettlementNam": "אחיסמך",
+      "SettlementNameEng": "AHISAMAKH"
+    },
+    {
+      "SettlementNo": 797,
+      "SettlementNam": "אחיעזר",
+      "SettlementNameEng": "AHI'EZER"
+    },
+    {
+      "SettlementNo": 965,
+      "SettlementNam": "אטרש )שבט(",
+      "SettlementNameEng": "ATRASH"
+    },
+    {
+      "SettlementNo": 338,
+      "SettlementNam": "איבים",
+      "SettlementNameEng": "IBBIM"
+    },
+    {
+      "SettlementNo": 716,
+      "SettlementNam": "אייל",
+      "SettlementNameEng": "EYAL"
+    },
+    {
+      "SettlementNo": 77,
+      "SettlementNam": "איילת השחר",
+      "SettlementNameEng": "AYYELET HASHAHAR"
+    },
+    {
+      "SettlementNo": 294,
+      "SettlementNam": "אילון",
+      "SettlementNameEng": "ELON"
+    },
+    {
+      "SettlementNo": 1126,
+      "SettlementNam": "אילות",
+      "SettlementNameEng": "ELOT"
+    },
+    {
+      "SettlementNo": 49,
+      "SettlementNam": "אילניה",
+      "SettlementNameEng": "ILANIYYA"
+    },
+    {
+      "SettlementNo": 2600,
+      "SettlementNam": "אילת",
+      "SettlementNameEng": "ELAT"
+    },
+    {
+      "SettlementNo": 1336,
+      "SettlementNam": "אירוס",
+      "SettlementNameEng": "IRUS"
+    },
+    {
+      "SettlementNo": 3762,
+      "SettlementNam": "איתמר",
+      "SettlementNameEng": "ITAMAR"
+    },
+    {
+      "SettlementNo": 37,
+      "SettlementNam": "איתן",
+      "SettlementNameEng": "ETAN"
+    },
+    {
+      "SettlementNo": 886,
+      "SettlementNam": "איתנים",
+      "SettlementNameEng": "ETANIM"
+    },
+    {
+      "SettlementNo": 478,
+      "SettlementNam": "אכסאל",
+      "SettlementNameEng": "IKSAL"
+    },
+    {
+      "SettlementNo": 1359,
+      "SettlementNam": "אל סייד",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1339,
+      "SettlementNam": "אל-עזי",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1316,
+      "SettlementNam": "אל-עריאן",
+      "SettlementNameEng": "AL-ARYAN"
+    },
+    {
+      "SettlementNo": 4003,
+      "SettlementNam": "אל-רום",
+      "SettlementNameEng": "EL-ROM"
+    },
+    {
+      "SettlementNo": 1145,
+      "SettlementNam": "אלומה",
+      "SettlementNameEng": "ALUMMA"
+    },
+    {
+      "SettlementNo": 330,
+      "SettlementNam": "אלומות",
+      "SettlementNameEng": "ALUMMOT"
+    },
+    {
+      "SettlementNo": 1182,
+      "SettlementNam": "אלון הגליל",
+      "SettlementNameEng": "ALLON HAGALIL"
+    },
+    {
+      "SettlementNo": 3579,
+      "SettlementNam": "אלון מורה",
+      "SettlementNameEng": "ELON MORE"
+    },
+    {
+      "SettlementNo": 3604,
+      "SettlementNam": "אלון שבות",
+      "SettlementNameEng": "ALLON SHEVUT"
+    },
+    {
+      "SettlementNo": 429,
+      "SettlementNam": "אלוני אבא",
+      "SettlementNameEng": "ALLONE ABBA"
+    },
+    {
+      "SettlementNo": 4017,
+      "SettlementNam": "אלוני הבשן",
+      "SettlementNameEng": "ALLONE HABASHAN"
+    },
+    {
+      "SettlementNo": 868,
+      "SettlementNam": "אלוני יצחק",
+      "SettlementNameEng": "ALLONE YIZHAQ"
+    },
+    {
+      "SettlementNo": 285,
+      "SettlementNam": "אלונים",
+      "SettlementNameEng": "ALLONIM"
+    },
+    {
+      "SettlementNo": 4002,
+      "SettlementNam": "אלי-עד",
+      "SettlementNameEng": "ELI AL"
+    },
+    {
+      "SettlementNo": 1365,
+      "SettlementNam": "אליאב",
+      "SettlementNameEng": "ELIAV"
+    },
+    {
+      "SettlementNo": 41,
+      "SettlementNam": "אליכין",
+      "SettlementNameEng": "ELYAKHIN"
+    },
+    {
+      "SettlementNo": 1248,
+      "SettlementNam": "אליפז",
+      "SettlementNameEng": "ELIFAZ"
+    },
+    {
+      "SettlementNo": 730,
+      "SettlementNam": "אליפלט",
+      "SettlementNameEng": "ELIFELET"
+    },
+    {
+      "SettlementNo": 682,
+      "SettlementNam": "אליקים",
+      "SettlementNameEng": "ELYAQIM"
+    },
+    {
+      "SettlementNo": 204,
+      "SettlementNam": "אלישיב",
+      "SettlementNameEng": "ELYASHIV"
+    },
+    {
+      "SettlementNo": 841,
+      "SettlementNam": "אלישמע",
+      "SettlementNameEng": "ELISHAMA"
+    },
+    {
+      "SettlementNo": 1125,
+      "SettlementNam": "אלמגור",
+      "SettlementNameEng": "ALMAGOR"
+    },
+    {
+      "SettlementNo": 3556,
+      "SettlementNam": "אלמוג",
+      "SettlementNameEng": "ALMOG"
+    },
+    {
+      "SettlementNo": 1309,
+      "SettlementNam": "אלעד",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 3618,
+      "SettlementNam": "אלעזר",
+      "SettlementNameEng": "EL'AZAR"
+    },
+    {
+      "SettlementNo": 3750,
+      "SettlementNam": "אלפי מנשה",
+      "SettlementNameEng": "ALFE MENASHE"
+    },
+    {
+      "SettlementNo": 603,
+      "SettlementNam": "אלקוש",
+      "SettlementNameEng": "ELQOSH"
+    },
+    {
+      "SettlementNo": 3560,
+      "SettlementNam": "אלקנה",
+      "SettlementNameEng": "ELQANA"
+    },
+    {
+      "SettlementNo": 772,
+      "SettlementNam": "אמונים",
+      "SettlementNameEng": "EMUNIM"
+    },
+    {
+      "SettlementNo": 1064,
+      "SettlementNam": "אמירים",
+      "SettlementNameEng": "AMIRIM"
+    },
+    {
+      "SettlementNo": 1253,
+      "SettlementNam": "אמנון",
+      "SettlementNameEng": "AMNUN"
+    },
+    {
+      "SettlementNo": 23,
+      "SettlementNam": "אמציה",
+      "SettlementNameEng": "AMAZYA"
+    },
+    {
+      "SettlementNo": 4012,
+      "SettlementNam": "אניעם",
+      "SettlementNameEng": "ANI'AM"
+    },
+    {
+      "SettlementNo": 960,
+      "SettlementNam": "אסד )שבט(",
+      "SettlementNameEng": "ASAD"
+    },
+    {
+      "SettlementNo": 3754,
+      "SettlementNam": "אספר",
+      "SettlementNameEng": "ASEFAR"
+    },
+    {
+      "SettlementNo": 529,
+      "SettlementNam": "אעבלין",
+      "SettlementNameEng": "I'BILLIN"
+    },
+    {
+      "SettlementNo": 963,
+      "SettlementNam": "אעצם )שבט(",
+      "SettlementNameEng": "A'SAM"
+    },
+    {
+      "SettlementNo": 959,
+      "SettlementNam": "אפיניש )שבט(",
+      "SettlementNameEng": "AFEINISH"
+    },
+    {
+      "SettlementNo": 4301,
+      "SettlementNam": "אפיק",
+      "SettlementNameEng": "AFIQ"
+    },
+    {
+      "SettlementNo": 176,
+      "SettlementNam": "אפיקים",
+      "SettlementNameEng": "AFIQIM"
+    },
+    {
+      "SettlementNo": 313,
+      "SettlementNam": "אפק",
+      "SettlementNameEng": "AFEQ"
+    },
+    {
+      "SettlementNo": 3650,
+      "SettlementNam": "אפרת",
+      "SettlementNameEng": "EFRAT"
+    },
+    {
+      "SettlementNo": 701,
+      "SettlementNam": "ארבל",
+      "SettlementNameEng": "ARBEL"
+    },
+    {
+      "SettlementNo": 3598,
+      "SettlementNam": "ארגמן",
+      "SettlementNameEng": "ARGAMAN"
+    },
+    {
+      "SettlementNo": 714,
+      "SettlementNam": "ארז",
+      "SettlementNameEng": "EREZ"
+    },
+    {
+      "SettlementNo": 3570,
+      "SettlementNam": "אריאל",
+      "SettlementNameEng": "ARI'EL"
+    },
+    {
+      "SettlementNo": 1324,
+      "SettlementNam": "ארסוף",
+      "SettlementNameEng": "ARSUF"
+    },
+    {
+      "SettlementNo": 71,
+      "SettlementNam": "אשבול",
+      "SettlementNameEng": "ESHBOL"
+    },
+    {
+      "SettlementNo": 1276,
+      "SettlementNam": "אשבל",
+      "SettlementNameEng": "NAHAL ESHBAL"
+    },
+    {
+      "SettlementNo": 70,
+      "SettlementNam": "אשדוד",
+      "SettlementNameEng": "ASHDOD"
+    },
+    {
+      "SettlementNo": 199,
+      "SettlementNam": "אשדות יעקב  )איחוד(",
+      "SettlementNameEng": "ASHDOT YA'AQOV(IHUD)"
+    },
+    {
+      "SettlementNo": 188,
+      "SettlementNam": "אשדות יעקב  )מאוחד(",
+      "SettlementNameEng": "ASHDOT YA'AQOV(ME'UH"
+    },
+    {
+      "SettlementNo": 1188,
+      "SettlementNam": "אשחר",
+      "SettlementNameEng": "ESHHAR"
+    },
+    {
+      "SettlementNo": 3722,
+      "SettlementNam": "אשכולות",
+      "SettlementNameEng": "ESHKOLOT"
+    },
+    {
+      "SettlementNo": 2021,
+      "SettlementNam": "אשל הנשיא",
+      "SettlementNameEng": "ESHEL HANASI"
+    },
+    {
+      "SettlementNo": 1152,
+      "SettlementNam": "אשלים",
+      "SettlementNameEng": "ASHALIM"
+    },
+    {
+      "SettlementNo": 7100,
+      "SettlementNam": "אשקלון",
+      "SettlementNameEng": "ASHQELON"
+    },
+    {
+      "SettlementNo": 1256,
+      "SettlementNam": "אשרת",
+      "SettlementNameEng": "ASHERAT"
+    },
+    {
+      "SettlementNo": 740,
+      "SettlementNam": "אשתאול",
+      "SettlementNameEng": "ESHTA'OL"
+    },
+    {
+      "SettlementNo": 1298,
+      "SettlementNam": "אתגר",
+      "SettlementNameEng": "ETGAR"
+    },
+    {
+      "SettlementNo": 6000,
+      "SettlementNam": "באקה אל-גרביה",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 21,
+      "SettlementNam": "באר אורה",
+      "SettlementNameEng": "BE'ER ORA"
+    },
+    {
+      "SettlementNo": 1376,
+      "SettlementNam": "באר גנים",
+      "SettlementNameEng": "BEER GANNIM"
+    },
+    {
+      "SettlementNo": 155,
+      "SettlementNam": "באר טוביה",
+      "SettlementNameEng": "BE'ER TUVEYA"
+    },
+    {
+      "SettlementNo": 2530,
+      "SettlementNam": "באר יעקב",
+      "SettlementNameEng": "BE'ER YA'AQOV"
+    },
+    {
+      "SettlementNo": 1278,
+      "SettlementNam": "באר מילכה",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 9000,
+      "SettlementNam": "באר שבע",
+      "SettlementNameEng": "BE'ER SHEVA"
+    },
+    {
+      "SettlementNo": 450,
+      "SettlementNam": "בארות יצחק",
+      "SettlementNameEng": "BE'EROT YIZHAQ"
+    },
+    {
+      "SettlementNo": 697,
+      "SettlementNam": "בארותיים",
+      "SettlementNameEng": "BE'EROTAYIM"
+    },
+    {
+      "SettlementNo": 399,
+      "SettlementNam": "בארי",
+      "SettlementNameEng": "BE'ERI"
+    },
+    {
+      "SettlementNo": 559,
+      "SettlementNam": "בוסתן הגליל",
+      "SettlementNameEng": "BUSTAN HAGALIL"
+    },
+    {
+      "SettlementNo": 482,
+      "SettlementNam": "בועיינה-נוג'ידאת",
+      "SettlementNameEng": "BU'EINE-NUJEIDAT"
+    },
+    {
+      "SettlementNo": 4001,
+      "SettlementNam": "בוקעאתא",
+      "SettlementNameEng": "BUQ'ATA"
+    },
+    {
+      "SettlementNo": 698,
+      "SettlementNam": "בורגתה",
+      "SettlementNameEng": "BURGETA"
+    },
+    {
+      "SettlementNo": 2043,
+      "SettlementNam": "בחן",
+      "SettlementNameEng": "BAHAN"
+    },
+    {
+      "SettlementNo": 762,
+      "SettlementNam": "בטחה",
+      "SettlementNameEng": "BITHA"
+    },
+    {
+      "SettlementNo": 234,
+      "SettlementNam": "ביצרון",
+      "SettlementNameEng": "BIZZARON"
+    },
+    {
+      "SettlementNo": 998,
+      "SettlementNam": "ביר אל-מכסור",
+      "SettlementNameEng": "BIR EL-MAKSUR"
+    },
+    {
+      "SettlementNo": 1348,
+      "SettlementNam": "ביר הדאג'",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 368,
+      "SettlementNam": "ביריה",
+      "SettlementNameEng": "BIRIYYA"
+    },
+    {
+      "SettlementNo": 317,
+      "SettlementNam": "בית אורן",
+      "SettlementNameEng": "BET OREN"
+    },
+    {
+      "SettlementNo": 3574,
+      "SettlementNam": "בית אל",
+      "SettlementNameEng": "BET EL"
+    },
+    {
+      "SettlementNo": 562,
+      "SettlementNam": "בית אלעזרי",
+      "SettlementNameEng": "BET EL'AZARI"
+    },
+    {
+      "SettlementNo": 95,
+      "SettlementNam": "בית אלפא",
+      "SettlementNameEng": "BET ALFA"
+    },
+    {
+      "SettlementNo": 3652,
+      "SettlementNam": "בית אריה",
+      "SettlementNameEng": "BET ARYE"
+    },
+    {
+      "SettlementNo": 1076,
+      "SettlementNam": "בית ברל",
+      "SettlementNameEng": "BET BERL"
+    },
+    {
+      "SettlementNo": 480,
+      "SettlementNam": "בית ג'ן",
+      "SettlementNameEng": "BEIT JANN"
+    },
+    {
+      "SettlementNo": 619,
+      "SettlementNam": "בית גוברין",
+      "SettlementNameEng": "BET GUVRIN"
+    },
+    {
+      "SettlementNo": 571,
+      "SettlementNam": "בית גמליאל",
+      "SettlementNameEng": "BET GAMLI'EL"
+    },
+    {
+      "SettlementNo": 466,
+      "SettlementNam": "בית דגן",
+      "SettlementNameEng": "BET DAGAN"
+    },
+    {
+      "SettlementNo": 723,
+      "SettlementNam": "בית הגדי",
+      "SettlementNameEng": "BET HAGADDI"
+    },
+    {
+      "SettlementNo": 373,
+      "SettlementNam": "בית הלוי",
+      "SettlementNameEng": "BET HALEVI"
+    },
+    {
+      "SettlementNo": 322,
+      "SettlementNam": "בית הלל",
+      "SettlementNameEng": "BET HILLEL"
+    },
+    {
+      "SettlementNo": 572,
+      "SettlementNam": "בית העמק",
+      "SettlementNameEng": "BET HAEMEQ"
+    },
+    {
+      "SettlementNo": 3645,
+      "SettlementNam": "בית הערבה",
+      "SettlementNameEng": "BET HAARAVA"
+    },
+    {
+      "SettlementNo": 242,
+      "SettlementNam": "בית השיטה",
+      "SettlementNameEng": "BET HASHITTA"
+    },
+    {
+      "SettlementNo": 353,
+      "SettlementNam": "בית זיד",
+      "SettlementNameEng": "BET ZEID"
+    },
+    {
+      "SettlementNo": 710,
+      "SettlementNam": "בית זית",
+      "SettlementNameEng": "BET ZAYIT"
+    },
+    {
+      "SettlementNo": 143,
+      "SettlementNam": "בית זרע",
+      "SettlementNameEng": "BET ZERA"
+    },
+    {
+      "SettlementNo": 3575,
+      "SettlementNam": "בית חורון",
+      "SettlementNameEng": "BET HORON"
+    },
+    {
+      "SettlementNo": 877,
+      "SettlementNam": "בית חירות",
+      "SettlementNameEng": "BET HERUT"
+    },
+    {
+      "SettlementNo": 2033,
+      "SettlementNam": "בית חלקיה",
+      "SettlementNameEng": "BET HILQIYYA"
+    },
+    {
+      "SettlementNo": 159,
+      "SettlementNam": "בית חנן",
+      "SettlementNameEng": "BET HANAN"
+    },
+    {
+      "SettlementNo": 800,
+      "SettlementNam": "בית חנניה",
+      "SettlementNameEng": "BET HANANYA"
+    },
+    {
+      "SettlementNo": 1050,
+      "SettlementNam": "בית חשמונאי",
+      "SettlementNameEng": "BET HASHMONAY"
+    },
+    {
+      "SettlementNo": 288,
+      "SettlementNam": "בית יהושע",
+      "SettlementNameEng": "BET YEHOSHUA"
+    },
+    {
+      "SettlementNo": 265,
+      "SettlementNam": "בית יוסף",
+      "SettlementNameEng": "BET YOSEF"
+    },
+    {
+      "SettlementNo": 200,
+      "SettlementNam": "בית ינאי",
+      "SettlementNameEng": "BET YANNAY"
+    },
+    {
+      "SettlementNo": 326,
+      "SettlementNam": "בית יצחק-שער חפר",
+      "SettlementNameEng": "BET YIZHAQ-SH. HEFER"
+    },
+    {
+      "SettlementNo": 430,
+      "SettlementNam": "בית לחם הגלילית",
+      "SettlementNameEng": "BET LEHEM HAGELILIT"
+    },
+    {
+      "SettlementNo": 751,
+      "SettlementNam": "בית מאיר",
+      "SettlementNameEng": "BET ME'IR"
+    },
+    {
+      "SettlementNo": 784,
+      "SettlementNam": "בית נחמיה",
+      "SettlementNameEng": "BET NEHEMYA"
+    },
+    {
+      "SettlementNo": 16,
+      "SettlementNam": "בית ניר",
+      "SettlementNameEng": "BET NIR"
+    },
+    {
+      "SettlementNo": 672,
+      "SettlementNam": "בית נקופה",
+      "SettlementNameEng": "BET NEQOFA"
+    },
+    {
+      "SettlementNo": 202,
+      "SettlementNam": "בית עובד",
+      "SettlementNameEng": "BET OVED"
+    },
+    {
+      "SettlementNo": 301,
+      "SettlementNam": "בית עוזיאל",
+      "SettlementNameEng": "BET UZZI'EL"
+    },
+    {
+      "SettlementNo": 756,
+      "SettlementNam": "בית עזרא",
+      "SettlementNameEng": "BET EZRA"
+    },
+    {
+      "SettlementNo": 604,
+      "SettlementNam": "בית עריף",
+      "SettlementNameEng": "BET ARIF"
+    },
+    {
+      "SettlementNo": 212,
+      "SettlementNam": "בית צבי",
+      "SettlementNameEng": "BET ZEVI"
+    },
+    {
+      "SettlementNo": 598,
+      "SettlementNam": "בית קמה",
+      "SettlementNameEng": "BET QAMA"
+    },
+    {
+      "SettlementNo": 365,
+      "SettlementNam": "בית קשת",
+      "SettlementNameEng": "BET QESHET"
+    },
+    {
+      "SettlementNo": 848,
+      "SettlementNam": "בית רבן",
+      "SettlementNameEng": "BET RABBAN"
+    },
+    {
+      "SettlementNo": 1162,
+      "SettlementNam": "בית רימון",
+      "SettlementNameEng": "BET RIMMON"
+    },
+    {
+      "SettlementNo": 9200,
+      "SettlementNam": "בית שאן",
+      "SettlementNameEng": "BET SHE'AN"
+    },
+    {
+      "SettlementNo": 2610,
+      "SettlementNam": "בית שמש",
+      "SettlementNameEng": "BET SHEMESH"
+    },
+    {
+      "SettlementNo": 248,
+      "SettlementNam": "בית שערים",
+      "SettlementNameEng": "BET SHE'ARIM"
+    },
+    {
+      "SettlementNo": 747,
+      "SettlementNam": "בית שקמה",
+      "SettlementNameEng": "BET SHIQMA"
+    },
+    {
+      "SettlementNo": 252,
+      "SettlementNam": "ביתן אהרן",
+      "SettlementNameEng": "BITAN AHARON"
+    },
+    {
+      "SettlementNo": 3780,
+      "SettlementNam": "ביתר עילית",
+      "SettlementNameEng": "BETAR ILLIT"
+    },
+    {
+      "SettlementNo": 94,
+      "SettlementNam": "בלפוריה",
+      "SettlementNameEng": "BALFURIYYA"
+    },
+    {
+      "SettlementNo": 760,
+      "SettlementNam": "בן זכאי",
+      "SettlementNameEng": "BEN ZAKKAY"
+    },
+    {
+      "SettlementNo": 712,
+      "SettlementNam": "בן עמי",
+      "SettlementNameEng": "BEN AMMI"
+    },
+    {
+      "SettlementNo": 1084,
+      "SettlementNam": "בן שמן )כפר נוער(",
+      "SettlementNameEng": "BEN SHEMEN(K.NO'AR)"
+    },
+    {
+      "SettlementNo": 2013,
+      "SettlementNam": "בן שמן )מושב(",
+      "SettlementNameEng": "BEN SHEMEN (MOSHAV)"
+    },
+    {
+      "SettlementNo": 6100,
+      "SettlementNam": "בני ברק",
+      "SettlementNameEng": "BENE BERAQ"
+    },
+    {
+      "SettlementNo": 1368,
+      "SettlementNam": "בני דקלים",
+      "SettlementNameEng": "BNE DKALIM"
+    },
+    {
+      "SettlementNo": 592,
+      "SettlementNam": "בני דרום",
+      "SettlementNameEng": "BENE DAROM"
+    },
+    {
+      "SettlementNo": 386,
+      "SettlementNam": "בני דרור",
+      "SettlementNameEng": "BENE DEROR"
+    },
+    {
+      "SettlementNo": 4015,
+      "SettlementNam": "בני יהודה",
+      "SettlementNameEng": "BENE YEHUDA"
+    },
+    {
+      "SettlementNo": 1363,
+      "SettlementNam": "בני נצרים",
+      "SettlementNameEng": "BENE NEZARIM"
+    },
+    {
+      "SettlementNo": 448,
+      "SettlementNam": "בני עטרות",
+      "SettlementNameEng": "BENE ATAROT"
+    },
+    {
+      "SettlementNo": 1066,
+      "SettlementNam": "בני עי\"ש",
+      "SettlementNameEng": "BENE AYISH"
+    },
+    {
+      "SettlementNo": 418,
+      "SettlementNam": "בני ציון",
+      "SettlementNameEng": "BENE ZIYYON"
+    },
+    {
+      "SettlementNo": 588,
+      "SettlementNam": "בני ראם",
+      "SettlementNameEng": "BENE RE'EM"
+    },
+    {
+      "SettlementNo": 685,
+      "SettlementNam": "בניה",
+      "SettlementNameEng": "BENAYA"
+    },
+    {
+      "SettlementNo": 9800,
+      "SettlementNam": "בנימינה-גבעת עדה",
+      "SettlementNameEng": "BINYAMINA"
+    },
+    {
+      "SettlementNo": 1326,
+      "SettlementNam": "בסמ\"ה",
+      "SettlementNameEng": "BASMA"
+    },
+    {
+      "SettlementNo": 944,
+      "SettlementNam": "בסמת טבעון",
+      "SettlementNameEng": "BASMAT TAB'UN"
+    },
+    {
+      "SettlementNo": 483,
+      "SettlementNam": "בענה",
+      "SettlementNameEng": "BI NE"
+    },
+    {
+      "SettlementNo": 389,
+      "SettlementNam": "בצרה",
+      "SettlementNameEng": "BAZRA"
+    },
+    {
+      "SettlementNo": 589,
+      "SettlementNam": "בצת",
+      "SettlementNameEng": "BEZET"
+    },
+    {
+      "SettlementNo": 864,
+      "SettlementNam": "בקוע",
+      "SettlementNameEng": "BEQOA"
+    },
+    {
+      "SettlementNo": 3612,
+      "SettlementNam": "בקעות",
+      "SettlementNameEng": "BEQA'OT"
+    },
+    {
+      "SettlementNo": 823,
+      "SettlementNam": "בר גיורא",
+      "SettlementNameEng": "BAR GIYYORA"
+    },
+    {
+      "SettlementNo": 1191,
+      "SettlementNam": "בר יוחאי",
+      "SettlementNameEng": "BAR YOHAY"
+    },
+    {
+      "SettlementNo": 3744,
+      "SettlementNam": "ברוכין",
+      "SettlementNameEng": "BRUKHIN"
+    },
+    {
+      "SettlementNo": 428,
+      "SettlementNam": "ברור חיל",
+      "SettlementNameEng": "BEROR HAYIL"
+    },
+    {
+      "SettlementNo": 2060,
+      "SettlementNam": "ברוש",
+      "SettlementNameEng": "BEROSH"
+    },
+    {
+      "SettlementNo": 3710,
+      "SettlementNam": "ברכה",
+      "SettlementNameEng": "BERAKHA"
+    },
+    {
+      "SettlementNo": 746,
+      "SettlementNam": "ברכיה",
+      "SettlementNameEng": "BEREKHYA"
+    },
+    {
+      "SettlementNo": 667,
+      "SettlementNam": "ברעם",
+      "SettlementNameEng": "BAR'AM"
+    },
+    {
+      "SettlementNo": 141,
+      "SettlementNam": "ברק",
+      "SettlementNameEng": "BARAQ"
+    },
+    {
+      "SettlementNo": 617,
+      "SettlementNam": "ברקאי",
+      "SettlementNameEng": "BARQAY"
+    },
+    {
+      "SettlementNo": 3654,
+      "SettlementNam": "ברקן",
+      "SettlementNameEng": "BARQAN"
+    },
+    {
+      "SettlementNo": 2038,
+      "SettlementNam": "ברקת",
+      "SettlementNameEng": "BAREQET"
+    },
+    {
+      "SettlementNo": 1323,
+      "SettlementNam": "בת הדר",
+      "SettlementNameEng": "BAT HADAR"
+    },
+    {
+      "SettlementNo": 1361,
+      "SettlementNam": "בת חן",
+      "SettlementNameEng": "BAT HEN"
+    },
+    {
+      "SettlementNo": 1319,
+      "SettlementNam": "בת חפר",
+      "SettlementNameEng": "BAT HEFER"
+    },
+    {
+      "SettlementNo": 1401,
+      "SettlementNam": "בת חצור",
+      "SettlementNameEng": "BAT HAZOR"
+    },
+    {
+      "SettlementNo": 6200,
+      "SettlementNam": "בת ים",
+      "SettlementNameEng": "BAT YAM"
+    },
+    {
+      "SettlementNo": 3794,
+      "SettlementNam": "בת עין",
+      "SettlementNameEng": "BAT AYIN"
+    },
+    {
+      "SettlementNo": 33,
+      "SettlementNam": "בת שלמה",
+      "SettlementNameEng": "BAT SHELOMO"
+    },
+    {
+      "SettlementNo": 1292,
+      "SettlementNam": "ג'דיידה-מכר",
+      "SettlementNameEng": "JUDEIDE-MAKER"
+    },
+    {
+      "SettlementNo": 485,
+      "SettlementNam": "ג'ולס",
+      "SettlementNameEng": "JULIS"
+    },
+    {
+      "SettlementNo": 627,
+      "SettlementNam": "ג'לג'וליה",
+      "SettlementNameEng": "JALJULYE"
+    },
+    {
+      "SettlementNo": 976,
+      "SettlementNam": "ג'נאביב )שבט(",
+      "SettlementNameEng": "JUNNABIB"
+    },
+    {
+      "SettlementNo": 541,
+      "SettlementNam": "ג'סר א-זרקא",
+      "SettlementNameEng": "JISR AZ-ZARQA"
+    },
+    {
+      "SettlementNo": 487,
+      "SettlementNam": "ג'ש )גוש חלב(",
+      "SettlementNameEng": "JISH(GUSH HALAV)"
+    },
+    {
+      "SettlementNo": 628,
+      "SettlementNam": "ג'ת",
+      "SettlementNameEng": "JAAT"
+    },
+    {
+      "SettlementNo": 872,
+      "SettlementNam": "גאולי תימן",
+      "SettlementNameEng": "GE'ULE TEMAN"
+    },
+    {
+      "SettlementNo": 379,
+      "SettlementNam": "גאולים",
+      "SettlementNameEng": "GE'ULIM"
+    },
+    {
+      "SettlementNo": 853,
+      "SettlementNam": "גאליה",
+      "SettlementNameEng": "GE'ALYA"
+    },
+    {
+      "SettlementNo": 352,
+      "SettlementNam": "גבולות",
+      "SettlementNameEng": "GEVULOT"
+    },
+    {
+      "SettlementNo": 424,
+      "SettlementNam": "גבים",
+      "SettlementNameEng": "GEVIM"
+    },
+    {
+      "SettlementNo": 86,
+      "SettlementNam": "גבע",
+      "SettlementNameEng": "GEVA"
+    },
+    {
+      "SettlementNo": 3763,
+      "SettlementNam": "גבע בנימין",
+      "SettlementNameEng": "GEVA BINYAMIN"
+    },
+    {
+      "SettlementNo": 683,
+      "SettlementNam": "גבע כרמל",
+      "SettlementNameEng": "GEVA  KARMEL"
+    },
+    {
+      "SettlementNo": 2014,
+      "SettlementNam": "גבעולים",
+      "SettlementNameEng": "GIV'OLIM"
+    },
+    {
+      "SettlementNo": 3644,
+      "SettlementNam": "גבעון החדשה",
+      "SettlementNameEng": "GIV'ON HAHADASHA"
+    },
+    {
+      "SettlementNo": 1344,
+      "SettlementNam": "גבעות בר",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1293,
+      "SettlementNam": "גבעת אבני",
+      "SettlementNameEng": "GIV'AT AVNI"
+    },
+    {
+      "SettlementNo": 1288,
+      "SettlementNam": "גבעת אלה",
+      "SettlementNameEng": "GIV'AT ELA"
+    },
+    {
+      "SettlementNo": 147,
+      "SettlementNam": "גבעת ברנר",
+      "SettlementNameEng": "GIV'AT BRENNER"
+    },
+    {
+      "SettlementNo": 870,
+      "SettlementNam": "גבעת השלושה",
+      "SettlementNameEng": "GIV'AT HASHELOSHA"
+    },
+    {
+      "SettlementNo": 3730,
+      "SettlementNam": "גבעת זאב",
+      "SettlementNameEng": "GIV'AT ZE'EV"
+    },
+    {
+      "SettlementNo": 207,
+      "SettlementNam": "גבעת ח\"ן",
+      "SettlementNameEng": "GIV'AT HEN"
+    },
+    {
+      "SettlementNo": 2018,
+      "SettlementNam": "גבעת חיים )איחוד(",
+      "SettlementNameEng": "GIV'AT HAYYIM (IHUD)"
+    },
+    {
+      "SettlementNo": 173,
+      "SettlementNam": "גבעת חיים )מאוחד(",
+      "SettlementNameEng": "GIV'AT HAYYIM(ME'UHA"
+    },
+    {
+      "SettlementNo": 4021,
+      "SettlementNam": "גבעת יואב",
+      "SettlementNameEng": "GIV'AT YO'AV"
+    },
+    {
+      "SettlementNo": 787,
+      "SettlementNam": "גבעת יערים",
+      "SettlementNameEng": "GIV'AT YE'ARIM"
+    },
+    {
+      "SettlementNo": 919,
+      "SettlementNam": "גבעת ישעיהו",
+      "SettlementNameEng": "GIV'AT YESHA'YAHU"
+    },
+    {
+      "SettlementNo": 802,
+      "SettlementNam": "גבעת כ\"ח",
+      "SettlementNameEng": "GIV'AT KOAH"
+    },
+    {
+      "SettlementNo": 360,
+      "SettlementNam": "גבעת ניל\"י",
+      "SettlementNameEng": "GIV'AT NILI"
+    },
+    {
+      "SettlementNo": 703,
+      "SettlementNam": "גבעת עוז",
+      "SettlementNameEng": "GIV'AT OZ"
+    },
+    {
+      "SettlementNo": 681,
+      "SettlementNam": "גבעת שמואל",
+      "SettlementNameEng": "GIV'AT SHEMU'EL"
+    },
+    {
+      "SettlementNo": 566,
+      "SettlementNam": "גבעת שמש",
+      "SettlementNameEng": "GIV'AT SHEMESH"
+    },
+    {
+      "SettlementNo": 1077,
+      "SettlementNam": "גבעת שפירא",
+      "SettlementNameEng": "GIV'AT SHAPPIRA"
+    },
+    {
+      "SettlementNo": 793,
+      "SettlementNam": "גבעתי",
+      "SettlementNameEng": "GIV'ATI"
+    },
+    {
+      "SettlementNo": 6300,
+      "SettlementNam": "גבעתיים",
+      "SettlementNameEng": "GIV'ATAYIM"
+    },
+    {
+      "SettlementNo": 342,
+      "SettlementNam": "גברעם",
+      "SettlementNameEng": "GEVAR'AM"
+    },
+    {
+      "SettlementNo": 133,
+      "SettlementNam": "גבת",
+      "SettlementNameEng": "GEVAT"
+    },
+    {
+      "SettlementNo": 35,
+      "SettlementNam": "גדות",
+      "SettlementNameEng": "GADOT"
+    },
+    {
+      "SettlementNo": 145,
+      "SettlementNam": "גדיש",
+      "SettlementNameEng": "GADISH"
+    },
+    {
+      "SettlementNo": 442,
+      "SettlementNam": "גדעונה",
+      "SettlementNameEng": "GID'ONA"
+    },
+    {
+      "SettlementNo": 2550,
+      "SettlementNam": "גדרה",
+      "SettlementNameEng": "GEDERA"
+    },
+    {
+      "SettlementNo": 852,
+      "SettlementNam": "גונן",
+      "SettlementNameEng": "GONEN"
+    },
+    {
+      "SettlementNo": 755,
+      "SettlementNam": "גורן",
+      "SettlementNameEng": "GOREN"
+    },
+    {
+      "SettlementNo": 1219,
+      "SettlementNam": "גורנות הגליל",
+      "SettlementNameEng": "GORNOT HAGALIL"
+    },
+    {
+      "SettlementNo": 457,
+      "SettlementNam": "גזית",
+      "SettlementNameEng": "GAZIT"
+    },
+    {
+      "SettlementNo": 370,
+      "SettlementNam": "גזר",
+      "SettlementNameEng": "GEZER"
+    },
+    {
+      "SettlementNo": 706,
+      "SettlementNam": "גיאה",
+      "SettlementNameEng": "GE'A"
+    },
+    {
+      "SettlementNo": 196,
+      "SettlementNam": "גיבתון",
+      "SettlementNameEng": "GIBBETON"
+    },
+    {
+      "SettlementNo": 1043,
+      "SettlementNam": "גיזו",
+      "SettlementNameEng": "GIZO"
+    },
+    {
+      "SettlementNo": 1204,
+      "SettlementNam": "גילון",
+      "SettlementNameEng": "GILON"
+    },
+    {
+      "SettlementNo": 736,
+      "SettlementNam": "גילת",
+      "SettlementNameEng": "GILAT"
+    },
+    {
+      "SettlementNo": 262,
+      "SettlementNam": "גינוסר",
+      "SettlementNameEng": "GINNOSAR"
+    },
+    {
+      "SettlementNo": 92,
+      "SettlementNam": "גיניגר",
+      "SettlementNameEng": "GINNEGAR"
+    },
+    {
+      "SettlementNo": 863,
+      "SettlementNam": "גינתון",
+      "SettlementNameEng": "GINNATON"
+    },
+    {
+      "SettlementNo": 1206,
+      "SettlementNam": "גיתה",
+      "SettlementNameEng": "GITTA"
+    },
+    {
+      "SettlementNo": 3613,
+      "SettlementNam": "גיתית",
+      "SettlementNameEng": "GITTIT"
+    },
+    {
+      "SettlementNo": 393,
+      "SettlementNam": "גלאון",
+      "SettlementNameEng": "GAL'ON"
+    },
+    {
+      "SettlementNo": 3606,
+      "SettlementNam": "גלגל",
+      "SettlementNameEng": "GILGAL"
+    },
+    {
+      "SettlementNo": 346,
+      "SettlementNam": "גליל ים",
+      "SettlementNameEng": "GELIL YAM"
+    },
+    {
+      "SettlementNo": 369,
+      "SettlementNam": "גלעד )אבן יצחק(",
+      "SettlementNameEng": "EVEN YIZHAQ(GAL'ED)"
+    },
+    {
+      "SettlementNo": 745,
+      "SettlementNam": "גמזו",
+      "SettlementNameEng": "GIMZO"
+    },
+    {
+      "SettlementNo": 1072,
+      "SettlementNam": "גן הדרום",
+      "SettlementNameEng": "GAN HADAROM"
+    },
+    {
+      "SettlementNo": 225,
+      "SettlementNam": "גן השומרון",
+      "SettlementNameEng": "GAN HASHOMERON"
+    },
+    {
+      "SettlementNo": 239,
+      "SettlementNam": "גן חיים",
+      "SettlementNameEng": "GAN HAYYIM"
+    },
+    {
+      "SettlementNo": 734,
+      "SettlementNam": "גן יאשיה",
+      "SettlementNameEng": "GAN YOSHIYYA"
+    },
+    {
+      "SettlementNo": 166,
+      "SettlementNam": "גן יבנה",
+      "SettlementNameEng": "GAN YAVNE"
+    },
+    {
+      "SettlementNo": 1274,
+      "SettlementNam": "גן נר",
+      "SettlementNameEng": "GAN NER"
+    },
+    {
+      "SettlementNo": 311,
+      "SettlementNam": "גן שורק",
+      "SettlementNameEng": "GAN SOREQ"
+    },
+    {
+      "SettlementNo": 144,
+      "SettlementNam": "גן שלמה",
+      "SettlementNameEng": "GAN SHELOMO"
+    },
+    {
+      "SettlementNo": 72,
+      "SettlementNam": "גן שמואל",
+      "SettlementNameEng": "GAN SHEMU'EL"
+    },
+    {
+      "SettlementNo": 836,
+      "SettlementNam": "גנות",
+      "SettlementNameEng": "GANNOT"
+    },
+    {
+      "SettlementNo": 549,
+      "SettlementNam": "גנות הדר",
+      "SettlementNameEng": "GANNOT HADAR"
+    },
+    {
+      "SettlementNo": 1103,
+      "SettlementNam": "גני הדר",
+      "SettlementNameEng": "GANNE HADAR"
+    },
+    {
+      "SettlementNo": 1371,
+      "SettlementNam": "גני טל",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 862,
+      "SettlementNam": "גני יוחנן",
+      "SettlementNameEng": "GANNE YOHANAN"
+    },
+    {
+      "SettlementNo": 3823,
+      "SettlementNam": "גני מודיעין",
+      "SettlementNameEng": "GANNE MODIIN"
+    },
+    {
+      "SettlementNo": 218,
+      "SettlementNam": "גני עם",
+      "SettlementNameEng": "GANNE AM"
+    },
+    {
+      "SettlementNo": 229,
+      "SettlementNam": "גני תקווה",
+      "SettlementNameEng": "GANNE TIQWA"
+    },
+    {
+      "SettlementNo": 842,
+      "SettlementNam": "געש",
+      "SettlementNameEng": "GA'ASH"
+    },
+    {
+      "SettlementNo": 463,
+      "SettlementNam": "געתון",
+      "SettlementNameEng": "GA'TON"
+    },
+    {
+      "SettlementNo": 39,
+      "SettlementNam": "גפן",
+      "SettlementNameEng": "GEFEN"
+    },
+    {
+      "SettlementNo": 1129,
+      "SettlementNam": "גרופית",
+      "SettlementNameEng": "GEROFIT"
+    },
+    {
+      "SettlementNo": 4022,
+      "SettlementNam": "גשור",
+      "SettlementNameEng": "GESHUR"
+    },
+    {
+      "SettlementNo": 305,
+      "SettlementNam": "גשר",
+      "SettlementNameEng": "GESHER"
+    },
+    {
+      "SettlementNo": 574,
+      "SettlementNam": "גשר הזיו",
+      "SettlementNameEng": "GESHER HAZIW"
+    },
+    {
+      "SettlementNo": 340,
+      "SettlementNam": "גת )קיבוץ(",
+      "SettlementNameEng": "GAT(QIBBUZ)"
+    },
+    {
+      "SettlementNo": 128,
+      "SettlementNam": "גת רימון",
+      "SettlementNameEng": "GAT RIMMON"
+    },
+    {
+      "SettlementNo": 494,
+      "SettlementNam": "דאלית אל-כרמל",
+      "SettlementNameEng": "DALIYAT AL-KARMEL"
+    },
+    {
+      "SettlementNo": 146,
+      "SettlementNam": "דבורה",
+      "SettlementNameEng": "DEVORA"
+    },
+    {
+      "SettlementNo": 489,
+      "SettlementNam": "דבוריה",
+      "SettlementNameEng": "DABBURYE"
+    },
+    {
+      "SettlementNo": 849,
+      "SettlementNam": "דבירה",
+      "SettlementNameEng": "DEVIRA"
+    },
+    {
+      "SettlementNo": 407,
+      "SettlementNam": "דברת",
+      "SettlementNameEng": "DAVERAT"
+    },
+    {
+      "SettlementNo": 62,
+      "SettlementNam": "דגניה א'",
+      "SettlementNameEng": "DEGANYA ALEF"
+    },
+    {
+      "SettlementNo": 79,
+      "SettlementNam": "דגניה ב'",
+      "SettlementNameEng": "DEGANYA BET"
+    },
+    {
+      "SettlementNo": 1067,
+      "SettlementNam": "דוב\"ב",
+      "SettlementNameEng": "DOVEV"
+    },
+    {
+      "SettlementNo": 3747,
+      "SettlementNam": "דולב",
+      "SettlementNameEng": "DOLEV"
+    },
+    {
+      "SettlementNo": 738,
+      "SettlementNam": "דור",
+      "SettlementNameEng": "DOR"
+    },
+    {
+      "SettlementNo": 336,
+      "SettlementNam": "דורות",
+      "SettlementNameEng": "DOROT"
+    },
+    {
+      "SettlementNo": 475,
+      "SettlementNam": "דחי",
+      "SettlementNameEng": "DAHI"
+    },
+    {
+      "SettlementNo": 490,
+      "SettlementNam": "דייר אל-אסד",
+      "SettlementNameEng": "DEIR AL-ASAD"
+    },
+    {
+      "SettlementNo": 492,
+      "SettlementNam": "דייר חנא",
+      "SettlementNameEng": "DEIR HANNA"
+    },
+    {
+      "SettlementNo": 493,
+      "SettlementNam": "דייר ראפאת",
+      "SettlementNameEng": "DEIR RAFAT"
+    },
+    {
+      "SettlementNo": 2200,
+      "SettlementNam": "דימונה",
+      "SettlementNameEng": "DIMONA"
+    },
+    {
+      "SettlementNo": 2063,
+      "SettlementNam": "דישון",
+      "SettlementNameEng": "DISHON"
+    },
+    {
+      "SettlementNo": 300,
+      "SettlementNam": "דליה",
+      "SettlementNameEng": "DALIYYA"
+    },
+    {
+      "SettlementNo": 431,
+      "SettlementNam": "דלתון",
+      "SettlementNameEng": "DALTON"
+    },
+    {
+      "SettlementNo": 1317,
+      "SettlementNam": "דמיידה",
+      "SettlementNameEng": "DEMEIDE"
+    },
+    {
+      "SettlementNo": 303,
+      "SettlementNam": "דן",
+      "SettlementNameEng": "DAN"
+    },
+    {
+      "SettlementNo": 302,
+      "SettlementNam": "דפנה",
+      "SettlementNameEng": "DAFNA"
+    },
+    {
+      "SettlementNo": 1241,
+      "SettlementNam": "דקל",
+      "SettlementNameEng": "DEQEL"
+    },
+    {
+      "SettlementNo": 1349,
+      "SettlementNam": "דריג'את",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 702,
+      "SettlementNam": "האון",
+      "SettlementNameEng": "HAON"
+    },
+    {
+      "SettlementNo": 675,
+      "SettlementNam": "הבונים",
+      "SettlementNameEng": "HABONIM"
+    },
+    {
+      "SettlementNo": 356,
+      "SettlementNam": "הגושרים",
+      "SettlementNameEng": "HAGOSHERIM"
+    },
+    {
+      "SettlementNo": 191,
+      "SettlementNam": "הדר עם",
+      "SettlementNameEng": "HADAR AM"
+    },
+    {
+      "SettlementNo": 9700,
+      "SettlementNam": "הוד השרון",
+      "SettlementNameEng": "HOD HASHARON"
+    },
+    {
+      "SettlementNo": 726,
+      "SettlementNam": "הודיה",
+      "SettlementNameEng": "HODIYYA"
+    },
+    {
+      "SettlementNo": 1322,
+      "SettlementNam": "הודיות",
+      "SettlementNameEng": "HODAYOT"
+    },
+    {
+      "SettlementNo": 1169,
+      "SettlementNam": "הוואשלה )שבט(",
+      "SettlementNameEng": "HAWASHLA"
+    },
+    {
+      "SettlementNo": 956,
+      "SettlementNam": "הוזייל )שבט(",
+      "SettlementNameEng": "HUZAYYEL"
+    },
+    {
+      "SettlementNo": 1186,
+      "SettlementNam": "הושעיה",
+      "SettlementNameEng": "HOSHA'AYA"
+    },
+    {
+      "SettlementNo": 250,
+      "SettlementNam": "הזורע",
+      "SettlementNameEng": "HAZOREA"
+    },
+    {
+      "SettlementNo": 307,
+      "SettlementNam": "הזורעים",
+      "SettlementNameEng": "HAZORE'IM"
+    },
+    {
+      "SettlementNo": 434,
+      "SettlementNam": "החותרים",
+      "SettlementNameEng": "HAHOTERIM"
+    },
+    {
+      "SettlementNo": 684,
+      "SettlementNam": "היוגב",
+      "SettlementNameEng": "HAYOGEV"
+    },
+    {
+      "SettlementNo": 1208,
+      "SettlementNam": "הילה",
+      "SettlementNameEng": "HILLA"
+    },
+    {
+      "SettlementNo": 377,
+      "SettlementNam": "המעפיל",
+      "SettlementNameEng": "HAMA'PIL"
+    },
+    {
+      "SettlementNo": 677,
+      "SettlementNam": "הסוללים",
+      "SettlementNameEng": "HASOLELIM"
+    },
+    {
+      "SettlementNo": 423,
+      "SettlementNam": "העוגן",
+      "SettlementNameEng": "HAOGEN"
+    },
+    {
+      "SettlementNo": 3769,
+      "SettlementNam": "הר אדר",
+      "SettlementNameEng": "HAR ADAR"
+    },
+    {
+      "SettlementNo": 3603,
+      "SettlementNam": "הר גילה",
+      "SettlementNameEng": "HAR GILLO"
+    },
+    {
+      "SettlementNo": 1261,
+      "SettlementNam": "הר עמשא",
+      "SettlementNameEng": "HAR AMASA"
+    },
+    {
+      "SettlementNo": 464,
+      "SettlementNam": "הראל",
+      "SettlementNameEng": "HAR'EL"
+    },
+    {
+      "SettlementNo": 1249,
+      "SettlementNam": "הרדוף",
+      "SettlementNameEng": "HARDUF"
+    },
+    {
+      "SettlementNo": 6400,
+      "SettlementNam": "הרצליה",
+      "SettlementNameEng": "HERZELIYYA"
+    },
+    {
+      "SettlementNo": 1203,
+      "SettlementNam": "הררית",
+      "SettlementNameEng": "HARARIT"
+    },
+    {
+      "SettlementNo": 3639,
+      "SettlementNam": "ורד יריחו",
+      "SettlementNameEng": "WERED YERIHO"
+    },
+    {
+      "SettlementNo": 1133,
+      "SettlementNam": "ורדון",
+      "SettlementNameEng": "WARDON"
+    },
+    {
+      "SettlementNo": 2742,
+      "SettlementNam": "זבארגה )שבט(",
+      "SettlementNameEng": "ZABARGA"
+    },
+    {
+      "SettlementNo": 815,
+      "SettlementNam": "זבדיאל",
+      "SettlementNameEng": "ZAVDI'EL"
+    },
+    {
+      "SettlementNo": 44,
+      "SettlementNam": "זוהר",
+      "SettlementNameEng": "ZOHAR"
+    },
+    {
+      "SettlementNo": 584,
+      "SettlementNam": "זיקים",
+      "SettlementNameEng": "ZIQIM"
+    },
+    {
+      "SettlementNo": 788,
+      "SettlementNam": "זיתן",
+      "SettlementNameEng": "ZETAN"
+    },
+    {
+      "SettlementNo": 9300,
+      "SettlementNam": "זכרון יעקב",
+      "SettlementNameEng": "ZIKHRON YA'AQOV"
+    },
+    {
+      "SettlementNo": 799,
+      "SettlementNam": "זכריה",
+      "SettlementNameEng": "ZEKHARYA"
+    },
+    {
+      "SettlementNo": 1290,
+      "SettlementNam": "זמר",
+      "SettlementNameEng": "ZEMER"
+    },
+    {
+      "SettlementNo": 1065,
+      "SettlementNam": "זמרת",
+      "SettlementNameEng": "ZIMRAT"
+    },
+    {
+      "SettlementNo": 816,
+      "SettlementNam": "זנוח",
+      "SettlementNameEng": "ZANOAH"
+    },
+    {
+      "SettlementNo": 2064,
+      "SettlementNam": "זרועה",
+      "SettlementNameEng": "ZERU'A"
+    },
+    {
+      "SettlementNo": 975,
+      "SettlementNam": "זרזיר",
+      "SettlementNameEng": "ZARZIR"
+    },
+    {
+      "SettlementNo": 818,
+      "SettlementNam": "זרחיה",
+      "SettlementNameEng": "ZERAHYA"
+    },
+    {
+      "SettlementNo": 1321,
+      "SettlementNam": "ח'ואלד",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 986,
+      "SettlementNam": "ח'ואלד )שבט(",
+      "SettlementNameEng": "KHAWALED"
+    },
+    {
+      "SettlementNo": 235,
+      "SettlementNam": "חבצלת השרון",
+      "SettlementNameEng": "HAVAZZELET HASHARON"
+    },
+    {
+      "SettlementNo": 1110,
+      "SettlementNam": "חבר",
+      "SettlementNameEng": "HEVER"
+    },
+    {
+      "SettlementNo": 3400,
+      "SettlementNam": "חברון",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 717,
+      "SettlementNam": "חגור",
+      "SettlementNameEng": "HAGOR"
+    },
+    {
+      "SettlementNo": 3764,
+      "SettlementNam": "חגי",
+      "SettlementNameEng": "HAGGAI"
+    },
+    {
+      "SettlementNo": 205,
+      "SettlementNam": "חגלה",
+      "SettlementNameEng": "HOGLA"
+    },
+    {
+      "SettlementNo": 4026,
+      "SettlementNam": "חד-נס",
+      "SettlementNameEng": "HAD-NES"
+    },
+    {
+      "SettlementNo": 618,
+      "SettlementNam": "חדיד",
+      "SettlementNameEng": "HADID"
+    },
+    {
+      "SettlementNo": 6500,
+      "SettlementNam": "חדרה",
+      "SettlementNameEng": "HADERA"
+    },
+    {
+      "SettlementNo": 948,
+      "SettlementNam": "חוג'ייראת )ד'הרה(",
+      "SettlementNameEng": "HUJEIRAT (DAHRA)"
+    },
+    {
+      "SettlementNo": 160,
+      "SettlementNam": "חולדה",
+      "SettlementNameEng": "HULDA"
+    },
+    {
+      "SettlementNo": 6600,
+      "SettlementNam": "חולון",
+      "SettlementNameEng": "HOLON"
+    },
+    {
+      "SettlementNo": 1239,
+      "SettlementNam": "חולית",
+      "SettlementNameEng": "HOLIT"
+    },
+    {
+      "SettlementNo": 253,
+      "SettlementNam": "חולתה",
+      "SettlementNameEng": "HULATA"
+    },
+    {
+      "SettlementNo": 662,
+      "SettlementNam": "חוסן",
+      "SettlementNameEng": "HOSEN"
+    },
+    {
+      "SettlementNo": 1332,
+      "SettlementNam": "חוסנייה",
+      "SettlementNameEng": "HUSSNIYYA"
+    },
+    {
+      "SettlementNo": 115,
+      "SettlementNam": "חופית",
+      "SettlementNameEng": "HOFIT"
+    },
+    {
+      "SettlementNo": 374,
+      "SettlementNam": "חוקוק",
+      "SettlementNameEng": "HUQOQ"
+    },
+    {
+      "SettlementNo": 1303,
+      "SettlementNam": "חורה",
+      "SettlementNameEng": "HURA"
+    },
+    {
+      "SettlementNo": 496,
+      "SettlementNam": "חורפיש",
+      "SettlementNameEng": "HURFEISH"
+    },
+    {
+      "SettlementNo": 355,
+      "SettlementNam": "חורשים",
+      "SettlementNameEng": "HORESHIM"
+    },
+    {
+      "SettlementNo": 1047,
+      "SettlementNam": "חזון",
+      "SettlementNameEng": "HAZON"
+    },
+    {
+      "SettlementNo": 219,
+      "SettlementNam": "חיבת ציון",
+      "SettlementNameEng": "HIBBAT ZIYYON"
+    },
+    {
+      "SettlementNo": 3643,
+      "SettlementNam": "חיננית",
+      "SettlementNameEng": "HINNANIT"
+    },
+    {
+      "SettlementNo": 4000,
+      "SettlementNam": "חיפה",
+      "SettlementNameEng": "HAIFA"
+    },
+    {
+      "SettlementNo": 162,
+      "SettlementNam": "חירות",
+      "SettlementNameEng": "HERUT"
+    },
+    {
+      "SettlementNo": 1272,
+      "SettlementNam": "חלוץ",
+      "SettlementNameEng": "HALUZ"
+    },
+    {
+      "SettlementNo": 3573,
+      "SettlementNam": "חלמיש",
+      "SettlementNameEng": "HALLAMISH"
+    },
+    {
+      "SettlementNo": 820,
+      "SettlementNam": "חלץ",
+      "SettlementNameEng": "HELEZ"
+    },
+    {
+      "SettlementNo": 993,
+      "SettlementNam": "חמאם",
+      "SettlementNameEng": "HAMAM"
+    },
+    {
+      "SettlementNo": 801,
+      "SettlementNam": "חמד",
+      "SettlementNameEng": "HEMED"
+    },
+    {
+      "SettlementNo": 343,
+      "SettlementNam": "חמדיה",
+      "SettlementNameEng": "HAMADYA"
+    },
+    {
+      "SettlementNo": 3646,
+      "SettlementNam": "חמדת",
+      "SettlementNameEng": "NAHAL HEMDAT"
+    },
+    {
+      "SettlementNo": 3609,
+      "SettlementNam": "חמרה",
+      "SettlementNameEng": "HAMRA"
+    },
+    {
+      "SettlementNo": 807,
+      "SettlementNam": "חניאל",
+      "SettlementNameEng": "HANNI'EL"
+    },
+    {
+      "SettlementNo": 280,
+      "SettlementNam": "חניתה",
+      "SettlementNameEng": "HANITA"
+    },
+    {
+      "SettlementNo": 1257,
+      "SettlementNam": "חנתון",
+      "SettlementNameEng": "HANNATON"
+    },
+    {
+      "SettlementNo": 4005,
+      "SettlementNam": "חספין",
+      "SettlementNameEng": "HASPIN"
+    },
+    {
+      "SettlementNo": 363,
+      "SettlementNam": "חפץ חיים",
+      "SettlementNameEng": "HAFEZ HAYYIM"
+    },
+    {
+      "SettlementNo": 90,
+      "SettlementNam": "חפצי-בה",
+      "SettlementNameEng": "HEFZI-BAH"
+    },
+    {
+      "SettlementNo": 700,
+      "SettlementNam": "חצב",
+      "SettlementNameEng": "HAZAV"
+    },
+    {
+      "SettlementNo": 13,
+      "SettlementNam": "חצבה",
+      "SettlementNameEng": "HAZEVA"
+    },
+    {
+      "SettlementNo": 2034,
+      "SettlementNam": "חצור הגלילית",
+      "SettlementNameEng": "HAZOR HAGELILIT"
+    },
+    {
+      "SettlementNo": 406,
+      "SettlementNam": "חצור-אשדוד",
+      "SettlementNameEng": "HAZOR-ASHDOD"
+    },
+    {
+      "SettlementNo": 1409,
+      "SettlementNam": "חצר בארותיים",
+      "SettlementNameEng": "HAZAR BE'EROTAYIM"
+    },
+    {
+      "SettlementNo": 1402,
+      "SettlementNam": "חצרות חולדה",
+      "SettlementNameEng": "HAZROT HULDA"
+    },
+    {
+      "SettlementNo": 1404,
+      "SettlementNam": "חצרות יסף",
+      "SettlementNameEng": "HAZROT YASAF"
+    },
+    {
+      "SettlementNo": 1405,
+      "SettlementNam": "חצרות כ\"ח",
+      "SettlementNameEng": "HAZROT KOAH"
+    },
+    {
+      "SettlementNo": 397,
+      "SettlementNam": "חצרים",
+      "SettlementNameEng": "HAZERIM"
+    },
+    {
+      "SettlementNo": 422,
+      "SettlementNam": "חרב לאת",
+      "SettlementNameEng": "HEREV LE'ET"
+    },
+    {
+      "SettlementNo": 1024,
+      "SettlementNam": "חרוצים",
+      "SettlementNameEng": "HARUZIM"
+    },
+    {
+      "SettlementNo": 1247,
+      "SettlementNam": "חריש",
+      "SettlementNameEng": "HARISH"
+    },
+    {
+      "SettlementNo": 3717,
+      "SettlementNam": "חרמש",
+      "SettlementNameEng": "HERMESH"
+    },
+    {
+      "SettlementNo": 1209,
+      "SettlementNam": "חרשים",
+      "SettlementNameEng": "HARASHIM"
+    },
+    {
+      "SettlementNo": 3770,
+      "SettlementNam": "חשמונאים",
+      "SettlementNameEng": "HASHMONA'IM"
+    },
+    {
+      "SettlementNo": 6700,
+      "SettlementNam": "טבריה",
+      "SettlementNameEng": "TIBERIAS"
+    },
+    {
+      "SettlementNo": 962,
+      "SettlementNam": "טובא-זנגריה",
+      "SettlementNameEng": "TUBA-ZANGARIYYE"
+    },
+    {
+      "SettlementNo": 498,
+      "SettlementNam": "טורעאן",
+      "SettlementNameEng": "TUR'AN"
+    },
+    {
+      "SettlementNo": 2730,
+      "SettlementNam": "טייבה",
+      "SettlementNameEng": "TAYIBE"
+    },
+    {
+      "SettlementNo": 497,
+      "SettlementNam": "טייבה )בעמק(",
+      "SettlementNameEng": "TAYIBE(BAEMEQ)"
+    },
+    {
+      "SettlementNo": 2720,
+      "SettlementNam": "טירה",
+      "SettlementNameEng": "TIRE"
+    },
+    {
+      "SettlementNo": 663,
+      "SettlementNam": "טירת יהודה",
+      "SettlementNameEng": "TIRAT YEHUDA"
+    },
+    {
+      "SettlementNo": 2100,
+      "SettlementNam": "טירת כרמל",
+      "SettlementNameEng": "TIRAT KARMEL"
+    },
+    {
+      "SettlementNo": 268,
+      "SettlementNam": "טירת צבי",
+      "SettlementNameEng": "TIRAT ZEVI"
+    },
+    {
+      "SettlementNo": 462,
+      "SettlementNam": "טל שחר",
+      "SettlementNameEng": "TAL SHAHAR"
+    },
+    {
+      "SettlementNo": 1181,
+      "SettlementNam": "טל-אל",
+      "SettlementNameEng": "TAL-EL"
+    },
+    {
+      "SettlementNo": 1177,
+      "SettlementNam": "טללים",
+      "SettlementNameEng": "TELALIM"
+    },
+    {
+      "SettlementNo": 3788,
+      "SettlementNam": "טלמון",
+      "SettlementNameEng": "TALMON"
+    },
+    {
+      "SettlementNo": 8900,
+      "SettlementNam": "טמרה",
+      "SettlementNameEng": "TAMRA"
+    },
+    {
+      "SettlementNo": 547,
+      "SettlementNam": "טמרה )יזרעאל(",
+      "SettlementNameEng": "TAMRA (YIZRE'EL)"
+    },
+    {
+      "SettlementNo": 3743,
+      "SettlementNam": "טנא",
+      "SettlementNameEng": "TENE"
+    },
+    {
+      "SettlementNo": 1214,
+      "SettlementNam": "טפחות",
+      "SettlementNameEng": "TEFAHOT"
+    },
+    {
+      "SettlementNo": 1295,
+      "SettlementNam": "יאנוח-ג'ת",
+      "SettlementNameEng": "YANUH-JAT"
+    },
+    {
+      "SettlementNo": 1232,
+      "SettlementNam": "יבול",
+      "SettlementNameEng": "YEVUL"
+    },
+    {
+      "SettlementNo": 46,
+      "SettlementNam": "יבנאל",
+      "SettlementNameEng": "YAVNE'EL"
+    },
+    {
+      "SettlementNo": 2660,
+      "SettlementNam": "יבנה",
+      "SettlementNameEng": "YAVNE"
+    },
+    {
+      "SettlementNo": 96,
+      "SettlementNam": "יגור",
+      "SettlementNameEng": "YAGUR"
+    },
+    {
+      "SettlementNo": 798,
+      "SettlementNam": "יגל",
+      "SettlementNameEng": "YAGEL"
+    },
+    {
+      "SettlementNo": 577,
+      "SettlementNam": "יד בנימין",
+      "SettlementNameEng": "YAD BINYAMIN"
+    },
+    {
+      "SettlementNo": 1134,
+      "SettlementNam": "יד השמונה",
+      "SettlementNameEng": "YAD HASHEMONA"
+    },
+    {
+      "SettlementNo": 758,
+      "SettlementNam": "יד חנה",
+      "SettlementNameEng": "YAD HANNA"
+    },
+    {
+      "SettlementNo": 358,
+      "SettlementNam": "יד מרדכי",
+      "SettlementNameEng": "YAD MORDEKHAY"
+    },
+    {
+      "SettlementNo": 775,
+      "SettlementNam": "יד נתן",
+      "SettlementNameEng": "YAD NATAN"
+    },
+    {
+      "SettlementNo": 64,
+      "SettlementNam": "יד רמב\"ם",
+      "SettlementNameEng": "YAD RAMBAM"
+    },
+    {
+      "SettlementNo": 1144,
+      "SettlementNam": "ידידה",
+      "SettlementNameEng": "YEDIDA"
+    },
+    {
+      "SettlementNo": 9400,
+      "SettlementNam": "יהוד-מונוסון",
+      "SettlementNameEng": "YEHUD-MONOSON"
+    },
+    {
+      "SettlementNo": 1158,
+      "SettlementNam": "יהל",
+      "SettlementNameEng": "YAHEL"
+    },
+    {
+      "SettlementNo": 2009,
+      "SettlementNam": "יובל",
+      "SettlementNameEng": "YUVAL"
+    },
+    {
+      "SettlementNo": 1226,
+      "SettlementNam": "יובלים",
+      "SettlementNameEng": "YUVALIM"
+    },
+    {
+      "SettlementNo": 1112,
+      "SettlementNam": "יודפת",
+      "SettlementNameEng": "YODEFAT"
+    },
+    {
+      "SettlementNo": 4007,
+      "SettlementNam": "יונתן",
+      "SettlementNameEng": "YONATAN"
+    },
+    {
+      "SettlementNo": 803,
+      "SettlementNam": "יושיביה",
+      "SettlementNameEng": "YOSHIVYA"
+    },
+    {
+      "SettlementNo": 452,
+      "SettlementNam": "יזרעאל",
+      "SettlementNameEng": "YIZRE'EL"
+    },
+    {
+      "SettlementNo": 409,
+      "SettlementNam": "יחיעם",
+      "SettlementNameEng": "YEHI'AM"
+    },
+    {
+      "SettlementNo": 866,
+      "SettlementNam": "יטבתה",
+      "SettlementNameEng": "YOTVATA"
+    },
+    {
+      "SettlementNo": 3607,
+      "SettlementNam": "ייט\"ב",
+      "SettlementNameEng": "YITAV"
+    },
+    {
+      "SettlementNo": 811,
+      "SettlementNam": "יכיני",
+      "SettlementNameEng": "YAKHINI"
+    },
+    {
+      "SettlementNo": 753,
+      "SettlementNam": "ינוב",
+      "SettlementNameEng": "YANUV"
+    },
+    {
+      "SettlementNo": 2011,
+      "SettlementNam": "ינון",
+      "SettlementNameEng": "YINNON"
+    },
+    {
+      "SettlementNo": 29,
+      "SettlementNam": "יסוד המעלה",
+      "SettlementNameEng": "YESUD HAMA'ALA"
+    },
+    {
+      "SettlementNo": 440,
+      "SettlementNam": "יסודות",
+      "SettlementNameEng": "YESODOT"
+    },
+    {
+      "SettlementNo": 575,
+      "SettlementNam": "יסעור",
+      "SettlementNameEng": "YAS'UR"
+    },
+    {
+      "SettlementNo": 1138,
+      "SettlementNam": "יעד",
+      "SettlementNameEng": "YA'AD"
+    },
+    {
+      "SettlementNo": 1117,
+      "SettlementNam": "יעל",
+      "SettlementNameEng": "YA'EL"
+    },
+    {
+      "SettlementNo": 1044,
+      "SettlementNam": "יעף",
+      "SettlementNameEng": "YE'AF"
+    },
+    {
+      "SettlementNo": 795,
+      "SettlementNam": "יערה",
+      "SettlementNameEng": "YA'ARA"
+    },
+    {
+      "SettlementNo": 499,
+      "SettlementNam": "יפיע",
+      "SettlementNameEng": "YAFI"
+    },
+    {
+      "SettlementNo": 3566,
+      "SettlementNam": "יפית",
+      "SettlementNameEng": "YAFIT"
+    },
+    {
+      "SettlementNo": 134,
+      "SettlementNam": "יפעת",
+      "SettlementNameEng": "YIF'AT"
+    },
+    {
+      "SettlementNo": 453,
+      "SettlementNam": "יפתח",
+      "SettlementNameEng": "YIFTAH"
+    },
+    {
+      "SettlementNo": 3749,
+      "SettlementNam": "יצהר",
+      "SettlementNameEng": "YIZHAR"
+    },
+    {
+      "SettlementNo": 759,
+      "SettlementNam": "יציץ",
+      "SettlementNameEng": "YAZIZ"
+    },
+    {
+      "SettlementNo": 417,
+      "SettlementNam": "יקום",
+      "SettlementNameEng": "YAQUM"
+    },
+    {
+      "SettlementNo": 3647,
+      "SettlementNam": "יקיר",
+      "SettlementNameEng": "YAQIR"
+    },
+    {
+      "SettlementNo": 241,
+      "SettlementNam": "יקנעם )מושבה(",
+      "SettlementNameEng": "YOQNE'AM(MOSHAVA)"
+    },
+    {
+      "SettlementNo": 240,
+      "SettlementNam": "יקנעם עילית",
+      "SettlementNameEng": "YOQNE'AM ILLIT"
+    },
+    {
+      "SettlementNo": 623,
+      "SettlementNam": "יראון",
+      "SettlementNameEng": "YIR'ON"
+    },
+    {
+      "SettlementNo": 2026,
+      "SettlementNam": "ירדנה",
+      "SettlementNameEng": "YARDENA"
+    },
+    {
+      "SettlementNo": 831,
+      "SettlementNam": "ירוחם",
+      "SettlementNameEng": "YEROHAM"
+    },
+    {
+      "SettlementNo": 3000,
+      "SettlementNam": "ירושלים",
+      "SettlementNameEng": "JERUSALEM"
+    },
+    {
+      "SettlementNo": 718,
+      "SettlementNam": "ירחיב",
+      "SettlementNameEng": "YARHIV"
+    },
+    {
+      "SettlementNo": 502,
+      "SettlementNam": "ירכא",
+      "SettlementNameEng": "YIRKA"
+    },
+    {
+      "SettlementNo": 183,
+      "SettlementNam": "ירקונה",
+      "SettlementNameEng": "YARQONA"
+    },
+    {
+      "SettlementNo": 916,
+      "SettlementNam": "ישע",
+      "SettlementNameEng": "YESHA"
+    },
+    {
+      "SettlementNo": 805,
+      "SettlementNam": "ישעי",
+      "SettlementNameEng": "YISH'I"
+    },
+    {
+      "SettlementNo": 828,
+      "SettlementNam": "ישרש",
+      "SettlementNameEng": "YASHRESH"
+    },
+    {
+      "SettlementNo": 1227,
+      "SettlementNam": "יתד",
+      "SettlementNameEng": "YATED"
+    },
+    {
+      "SettlementNo": 1329,
+      "SettlementNam": "יתיר",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 504,
+      "SettlementNam": "כאבול",
+      "SettlementNameEng": "KABUL"
+    },
+    {
+      "SettlementNo": 505,
+      "SettlementNam": "כאוכב אבו אל-היג'א",
+      "SettlementNameEng": "KAOKAB ABU AL-HIJA"
+    },
+    {
+      "SettlementNo": 576,
+      "SettlementNam": "כברי",
+      "SettlementNameEng": "KABRI"
+    },
+    {
+      "SettlementNo": 371,
+      "SettlementNam": "כדורי",
+      "SettlementNameEng": "KADOORIE"
+    },
+    {
+      "SettlementNo": 1338,
+      "SettlementNam": "כדיתה",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 3564,
+      "SettlementNam": "כוכב השחר",
+      "SettlementNameEng": "KOKHAV HASHAHAR"
+    },
+    {
+      "SettlementNo": 1224,
+      "SettlementNam": "כוכב יאיר",
+      "SettlementNameEng": "KOKHAV YA'IR"
+    },
+    {
+      "SettlementNo": 3779,
+      "SettlementNam": "כוכב יעקב",
+      "SettlementNameEng": "KOKHAV YA'AQOV"
+    },
+    {
+      "SettlementNo": 824,
+      "SettlementNam": "כוכב מיכאל",
+      "SettlementNameEng": "KOKHAV MIKHA'EL"
+    },
+    {
+      "SettlementNo": 1252,
+      "SettlementNam": "כורזים",
+      "SettlementNameEng": "KORAZIM"
+    },
+    {
+      "SettlementNo": 1210,
+      "SettlementNam": "כחל",
+      "SettlementNameEng": "KAHAL"
+    },
+    {
+      "SettlementNo": 1367,
+      "SettlementNam": "כחלה",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 840,
+      "SettlementNam": "כיסופים",
+      "SettlementNameEng": "KISSUFIM"
+    },
+    {
+      "SettlementNo": 1153,
+      "SettlementNam": "כישור",
+      "SettlementNameEng": "KISHOR"
+    },
+    {
+      "SettlementNo": 1183,
+      "SettlementNam": "כליל",
+      "SettlementNameEng": "KELIL"
+    },
+    {
+      "SettlementNo": 1229,
+      "SettlementNam": "כלנית",
+      "SettlementNameEng": "KALLANIT"
+    },
+    {
+      "SettlementNo": 1331,
+      "SettlementNam": "כמאנה",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1291,
+      "SettlementNam": "כמהין",
+      "SettlementNameEng": "KEMEHIN"
+    },
+    {
+      "SettlementNo": 1201,
+      "SettlementNam": "כמון",
+      "SettlementNameEng": "KAMMON"
+    },
+    {
+      "SettlementNo": 2006,
+      "SettlementNam": "כנות",
+      "SettlementNameEng": "KANNOT"
+    },
+    {
+      "SettlementNo": 4028,
+      "SettlementNam": "כנף",
+      "SettlementNameEng": "KANAF"
+    },
+    {
+      "SettlementNo": 63,
+      "SettlementNam": "כנרת )מושבה(",
+      "SettlementNameEng": "KINNERET(MOSHAVA)"
+    },
+    {
+      "SettlementNo": 57,
+      "SettlementNam": "כנרת )קבוצה(",
+      "SettlementNameEng": "KINNERET(QEVUZA)"
+    },
+    {
+      "SettlementNo": 1059,
+      "SettlementNam": "כסיפה",
+      "SettlementNameEng": "KUSEIFE"
+    },
+    {
+      "SettlementNo": 859,
+      "SettlementNam": "כסלון",
+      "SettlementNameEng": "KESALON"
+    },
+    {
+      "SettlementNo": 1296,
+      "SettlementNam": "כסרא-סמיע",
+      "SettlementNameEng": "KISRA-SUMEI"
+    },
+    {
+      "SettlementNo": 978,
+      "SettlementNam": "כעביה-טבאש-חג'אג'רה",
+      "SettlementNameEng": "KA'ABIYYE-TABBASH-HA"
+    },
+    {
+      "SettlementNo": 857,
+      "SettlementNam": "כפר אביב",
+      "SettlementNameEng": "KEFAR AVIV"
+    },
+    {
+      "SettlementNo": 3638,
+      "SettlementNam": "כפר אדומים",
+      "SettlementNameEng": "KEFAR ADUMMIM"
+    },
+    {
+      "SettlementNo": 364,
+      "SettlementNam": "כפר אוריה",
+      "SettlementNameEng": "KEFAR URIYYA"
+    },
+    {
+      "SettlementNo": 690,
+      "SettlementNam": "כפר אחים",
+      "SettlementNameEng": "KEFAR AHIM"
+    },
+    {
+      "SettlementNo": 220,
+      "SettlementNam": "כפר ביאליק",
+      "SettlementNameEng": "KEFAR BIALIK"
+    },
+    {
+      "SettlementNo": 177,
+      "SettlementNam": "כפר ביל\"ו",
+      "SettlementNameEng": "KEFAR BILU"
+    },
+    {
+      "SettlementNo": 357,
+      "SettlementNam": "כפר בלום",
+      "SettlementNameEng": "KEFAR BLUM"
+    },
+    {
+      "SettlementNo": 2010,
+      "SettlementNam": "כפר בן נון",
+      "SettlementNameEng": "KEFAR BIN NUN"
+    },
+    {
+      "SettlementNo": 633,
+      "SettlementNam": "כפר ברא",
+      "SettlementNameEng": "KAFAR BARA"
+    },
+    {
+      "SettlementNo": 132,
+      "SettlementNam": "כפר ברוך",
+      "SettlementNameEng": "KEFAR BARUKH"
+    },
+    {
+      "SettlementNo": 106,
+      "SettlementNam": "כפר גדעון",
+      "SettlementNameEng": "KEFAR GID'ON"
+    },
+    {
+      "SettlementNo": 427,
+      "SettlementNam": "כפר גלים",
+      "SettlementNameEng": "KEFAR GALLIM"
+    },
+    {
+      "SettlementNo": 310,
+      "SettlementNam": "כפר גליקסון",
+      "SettlementNameEng": "KEFAR GLIKSON"
+    },
+    {
+      "SettlementNo": 76,
+      "SettlementNam": "כפר גלעדי",
+      "SettlementNameEng": "KEFAR GIL'ADI"
+    },
+    {
+      "SettlementNo": 707,
+      "SettlementNam": "כפר דניאל",
+      "SettlementNameEng": "KEFAR DANIYYEL"
+    },
+    {
+      "SettlementNo": 3796,
+      "SettlementNam": "כפר האורנים",
+      "SettlementNameEng": "KEFAR HAORANIM"
+    },
+    {
+      "SettlementNo": 192,
+      "SettlementNam": "כפר החורש",
+      "SettlementNameEng": "KEFAR HAHORESH"
+    },
+    {
+      "SettlementNo": 254,
+      "SettlementNam": "כפר המכבי",
+      "SettlementNameEng": "KEFAR HAMAKKABI"
+    },
+    {
+      "SettlementNo": 582,
+      "SettlementNam": "כפר הנגיד",
+      "SettlementNameEng": "KEFAR HANAGID"
+    },
+    {
+      "SettlementNo": 890,
+      "SettlementNam": "כפר הנוער הדתי",
+      "SettlementNameEng": "KEFAR HANO'AR HADATI"
+    },
+    {
+      "SettlementNo": 443,
+      "SettlementNam": "כפר הנשיא",
+      "SettlementNameEng": "KEFAR HANASI"
+    },
+    {
+      "SettlementNo": 187,
+      "SettlementNam": "כפר הס",
+      "SettlementNameEng": "KEFAR HESS"
+    },
+    {
+      "SettlementNo": 217,
+      "SettlementNam": "כפר הרא\"ה",
+      "SettlementNameEng": "KEFAR HARO'E"
+    },
+    {
+      "SettlementNo": 888,
+      "SettlementNam": "כפר הרי\"ף",
+      "SettlementNameEng": "KEFAR HARIF"
+    },
+    {
+      "SettlementNo": 190,
+      "SettlementNam": "כפר ויתקין",
+      "SettlementNameEng": "KEFAR VITKIN"
+    },
+    {
+      "SettlementNo": 320,
+      "SettlementNam": "כפר ורבורג",
+      "SettlementNameEng": "KEFAR WARBURG"
+    },
+    {
+      "SettlementNo": 1263,
+      "SettlementNam": "כפר ורדים",
+      "SettlementNameEng": "KEFAR WERADIM"
+    },
+    {
+      "SettlementNo": 1325,
+      "SettlementNam": "כפר זוהרים",
+      "SettlementNameEng": "KEFAR ZOHARIM"
+    },
+    {
+      "SettlementNo": 786,
+      "SettlementNam": "כפר זיתים",
+      "SettlementNameEng": "KEFAR ZETIM"
+    },
+    {
+      "SettlementNo": 696,
+      "SettlementNam": "כפר חב\"ד",
+      "SettlementNameEng": "KEFAR HABAD"
+    },
+    {
+      "SettlementNo": 609,
+      "SettlementNam": "כפר חושן",
+      "SettlementNameEng": "KEFAR HOSHEN"
+    },
+    {
+      "SettlementNo": 255,
+      "SettlementNam": "כפר חיטים",
+      "SettlementNameEng": "KEFAR HITTIM"
+    },
+    {
+      "SettlementNo": 193,
+      "SettlementNam": "כפר חיים",
+      "SettlementNameEng": "KEFAR HAYYIM"
+    },
+    {
+      "SettlementNo": 1297,
+      "SettlementNam": "כפר חנניה",
+      "SettlementNameEng": "KEFAR HANANYA"
+    },
+    {
+      "SettlementNo": 112,
+      "SettlementNam": "כפר חסידים א'",
+      "SettlementNameEng": "KEFAR HASIDIM ALEF"
+    },
+    {
+      "SettlementNo": 889,
+      "SettlementNam": "כפר חסידים ב'",
+      "SettlementNameEng": "KEFAR HASIDIM BET"
+    },
+    {
+      "SettlementNo": 4004,
+      "SettlementNam": "כפר חרוב",
+      "SettlementNameEng": "KEFAR HARUV"
+    },
+    {
+      "SettlementNo": 673,
+      "SettlementNam": "כפר טרומן",
+      "SettlementNameEng": "KEFAR TRUMAN"
+    },
+    {
+      "SettlementNo": 507,
+      "SettlementNam": "כפר יאסיף",
+      "SettlementNameEng": "KAFAR YASIF"
+    },
+    {
+      "SettlementNo": 233,
+      "SettlementNam": "כפר ידידיה",
+      "SettlementNameEng": "YEDIDYA"
+    },
+    {
+      "SettlementNo": 140,
+      "SettlementNam": "כפר יהושע",
+      "SettlementNameEng": "KEFAR YEHOSHUA"
+    },
+    {
+      "SettlementNo": 168,
+      "SettlementNam": "כפר יונה",
+      "SettlementNameEng": "KEFAR YONA"
+    },
+    {
+      "SettlementNo": 85,
+      "SettlementNam": "כפר יחזקאל",
+      "SettlementNameEng": "KEFAR YEHEZQEL"
+    },
+    {
+      "SettlementNo": 170,
+      "SettlementNam": "כפר יעבץ",
+      "SettlementNameEng": "KEFAR YA'BEZ"
+    },
+    {
+      "SettlementNo": 508,
+      "SettlementNam": "כפר כמא",
+      "SettlementNameEng": "KAFAR KAMA"
+    },
+    {
+      "SettlementNo": 509,
+      "SettlementNam": "כפר כנא",
+      "SettlementNameEng": "KAFAR KANNA"
+    },
+    {
+      "SettlementNo": 387,
+      "SettlementNam": "כפר מונש",
+      "SettlementNameEng": "KEFAR MONASH"
+    },
+    {
+      "SettlementNo": 1095,
+      "SettlementNam": "כפר מימון",
+      "SettlementNameEng": "KEFAR MAYMON"
+    },
+    {
+      "SettlementNo": 98,
+      "SettlementNam": "כפר מל\"ל",
+      "SettlementNameEng": "KEFAR MALAL"
+    },
+    {
+      "SettlementNo": 510,
+      "SettlementNam": "כפר מנדא",
+      "SettlementNameEng": "KAFAR MANDA"
+    },
+    {
+      "SettlementNo": 274,
+      "SettlementNam": "כפר מנחם",
+      "SettlementNameEng": "KEFAR MENAHEM"
+    },
+    {
+      "SettlementNo": 297,
+      "SettlementNam": "כפר מסריק",
+      "SettlementNameEng": "KEFAR MASARYK"
+    },
+    {
+      "SettlementNo": 512,
+      "SettlementNam": "כפר מצר",
+      "SettlementNameEng": "KAFAR MISR"
+    },
+    {
+      "SettlementNo": 764,
+      "SettlementNam": "כפר מרדכי",
+      "SettlementNameEng": "KEFAR MORDEKHAY"
+    },
+    {
+      "SettlementNo": 316,
+      "SettlementNam": "כפר נטר",
+      "SettlementNameEng": "KEFAR NETTER"
+    },
+    {
+      "SettlementNo": 345,
+      "SettlementNam": "כפר סאלד",
+      "SettlementNameEng": "KEFAR SZOLD"
+    },
+    {
+      "SettlementNo": 6900,
+      "SettlementNam": "כפר סבא",
+      "SettlementNameEng": "KEFAR SAVA"
+    },
+    {
+      "SettlementNo": 107,
+      "SettlementNam": "כפר סילבר",
+      "SettlementNameEng": "KEFAR SILVER"
+    },
+    {
+      "SettlementNo": 249,
+      "SettlementNam": "כפר סירקין",
+      "SettlementNameEng": "KEFAR SIRKIN"
+    },
+    {
+      "SettlementNo": 875,
+      "SettlementNam": "כפר עבודה",
+      "SettlementNameEng": "KEFAR AVODA"
+    },
+    {
+      "SettlementNo": 845,
+      "SettlementNam": "כפר עזה",
+      "SettlementNameEng": "KEFAR AZZA"
+    },
+    {
+      "SettlementNo": 3488,
+      "SettlementNam": "כפר עציון",
+      "SettlementNameEng": "KEFAR EZYON"
+    },
+    {
+      "SettlementNo": 189,
+      "SettlementNam": "כפר פינס",
+      "SettlementNameEng": "KEFAR PINES"
+    },
+    {
+      "SettlementNo": 634,
+      "SettlementNam": "כפר קאסם",
+      "SettlementNameEng": "KAFAR QASEM"
+    },
+    {
+      "SettlementNo": 388,
+      "SettlementNam": "כפר קיש",
+      "SettlementNameEng": "KEFAR KISH"
+    },
+    {
+      "SettlementNo": 654,
+      "SettlementNam": "כפר קרע",
+      "SettlementNameEng": "KAFAR QARA"
+    },
+    {
+      "SettlementNo": 579,
+      "SettlementNam": "כפר ראש הנקרה",
+      "SettlementNameEng": "KEFAR ROSH HANIQRA"
+    },
+    {
+      "SettlementNo": 1130,
+      "SettlementNam": "כפר רוזנואלד )זרעית(",
+      "SettlementNameEng": "KEFAR ROZENWALD(ZAR."
+    },
+    {
+      "SettlementNo": 295,
+      "SettlementNam": "כפר רופין",
+      "SettlementNameEng": "KEFAR RUPPIN"
+    },
+    {
+      "SettlementNo": 1166,
+      "SettlementNam": "כפר רות",
+      "SettlementNameEng": "KEFAR RUT"
+    },
+    {
+      "SettlementNo": 605,
+      "SettlementNam": "כפר שמאי",
+      "SettlementNameEng": "KEFAR SHAMMAY"
+    },
+    {
+      "SettlementNo": 743,
+      "SettlementNam": "כפר שמואל",
+      "SettlementNameEng": "KEFAR SHEMU'EL"
+    },
+    {
+      "SettlementNo": 267,
+      "SettlementNam": "כפר שמריהו",
+      "SettlementNameEng": "KEFAR SHEMARYAHU"
+    },
+    {
+      "SettlementNo": 47,
+      "SettlementNam": "כפר תבור",
+      "SettlementNameEng": "KEFAR TAVOR"
+    },
+    {
+      "SettlementNo": 3572,
+      "SettlementNam": "כפר תפוח",
+      "SettlementNameEng": "KEFAR TAPPUAH"
+    },
+    {
+      "SettlementNo": 38,
+      "SettlementNam": "כרי דשא",
+      "SettlementNameEng": "KARE DESHE"
+    },
+    {
+      "SettlementNo": 1285,
+      "SettlementNam": "כרכום",
+      "SettlementNameEng": "KARKOM"
+    },
+    {
+      "SettlementNo": 664,
+      "SettlementNam": "כרם בן זמרה",
+      "SettlementNameEng": "KEREM BEN ZIMRA"
+    },
+    {
+      "SettlementNo": 88,
+      "SettlementNam": "כרם בן שמן",
+      "SettlementNameEng": "KEREM BEN SHEMEN"
+    },
+    {
+      "SettlementNo": 1094,
+      "SettlementNam": "כרם יבנה )ישיבה(",
+      "SettlementNameEng": "KEREM YAVNE(YESHIVA)"
+    },
+    {
+      "SettlementNo": 580,
+      "SettlementNam": "כרם מהר\"ל",
+      "SettlementNameEng": "KEREM MAHARAL"
+    },
+    {
+      "SettlementNo": 1085,
+      "SettlementNam": "כרם שלום",
+      "SettlementNameEng": "KEREM SHALOM"
+    },
+    {
+      "SettlementNo": 1264,
+      "SettlementNam": "כרמי יוסף",
+      "SettlementNameEng": "KARME YOSEF"
+    },
+    {
+      "SettlementNo": 3766,
+      "SettlementNam": "כרמי צור",
+      "SettlementNameEng": "KARME ZUR"
+    },
+    {
+      "SettlementNo": 1374,
+      "SettlementNam": "כרמי קטיף",
+      "SettlementNameEng": "KARME QATIF"
+    },
+    {
+      "SettlementNo": 1139,
+      "SettlementNam": "כרמיאל",
+      "SettlementNameEng": "KARMI'EL"
+    },
+    {
+      "SettlementNo": 768,
+      "SettlementNam": "כרמיה",
+      "SettlementNameEng": "KARMIYYA"
+    },
+    {
+      "SettlementNo": 1198,
+      "SettlementNam": "כרמים",
+      "SettlementNameEng": "KERAMIM"
+    },
+    {
+      "SettlementNo": 3656,
+      "SettlementNam": "כרמל",
+      "SettlementNameEng": "KARMEL"
+    },
+    {
+      "SettlementNo": 0,
+      "SettlementNam": "לא רשום",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1207,
+      "SettlementNam": "לבון",
+      "SettlementNameEng": "LAVON"
+    },
+    {
+      "SettlementNo": 585,
+      "SettlementNam": "לביא",
+      "SettlementNameEng": "LAVI"
+    },
+    {
+      "SettlementNo": 1230,
+      "SettlementNam": "לבנים",
+      "SettlementNameEng": "LIVNIM"
+    },
+    {
+      "SettlementNo": 2023,
+      "SettlementNam": "להב",
+      "SettlementNameEng": "LAHAV"
+    },
+    {
+      "SettlementNo": 380,
+      "SettlementNam": "להבות הבשן",
+      "SettlementNameEng": "LAHAVOT HABASHAN"
+    },
+    {
+      "SettlementNo": 715,
+      "SettlementNam": "להבות חביבה",
+      "SettlementNameEng": "LAHAVOT HAVIVA"
+    },
+    {
+      "SettlementNo": 1271,
+      "SettlementNam": "להבים",
+      "SettlementNameEng": "LEHAVIM"
+    },
+    {
+      "SettlementNo": 7000,
+      "SettlementNam": "לוד",
+      "SettlementNameEng": "LOD"
+    },
+    {
+      "SettlementNo": 52,
+      "SettlementNam": "לוזית",
+      "SettlementNameEng": "LUZIT"
+    },
+    {
+      "SettlementNo": 595,
+      "SettlementNam": "לוחמי הגיטאות",
+      "SettlementNameEng": "LOHAME HAGETA'OT"
+    },
+    {
+      "SettlementNo": 1171,
+      "SettlementNam": "לוטם",
+      "SettlementNameEng": "LOTEM"
+    },
+    {
+      "SettlementNo": 1255,
+      "SettlementNam": "לוטן",
+      "SettlementNameEng": "LOTAN"
+    },
+    {
+      "SettlementNo": 674,
+      "SettlementNam": "לימן",
+      "SettlementNameEng": "LIMAN"
+    },
+    {
+      "SettlementNo": 24,
+      "SettlementNam": "לכיש",
+      "SettlementNameEng": "LAKHISH"
+    },
+    {
+      "SettlementNo": 1310,
+      "SettlementNam": "לפיד",
+      "SettlementNameEng": "LAPPID"
+    },
+    {
+      "SettlementNo": 1173,
+      "SettlementNam": "לפידות",
+      "SettlementNameEng": "LAPPIDOT"
+    },
+    {
+      "SettlementNo": 1060,
+      "SettlementNam": "לקיה",
+      "SettlementNameEng": "LAQYE"
+    },
+    {
+      "SettlementNo": 2055,
+      "SettlementNam": "מאור",
+      "SettlementNameEng": "MA'OR"
+    },
+    {
+      "SettlementNo": 102,
+      "SettlementNam": "מאיר שפיה",
+      "SettlementNameEng": "ME'IR SHEFEYA"
+    },
+    {
+      "SettlementNo": 771,
+      "SettlementNam": "מבוא ביתר",
+      "SettlementNameEng": "MEVO BETAR"
+    },
+    {
+      "SettlementNo": 3569,
+      "SettlementNam": "מבוא דותן",
+      "SettlementNameEng": "MEVO DOTAN"
+    },
+    {
+      "SettlementNo": 3709,
+      "SettlementNam": "מבוא חורון",
+      "SettlementNameEng": "MEVO HORON"
+    },
+    {
+      "SettlementNo": 4204,
+      "SettlementNam": "מבוא חמה",
+      "SettlementNameEng": "MEVO HAMMA"
+    },
+    {
+      "SettlementNo": 1141,
+      "SettlementNam": "מבוא מודיעים",
+      "SettlementNameEng": "MEVO MODI'IM"
+    },
+    {
+      "SettlementNo": 1318,
+      "SettlementNam": "מבואות ים",
+      "SettlementNameEng": "MEVO'OT YAM"
+    },
+    {
+      "SettlementNo": 1080,
+      "SettlementNam": "מבועים",
+      "SettlementNameEng": "MABBU'IM"
+    },
+    {
+      "SettlementNo": 829,
+      "SettlementNam": "מבטחים",
+      "SettlementNameEng": "MIVTAHIM"
+    },
+    {
+      "SettlementNo": 573,
+      "SettlementNam": "מבקיעים",
+      "SettlementNameEng": "MAVQI'IM"
+    },
+    {
+      "SettlementNo": 1015,
+      "SettlementNam": "מבשרת ציון",
+      "SettlementNameEng": "MEVASSERET ZIYYON"
+    },
+    {
+      "SettlementNo": 516,
+      "SettlementNam": "מג'ד אל-כרום",
+      "SettlementNameEng": "MAJD AL-KURUM"
+    },
+    {
+      "SettlementNo": 4201,
+      "SettlementNam": "מג'דל שמס",
+      "SettlementNameEng": "MAJDAL SHAMS"
+    },
+    {
+      "SettlementNo": 481,
+      "SettlementNam": "מגאר",
+      "SettlementNameEng": "MUGHAR"
+    },
+    {
+      "SettlementNo": 689,
+      "SettlementNam": "מגדים",
+      "SettlementNameEng": "MEGADIM"
+    },
+    {
+      "SettlementNo": 65,
+      "SettlementNam": "מגדל",
+      "SettlementNameEng": "MIGDAL"
+    },
+    {
+      "SettlementNo": 874,
+      "SettlementNam": "מגדל העמק",
+      "SettlementNameEng": "MIGDAL HAEMEQ"
+    },
+    {
+      "SettlementNo": 3561,
+      "SettlementNam": "מגדל עוז",
+      "SettlementNameEng": "MIGDAL OZ"
+    },
+    {
+      "SettlementNo": 3751,
+      "SettlementNam": "מגדלים",
+      "SettlementNameEng": "MIGDALIM"
+    },
+    {
+      "SettlementNo": 586,
+      "SettlementNam": "מגידו",
+      "SettlementNameEng": "MEGIDDO"
+    },
+    {
+      "SettlementNo": 375,
+      "SettlementNam": "מגל",
+      "SettlementNameEng": "MAGGAL"
+    },
+    {
+      "SettlementNo": 695,
+      "SettlementNam": "מגן",
+      "SettlementNameEng": "MAGEN"
+    },
+    {
+      "SettlementNo": 1155,
+      "SettlementNam": "מגן שאול",
+      "SettlementNameEng": "MAGEN SHA'UL"
+    },
+    {
+      "SettlementNo": 722,
+      "SettlementNam": "מגשימים",
+      "SettlementNameEng": "MAGSHIMIM"
+    },
+    {
+      "SettlementNo": 2029,
+      "SettlementNam": "מדרך עוז",
+      "SettlementNameEng": "MIDRAKH OZ"
+    },
+    {
+      "SettlementNo": 1140,
+      "SettlementNam": "מדרשת בן גוריון",
+      "SettlementNameEng": "MIDRESHET BEN GURION"
+    },
+    {
+      "SettlementNo": 897,
+      "SettlementNam": "מדרשת רופין",
+      "SettlementNameEng": "MIDRESHET RUPPIN"
+    },
+    {
+      "SettlementNo": 3797,
+      "SettlementNam": "מודיעין עילית",
+      "SettlementNameEng": "MODI'IN ILLIT"
+    },
+    {
+      "SettlementNo": 1200,
+      "SettlementNam": "מודיעין-מכבים-רעות",
+      "SettlementNameEng": "MODI'IN-MAKKABBIM-RE"
+    },
+    {
+      "SettlementNo": 269,
+      "SettlementNam": "מולדת",
+      "SettlementNameEng": "MOLEDET"
+    },
+    {
+      "SettlementNo": 208,
+      "SettlementNam": "מוצא עילית",
+      "SettlementNameEng": "MOZA ILLIT"
+    },
+    {
+      "SettlementNo": 635,
+      "SettlementNam": "מוקייבלה",
+      "SettlementNameEng": "MUQEIBLE"
+    },
+    {
+      "SettlementNo": 1163,
+      "SettlementNam": "מורן",
+      "SettlementNameEng": "MORAN"
+    },
+    {
+      "SettlementNo": 1178,
+      "SettlementNam": "מורשת",
+      "SettlementNameEng": "MORESHET"
+    },
+    {
+      "SettlementNo": 606,
+      "SettlementNam": "מזור",
+      "SettlementNameEng": "MAZOR"
+    },
+    {
+      "SettlementNo": 28,
+      "SettlementNam": "מזכרת בתיה",
+      "SettlementNameEng": "MAZKERET BATYA"
+    },
+    {
+      "SettlementNo": 104,
+      "SettlementNam": "מזרע",
+      "SettlementNameEng": "MIZRA"
+    },
+    {
+      "SettlementNo": 517,
+      "SettlementNam": "מזרעה",
+      "SettlementNameEng": "MAZRA'A"
+    },
+    {
+      "SettlementNo": 3599,
+      "SettlementNam": "מחולה",
+      "SettlementNameEng": "MEHOLA"
+    },
+    {
+      "SettlementNo": 1411,
+      "SettlementNam": "מחנה הילה",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1418,
+      "SettlementNam": "מחנה טלי",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1413,
+      "SettlementNam": "מחנה יהודית",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1416,
+      "SettlementNam": "מחנה יוכבד",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1415,
+      "SettlementNam": "מחנה יפה",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1196,
+      "SettlementNam": "מחנה יתיר",
+      "SettlementNameEng": "MAHANE YATTIR"
+    },
+    {
+      "SettlementNo": 1414,
+      "SettlementNam": "מחנה מרים",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1417,
+      "SettlementNam": "מחנה עדי",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1412,
+      "SettlementNam": "מחנה תל נוף",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 308,
+      "SettlementNam": "מחניים",
+      "SettlementNameEng": "MAHANAYIM"
+    },
+    {
+      "SettlementNo": 776,
+      "SettlementNam": "מחסיה",
+      "SettlementNameEng": "MAHSEYA"
+    },
+    {
+      "SettlementNo": 43,
+      "SettlementNam": "מטולה",
+      "SettlementNameEng": "METULA"
+    },
+    {
+      "SettlementNo": 822,
+      "SettlementNam": "מטע",
+      "SettlementNameEng": "MATTA"
+    },
+    {
+      "SettlementNo": 1128,
+      "SettlementNam": "מי עמי",
+      "SettlementNameEng": "ME AMMI"
+    },
+    {
+      "SettlementNo": 2054,
+      "SettlementNam": "מיטב",
+      "SettlementNameEng": "METAV"
+    },
+    {
+      "SettlementNo": 649,
+      "SettlementNam": "מייסר",
+      "SettlementNameEng": "MEISER"
+    },
+    {
+      "SettlementNo": 4019,
+      "SettlementNam": "מיצר",
+      "SettlementNameEng": "MEZAR"
+    },
+    {
+      "SettlementNo": 1282,
+      "SettlementNam": "מירב",
+      "SettlementNameEng": "MERAV"
+    },
+    {
+      "SettlementNo": 607,
+      "SettlementNam": "מירון",
+      "SettlementNameEng": "MERON"
+    },
+    {
+      "SettlementNo": 731,
+      "SettlementNam": "מישר",
+      "SettlementNameEng": "MESHAR"
+    },
+    {
+      "SettlementNo": 1268,
+      "SettlementNam": "מיתר",
+      "SettlementNameEng": "METAR"
+    },
+    {
+      "SettlementNo": 3614,
+      "SettlementNam": "מכורה",
+      "SettlementNameEng": "MEKHORA"
+    },
+    {
+      "SettlementNo": 1343,
+      "SettlementNam": "מכחול",
+      "SettlementNameEng": "MAKCHUL"
+    },
+    {
+      "SettlementNo": 382,
+      "SettlementNam": "מכמורת",
+      "SettlementNameEng": "MIKHMORET"
+    },
+    {
+      "SettlementNo": 1202,
+      "SettlementNam": "מכמנים",
+      "SettlementNameEng": "MIKHMANNIM"
+    },
+    {
+      "SettlementNo": 164,
+      "SettlementNam": "מלאה",
+      "SettlementNameEng": "MELE'A"
+    },
+    {
+      "SettlementNo": 2044,
+      "SettlementNam": "מלילות",
+      "SettlementNameEng": "MELILOT"
+    },
+    {
+      "SettlementNo": 596,
+      "SettlementNam": "מלכיה",
+      "SettlementNameEng": "MALKIYYA"
+    },
+    {
+      "SettlementNo": 1154,
+      "SettlementNam": "מלכישוע",
+      "SettlementNameEng": "MALKISHUA"
+    },
+    {
+      "SettlementNo": 2030,
+      "SettlementNam": "מנוחה",
+      "SettlementNameEng": "MENUHA"
+    },
+    {
+      "SettlementNo": 1174,
+      "SettlementNam": "מנוף",
+      "SettlementNameEng": "MANOF"
+    },
+    {
+      "SettlementNo": 1205,
+      "SettlementNam": "מנות",
+      "SettlementNameEng": "MANOT"
+    },
+    {
+      "SettlementNo": 48,
+      "SettlementNam": "מנחמיה",
+      "SettlementNameEng": "MENAHEMYA"
+    },
+    {
+      "SettlementNo": 347,
+      "SettlementNam": "מנרה",
+      "SettlementNameEng": "MENNARA"
+    },
+    {
+      "SettlementNo": 994,
+      "SettlementNam": "מנשית זבדה",
+      "SettlementNameEng": "MANSHIYYET ZABDA"
+    },
+    {
+      "SettlementNo": 1258,
+      "SettlementNam": "מסד",
+      "SettlementNameEng": "MASSAD"
+    },
+    {
+      "SettlementNo": 263,
+      "SettlementNam": "מסדה",
+      "SettlementNameEng": "MASSADA"
+    },
+    {
+      "SettlementNo": 298,
+      "SettlementNam": "מסילות",
+      "SettlementNameEng": "MESILLOT"
+    },
+    {
+      "SettlementNo": 742,
+      "SettlementNam": "מסילת ציון",
+      "SettlementNameEng": "MESILLAT ZIYYON"
+    },
+    {
+      "SettlementNo": 748,
+      "SettlementNam": "מסלול",
+      "SettlementNameEng": "MASLUL"
+    },
+    {
+      "SettlementNo": 4203,
+      "SettlementNam": "מסעדה",
+      "SettlementNameEng": "MAS'ADE"
+    },
+    {
+      "SettlementNo": 939,
+      "SettlementNam": "מסעודין אל-עזאזמה",
+      "SettlementNameEng": "MAS'UDIN AL-'AZAZME"
+    },
+    {
+      "SettlementNo": 197,
+      "SettlementNam": "מעברות",
+      "SettlementNameEng": "MA'BAROT"
+    },
+    {
+      "SettlementNo": 1082,
+      "SettlementNam": "מעגלים",
+      "SettlementNameEng": "MA'GALIM"
+    },
+    {
+      "SettlementNo": 678,
+      "SettlementNam": "מעגן",
+      "SettlementNameEng": "MA'AGAN"
+    },
+    {
+      "SettlementNo": 694,
+      "SettlementNam": "מעגן מיכאל",
+      "SettlementNameEng": "MA'AGAN MIKHA'EL"
+    },
+    {
+      "SettlementNo": 272,
+      "SettlementNam": "מעוז חיים",
+      "SettlementNameEng": "MA'OZ HAYYIM"
+    },
+    {
+      "SettlementNo": 3657,
+      "SettlementNam": "מעון",
+      "SettlementNameEng": "MA'ON"
+    },
+    {
+      "SettlementNo": 570,
+      "SettlementNam": "מעונה",
+      "SettlementNameEng": "ME'ONA"
+    },
+    {
+      "SettlementNo": 518,
+      "SettlementNam": "מעיליא",
+      "SettlementNameEng": "MI'ELYA"
+    },
+    {
+      "SettlementNo": 416,
+      "SettlementNam": "מעין ברוך",
+      "SettlementNameEng": "MA'YAN BARUKH"
+    },
+    {
+      "SettlementNo": 290,
+      "SettlementNam": "מעין צבי",
+      "SettlementNameEng": "MA'YAN ZEVI"
+    },
+    {
+      "SettlementNo": 3616,
+      "SettlementNam": "מעלה אדומים",
+      "SettlementNameEng": "MA'ALE ADUMMIM"
+    },
+    {
+      "SettlementNo": 3608,
+      "SettlementNam": "מעלה אפרים",
+      "SettlementNameEng": "MA'ALE EFRAYIM"
+    },
+    {
+      "SettlementNo": 1127,
+      "SettlementNam": "מעלה גלבוע",
+      "SettlementNameEng": "MA'ALE GILBOA"
+    },
+    {
+      "SettlementNo": 4008,
+      "SettlementNam": "מעלה גמלא",
+      "SettlementNameEng": "MA'ALE GAMLA"
+    },
+    {
+      "SettlementNo": 286,
+      "SettlementNam": "מעלה החמישה",
+      "SettlementNameEng": "MA'ALE HAHAMISHA"
+    },
+    {
+      "SettlementNo": 3752,
+      "SettlementNam": "מעלה לבונה",
+      "SettlementNameEng": "MA'ALE LEVONA"
+    },
+    {
+      "SettlementNo": 3651,
+      "SettlementNam": "מעלה מכמש",
+      "SettlementNameEng": "MA'ALE MIKHMAS"
+    },
+    {
+      "SettlementNo": 1327,
+      "SettlementNam": "מעלה עירון",
+      "SettlementNameEng": "MA'ALE IRON"
+    },
+    {
+      "SettlementNo": 3653,
+      "SettlementNam": "מעלה עמוס",
+      "SettlementNameEng": "MA'ALE AMOS"
+    },
+    {
+      "SettlementNo": 3637,
+      "SettlementNam": "מעלה שומרון",
+      "SettlementNameEng": "MA'ALE SHOMERON"
+    },
+    {
+      "SettlementNo": 1063,
+      "SettlementNam": "מעלות-תרשיחא",
+      "SettlementNameEng": "MA'ALOT-TARSHIHA"
+    },
+    {
+      "SettlementNo": 344,
+      "SettlementNam": "מענית",
+      "SettlementNameEng": "MA'ANIT"
+    },
+    {
+      "SettlementNo": 230,
+      "SettlementNam": "מעש",
+      "SettlementNameEng": "MA'AS"
+    },
+    {
+      "SettlementNo": 668,
+      "SettlementNam": "מפלסים",
+      "SettlementNameEng": "MEFALLESIM"
+    },
+    {
+      "SettlementNo": 3745,
+      "SettlementNam": "מצדות יהודה",
+      "SettlementNameEng": "MEZADOT YEHUDA"
+    },
+    {
+      "SettlementNo": 325,
+      "SettlementNam": "מצובה",
+      "SettlementNameEng": "MAZZUVA"
+    },
+    {
+      "SettlementNo": 757,
+      "SettlementNam": "מצליח",
+      "SettlementNameEng": "MAZLIAH"
+    },
+    {
+      "SettlementNo": 58,
+      "SettlementNam": "מצפה",
+      "SettlementNameEng": "MIZPA"
+    },
+    {
+      "SettlementNo": 1222,
+      "SettlementNam": "מצפה אבי\"ב",
+      "SettlementNameEng": "MIZPE AVIV"
+    },
+    {
+      "SettlementNo": 1370,
+      "SettlementNam": "מצפה אילן",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 3576,
+      "SettlementNam": "מצפה יריחו",
+      "SettlementNameEng": "MIZPE YERIHO"
+    },
+    {
+      "SettlementNo": 1190,
+      "SettlementNam": "מצפה נטופה",
+      "SettlementNameEng": "MIZPE NETOFA"
+    },
+    {
+      "SettlementNo": 99,
+      "SettlementNam": "מצפה רמון",
+      "SettlementNameEng": "MIZPE RAMON"
+    },
+    {
+      "SettlementNo": 3610,
+      "SettlementNam": "מצפה שלם",
+      "SettlementNameEng": "MIZPE SHALEM"
+    },
+    {
+      "SettlementNo": 648,
+      "SettlementNam": "מצר",
+      "SettlementNameEng": "MEZER"
+    },
+    {
+      "SettlementNo": 22,
+      "SettlementNam": "מקווה ישראל",
+      "SettlementNameEng": "MIQWE YISRA'EL"
+    },
+    {
+      "SettlementNo": 843,
+      "SettlementNam": "מרגליות",
+      "SettlementNameEng": "MARGALIYYOT"
+    },
+    {
+      "SettlementNo": 4101,
+      "SettlementNam": "מרום גולן",
+      "SettlementNameEng": "MEROM GOLAN"
+    },
+    {
+      "SettlementNo": 1340,
+      "SettlementNam": "מרחב עם",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 97,
+      "SettlementNam": "מרחביה )מושב(",
+      "SettlementNameEng": "MERHAVYA(MOSHAV)"
+    },
+    {
+      "SettlementNo": 66,
+      "SettlementNam": "מרחביה )קיבוץ(",
+      "SettlementNameEng": "MERHAVYA(QIBBUZ)"
+    },
+    {
+      "SettlementNo": 1098,
+      "SettlementNam": "מרכז שפירא",
+      "SettlementNameEng": "MERKAZ SHAPPIRA"
+    },
+    {
+      "SettlementNo": 421,
+      "SettlementNam": "משאבי שדה",
+      "SettlementNameEng": "MASH'ABBE SADE"
+    },
+    {
+      "SettlementNo": 765,
+      "SettlementNam": "משגב דב",
+      "SettlementNameEng": "MISGAV DOV"
+    },
+    {
+      "SettlementNo": 378,
+      "SettlementNam": "משגב עם",
+      "SettlementNameEng": "MISGAV AM"
+    },
+    {
+      "SettlementNo": 520,
+      "SettlementNam": "משהד",
+      "SettlementNameEng": "MESHHED"
+    },
+    {
+      "SettlementNo": 3605,
+      "SettlementNam": "משואה",
+      "SettlementNameEng": "MASSU'A"
+    },
+    {
+      "SettlementNo": 620,
+      "SettlementNam": "משואות יצחק",
+      "SettlementNameEng": "MASSUOT YIZHAQ"
+    },
+    {
+      "SettlementNo": 3785,
+      "SettlementNam": "משכיות",
+      "SettlementNameEng": "MASKIYYOT"
+    },
+    {
+      "SettlementNo": 670,
+      "SettlementNam": "משמר איילון",
+      "SettlementNameEng": "MISHMAR AYYALON"
+    },
+    {
+      "SettlementNo": 563,
+      "SettlementNam": "משמר דוד",
+      "SettlementNameEng": "MISHMAR DAWID"
+    },
+    {
+      "SettlementNo": 732,
+      "SettlementNam": "משמר הירדן",
+      "SettlementNameEng": "MISHMAR HAYARDEN"
+    },
+    {
+      "SettlementNo": 395,
+      "SettlementNam": "משמר הנגב",
+      "SettlementNameEng": "MISHMAR HANEGEV"
+    },
+    {
+      "SettlementNo": 130,
+      "SettlementNam": "משמר העמק",
+      "SettlementNameEng": "MISHMAR HAEMEQ"
+    },
+    {
+      "SettlementNo": 729,
+      "SettlementNam": "משמר השבעה",
+      "SettlementNameEng": "MISHMAR HASHIV'A"
+    },
+    {
+      "SettlementNo": 194,
+      "SettlementNam": "משמר השרון",
+      "SettlementNameEng": "MISHMAR HASHARON"
+    },
+    {
+      "SettlementNo": 213,
+      "SettlementNam": "משמרות",
+      "SettlementNameEng": "MISHMAROT"
+    },
+    {
+      "SettlementNo": 425,
+      "SettlementNam": "משמרת",
+      "SettlementNameEng": "MISHMERET"
+    },
+    {
+      "SettlementNo": 791,
+      "SettlementNam": "משען",
+      "SettlementNameEng": "MASH'EN"
+    },
+    {
+      "SettlementNo": 1315,
+      "SettlementNam": "מתן",
+      "SettlementNameEng": "MATTAN"
+    },
+    {
+      "SettlementNo": 1184,
+      "SettlementNam": "מתת",
+      "SettlementNameEng": "MATTAT"
+    },
+    {
+      "SettlementNo": 3648,
+      "SettlementNam": "מתתיהו",
+      "SettlementNameEng": "MATTITYAHU"
+    },
+    {
+      "SettlementNo": 4551,
+      "SettlementNam": "נאות גולן",
+      "SettlementNameEng": "NE'OT GOLAN"
+    },
+    {
+      "SettlementNo": 1124,
+      "SettlementNam": "נאות הכיכר",
+      "SettlementNameEng": "NE'OT HAKIKKAR"
+    },
+    {
+      "SettlementNo": 408,
+      "SettlementNam": "נאות מרדכי",
+      "SettlementNameEng": "NE'OT MORDEKHAY"
+    },
+    {
+      "SettlementNo": 1197,
+      "SettlementNam": "נאות סמדר",
+      "SettlementNameEng": "SHIZZAFON"
+    },
+    {
+      "SettlementNo": 524,
+      "SettlementNam": "נאעורה",
+      "SettlementNameEng": "NA'URA"
+    },
+    {
+      "SettlementNo": 396,
+      "SettlementNam": "נבטים",
+      "SettlementNameEng": "NEVATIM"
+    },
+    {
+      "SettlementNo": 315,
+      "SettlementNam": "נגבה",
+      "SettlementNameEng": "NEGBA"
+    },
+    {
+      "SettlementNo": 3724,
+      "SettlementNam": "נגוהות",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 309,
+      "SettlementNam": "נהורה",
+      "SettlementNameEng": "NEHORA"
+    },
+    {
+      "SettlementNo": 80,
+      "SettlementNam": "נהלל",
+      "SettlementNameEng": "NAHALAL"
+    },
+    {
+      "SettlementNo": 9100,
+      "SettlementNam": "נהריה",
+      "SettlementNameEng": "NAHARIYYA"
+    },
+    {
+      "SettlementNo": 4304,
+      "SettlementNam": "נוב",
+      "SettlementNameEng": "NOV"
+    },
+    {
+      "SettlementNo": 55,
+      "SettlementNam": "נוגה",
+      "SettlementNameEng": "NOGAH"
+    },
+    {
+      "SettlementNo": 1366,
+      "SettlementNam": "נווה",
+      "SettlementNameEng": "NAVE"
+    },
+    {
+      "SettlementNo": 926,
+      "SettlementNam": "נווה אבות",
+      "SettlementNameEng": "NEWE AVOT"
+    },
+    {
+      "SettlementNo": 590,
+      "SettlementNam": "נווה אור",
+      "SettlementNameEng": "NEWE UR"
+    },
+    {
+      "SettlementNo": 4303,
+      "SettlementNam": "נווה אטי\"ב",
+      "SettlementNameEng": "NEWE ATIV"
+    },
+    {
+      "SettlementNo": 405,
+      "SettlementNam": "נווה אילן",
+      "SettlementNameEng": "NEWE ILAN"
+    },
+    {
+      "SettlementNo": 296,
+      "SettlementNam": "נווה איתן",
+      "SettlementNameEng": "NEWE ETAN"
+    },
+    {
+      "SettlementNo": 3725,
+      "SettlementNam": "נווה דניאל",
+      "SettlementNameEng": "NEWE DANIYYEL"
+    },
+    {
+      "SettlementNo": 1057,
+      "SettlementNam": "נווה זוהר",
+      "SettlementNameEng": "NEWE ZOHAR"
+    },
+    {
+      "SettlementNo": 1314,
+      "SettlementNam": "נווה זיו",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1279,
+      "SettlementNam": "נווה חריף",
+      "SettlementNameEng": "NEWE HARIF"
+    },
+    {
+      "SettlementNo": 312,
+      "SettlementNam": "נווה ים",
+      "SettlementNameEng": "NEWE YAM"
+    },
+    {
+      "SettlementNo": 686,
+      "SettlementNam": "נווה ימין",
+      "SettlementNameEng": "NEWE YAMIN"
+    },
+    {
+      "SettlementNo": 858,
+      "SettlementNam": "נווה ירק",
+      "SettlementNameEng": "NEWE YARAQ"
+    },
+    {
+      "SettlementNo": 827,
+      "SettlementNam": "נווה מבטח",
+      "SettlementNameEng": "NEWE MIVTAH"
+    },
+    {
+      "SettlementNo": 1071,
+      "SettlementNam": "נווה מיכאל",
+      "SettlementNameEng": "NEWE MIKHA'EL"
+    },
+    {
+      "SettlementNo": 1259,
+      "SettlementNam": "נווה שלום",
+      "SettlementNameEng": "NEWE SHALOM"
+    },
+    {
+      "SettlementNo": 15,
+      "SettlementNam": "נועם",
+      "SettlementNameEng": "NO'AM"
+    },
+    {
+      "SettlementNo": 1333,
+      "SettlementNam": "נוף איילון",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 3790,
+      "SettlementNam": "נופים",
+      "SettlementNameEng": "NOFIM"
+    },
+    {
+      "SettlementNo": 1284,
+      "SettlementNam": "נופית",
+      "SettlementNameEng": "NOFIT"
+    },
+    {
+      "SettlementNo": 257,
+      "SettlementNam": "נופך",
+      "SettlementNameEng": "NOFEKH"
+    },
+    {
+      "SettlementNo": 3726,
+      "SettlementNam": "נוקדים",
+      "SettlementNameEng": "NOQEDIM"
+    },
+    {
+      "SettlementNo": 447,
+      "SettlementNam": "נורדיה",
+      "SettlementNameEng": "NORDIYYA"
+    },
+    {
+      "SettlementNo": 833,
+      "SettlementNam": "נורית",
+      "SettlementNameEng": "NURIT"
+    },
+    {
+      "SettlementNo": 59,
+      "SettlementNam": "נחושה",
+      "SettlementNameEng": "NEHUSHA"
+    },
+    {
+      "SettlementNo": 844,
+      "SettlementNam": "נחל עוז",
+      "SettlementNameEng": "NAHAL OZ"
+    },
+    {
+      "SettlementNo": 2045,
+      "SettlementNam": "נחלה",
+      "SettlementNameEng": "NAHALA"
+    },
+    {
+      "SettlementNo": 3767,
+      "SettlementNam": "נחליאל",
+      "SettlementNameEng": "NAHALI'EL"
+    },
+    {
+      "SettlementNo": 449,
+      "SettlementNam": "נחלים",
+      "SettlementNameEng": "NEHALIM"
+    },
+    {
+      "SettlementNo": 809,
+      "SettlementNam": "נחם",
+      "SettlementNameEng": "NAHAM"
+    },
+    {
+      "SettlementNo": 522,
+      "SettlementNam": "נחף",
+      "SettlementNameEng": "NAHEF"
+    },
+    {
+      "SettlementNo": 433,
+      "SettlementNam": "נחשולים",
+      "SettlementNameEng": "NAHSHOLIM"
+    },
+    {
+      "SettlementNo": 777,
+      "SettlementNam": "נחשון",
+      "SettlementNameEng": "NAHSHON"
+    },
+    {
+      "SettlementNo": 705,
+      "SettlementNam": "נחשונים",
+      "SettlementNameEng": "NAHSHONIM"
+    },
+    {
+      "SettlementNo": 1147,
+      "SettlementNam": "נטועה",
+      "SettlementNameEng": "NETU'A"
+    },
+    {
+      "SettlementNo": 4014,
+      "SettlementNam": "נטור",
+      "SettlementNameEng": "NATUR"
+    },
+    {
+      "SettlementNo": 1369,
+      "SettlementNam": "נטע",
+      "SettlementNameEng": "NETA"
+    },
+    {
+      "SettlementNo": 174,
+      "SettlementNam": "נטעים",
+      "SettlementNameEng": "NETA'IM"
+    },
+    {
+      "SettlementNo": 1254,
+      "SettlementNam": "נטף",
+      "SettlementNameEng": "NATAF"
+    },
+    {
+      "SettlementNo": 523,
+      "SettlementNam": "ניין",
+      "SettlementNameEng": "NEIN"
+    },
+    {
+      "SettlementNo": 3655,
+      "SettlementNam": "ניל\"י",
+      "SettlementNameEng": "NILI"
+    },
+    {
+      "SettlementNo": 351,
+      "SettlementNam": "ניצן",
+      "SettlementNameEng": "NIZZAN"
+    },
+    {
+      "SettlementNo": 1419,
+      "SettlementNam": "ניצן ב'",
+      "SettlementNameEng": "NIZZAN B"
+    },
+    {
+      "SettlementNo": 1195,
+      "SettlementNam": "ניצנה )קהילת חינוך(",
+      "SettlementNameEng": "NIZZANA (QEHILAT HIN"
+    },
+    {
+      "SettlementNo": 1280,
+      "SettlementNam": "ניצני סיני",
+      "SettlementNameEng": "NIZZANE SINAY"
+    },
+    {
+      "SettlementNo": 851,
+      "SettlementNam": "ניצני עוז",
+      "SettlementNameEng": "NIZZANE OZ"
+    },
+    {
+      "SettlementNo": 359,
+      "SettlementNam": "ניצנים",
+      "SettlementNameEng": "NIZZANIM"
+    },
+    {
+      "SettlementNo": 808,
+      "SettlementNam": "ניר אליהו",
+      "SettlementNameEng": "NIR ELIYYAHU"
+    },
+    {
+      "SettlementNo": 553,
+      "SettlementNam": "ניר בנים",
+      "SettlementNameEng": "NIR BANIM"
+    },
+    {
+      "SettlementNo": 720,
+      "SettlementNam": "ניר גלים",
+      "SettlementNameEng": "NIR GALLIM"
+    },
+    {
+      "SettlementNo": 256,
+      "SettlementNam": "ניר דוד )תל עמל(",
+      "SettlementNameEng": "NIR DAWID (TEL AMAL)"
+    },
+    {
+      "SettlementNo": 11,
+      "SettlementNam": "ניר ח\"ן",
+      "SettlementNameEng": "NIR HEN"
+    },
+    {
+      "SettlementNo": 165,
+      "SettlementNam": "ניר יפה",
+      "SettlementNameEng": "NIR YAFE"
+    },
+    {
+      "SettlementNo": 402,
+      "SettlementNam": "ניר יצחק",
+      "SettlementNameEng": "NIR YIZHAQ"
+    },
+    {
+      "SettlementNo": 699,
+      "SettlementNam": "ניר ישראל",
+      "SettlementNameEng": "NIR YISRA'EL"
+    },
+    {
+      "SettlementNo": 2047,
+      "SettlementNam": "ניר משה",
+      "SettlementNameEng": "NIR MOSHE"
+    },
+    {
+      "SettlementNo": 69,
+      "SettlementNam": "ניר עוז",
+      "SettlementNameEng": "NIR OZ"
+    },
+    {
+      "SettlementNo": 348,
+      "SettlementNam": "ניר עם",
+      "SettlementNameEng": "NIR AM"
+    },
+    {
+      "SettlementNo": 769,
+      "SettlementNam": "ניר עציון",
+      "SettlementNameEng": "NIR EZYON"
+    },
+    {
+      "SettlementNo": 2048,
+      "SettlementNam": "ניר עקיבא",
+      "SettlementNameEng": "NIR AQIVA"
+    },
+    {
+      "SettlementNo": 331,
+      "SettlementNam": "ניר צבי",
+      "SettlementNameEng": "NIR ZEVI"
+    },
+    {
+      "SettlementNo": 602,
+      "SettlementNam": "נירים",
+      "SettlementNameEng": "NIRIM"
+    },
+    {
+      "SettlementNo": 1236,
+      "SettlementNam": "נירית",
+      "SettlementNameEng": "NIRIT"
+    },
+    {
+      "SettlementNo": 3620,
+      "SettlementNam": "נירן",
+      "SettlementNameEng": "NIRAN"
+    },
+    {
+      "SettlementNo": 4035,
+      "SettlementNam": "נמרוד",
+      "SettlementNameEng": "NIMROD"
+    },
+    {
+      "SettlementNo": 825,
+      "SettlementNam": "נס הרים",
+      "SettlementNameEng": "NES HARIM"
+    },
+    {
+      "SettlementNo": 1143,
+      "SettlementNam": "נס עמים",
+      "SettlementNameEng": "NES AMMIM"
+    },
+    {
+      "SettlementNo": 7200,
+      "SettlementNam": "נס ציונה",
+      "SettlementNameEng": "NES ZIYYONA"
+    },
+    {
+      "SettlementNo": 186,
+      "SettlementNam": "נעורים",
+      "SettlementNameEng": "NE'URIM"
+    },
+    {
+      "SettlementNo": 3787,
+      "SettlementNam": "נעלה",
+      "SettlementNameEng": "NA'ALE"
+    },
+    {
+      "SettlementNo": 3713,
+      "SettlementNam": "נעמ\"ה",
+      "SettlementNameEng": "NAAMA"
+    },
+    {
+      "SettlementNo": 158,
+      "SettlementNam": "נען",
+      "SettlementNameEng": "NA'AN"
+    },
+    {
+      "SettlementNo": 1041,
+      "SettlementNam": "נצאצרה )שבט(",
+      "SettlementNameEng": "NASASRA"
+    },
+    {
+      "SettlementNo": 1372,
+      "SettlementNam": "נצר חזני",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 435,
+      "SettlementNam": "נצר סרני",
+      "SettlementNameEng": "NEZER SERENI"
+    },
+    {
+      "SettlementNo": 7300,
+      "SettlementNam": "נצרת",
+      "SettlementNameEng": "NAZARETH"
+    },
+    {
+      "SettlementNo": 1061,
+      "SettlementNam": "נצרת עילית",
+      "SettlementNameEng": "NAZERAT ILLIT"
+    },
+    {
+      "SettlementNo": 2500,
+      "SettlementNam": "נשר",
+      "SettlementNameEng": "NESHER"
+    },
+    {
+      "SettlementNo": 3555,
+      "SettlementNam": "נתיב הגדוד",
+      "SettlementNameEng": "NETIV HAGEDUD"
+    },
+    {
+      "SettlementNo": 693,
+      "SettlementNam": "נתיב הל\"ה",
+      "SettlementNameEng": "NETIV HALAMED-HE"
+    },
+    {
+      "SettlementNo": 1242,
+      "SettlementNam": "נתיב העשרה",
+      "SettlementNameEng": "NETIV HAASARA"
+    },
+    {
+      "SettlementNo": 792,
+      "SettlementNam": "נתיב השיירה",
+      "SettlementNameEng": "NETIV HASHAYYARA"
+    },
+    {
+      "SettlementNo": 246,
+      "SettlementNam": "נתיבות",
+      "SettlementNameEng": "NETIVOT"
+    },
+    {
+      "SettlementNo": 7400,
+      "SettlementNam": "נתניה",
+      "SettlementNameEng": "NETANYA"
+    },
+    {
+      "SettlementNo": 525,
+      "SettlementNam": "סאג'ור",
+      "SettlementNameEng": "SAJUR"
+    },
+    {
+      "SettlementNo": 578,
+      "SettlementNam": "סאסא",
+      "SettlementNameEng": "SASA"
+    },
+    {
+      "SettlementNo": 587,
+      "SettlementNam": "סביון",
+      "SettlementNameEng": "SAVYON"
+    },
+    {
+      "SettlementNo": 2046,
+      "SettlementNam": "סגולה",
+      "SettlementNameEng": "SEGULA"
+    },
+    {
+      "SettlementNo": 942,
+      "SettlementNam": "סואעד )חמרייה(",
+      "SettlementNameEng": "SAWA'ID(HAMRIYYE)"
+    },
+    {
+      "SettlementNo": 989,
+      "SettlementNam": "סואעד )כמאנה( )שבט(",
+      "SettlementNameEng": "SAWA'ID (KAMANE)"
+    },
+    {
+      "SettlementNo": 526,
+      "SettlementNam": "סולם",
+      "SettlementNameEng": "SULAM"
+    },
+    {
+      "SettlementNo": 3756,
+      "SettlementNam": "סוסיה",
+      "SettlementNameEng": "SUSEYA"
+    },
+    {
+      "SettlementNo": 1238,
+      "SettlementNam": "סופה",
+      "SettlementNameEng": "SUFA"
+    },
+    {
+      "SettlementNo": 7500,
+      "SettlementNam": "סח'נין",
+      "SettlementNameEng": "SAKHNIN"
+    },
+    {
+      "SettlementNo": 1170,
+      "SettlementNam": "סייד )שבט(",
+      "SettlementNameEng": "SAYYID"
+    },
+    {
+      "SettlementNo": 1245,
+      "SettlementNam": "סלמה",
+      "SettlementNameEng": "SALLAMA"
+    },
+    {
+      "SettlementNo": 3567,
+      "SettlementNam": "סלעית",
+      "SettlementNameEng": "SAL'IT"
+    },
+    {
+      "SettlementNo": 1156,
+      "SettlementNam": "סמר",
+      "SettlementNameEng": "SAMAR"
+    },
+    {
+      "SettlementNo": 3777,
+      "SettlementNam": "סנסנה",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 419,
+      "SettlementNam": "סעד",
+      "SettlementNameEng": "SA'AD"
+    },
+    {
+      "SettlementNo": 1360,
+      "SettlementNam": "סעוה",
+      "SettlementNameEng": "SA'WA"
+    },
+    {
+      "SettlementNo": 454,
+      "SettlementNam": "סער",
+      "SettlementNameEng": "SA'AR"
+    },
+    {
+      "SettlementNo": 1176,
+      "SettlementNam": "ספיר",
+      "SettlementNameEng": "SAPPIR"
+    },
+    {
+      "SettlementNo": 610,
+      "SettlementNam": "סתריה",
+      "SettlementNameEng": "SITRIYYA"
+    },
+    {
+      "SettlementNo": 4501,
+      "SettlementNam": "ע'ג'ר",
+      "SettlementNameEng": "GHAJAR"
+    },
+    {
+      "SettlementNo": 892,
+      "SettlementNam": "עבדון",
+      "SettlementNameEng": "AVDON"
+    },
+    {
+      "SettlementNo": 376,
+      "SettlementNam": "עברון",
+      "SettlementNameEng": "EVRON"
+    },
+    {
+      "SettlementNo": 794,
+      "SettlementNam": "עגור",
+      "SettlementNameEng": "AGUR"
+    },
+    {
+      "SettlementNo": 1199,
+      "SettlementNam": "עדי",
+      "SettlementNameEng": "ADI"
+    },
+    {
+      "SettlementNo": 2035,
+      "SettlementNam": "עדנים",
+      "SettlementNameEng": "ADANIM"
+    },
+    {
+      "SettlementNo": 826,
+      "SettlementNam": "עוזה",
+      "SettlementNameEng": "UZA"
+    },
+    {
+      "SettlementNo": 528,
+      "SettlementNam": "עוזייר",
+      "SettlementNameEng": "UZEIR"
+    },
+    {
+      "SettlementNo": 737,
+      "SettlementNam": "עולש",
+      "SettlementNameEng": "OLESH"
+    },
+    {
+      "SettlementNo": 666,
+      "SettlementNam": "עומר",
+      "SettlementNameEng": "OMER"
+    },
+    {
+      "SettlementNo": 810,
+      "SettlementNam": "עופר",
+      "SettlementNameEng": "OFER"
+    },
+    {
+      "SettlementNo": 3617,
+      "SettlementNam": "עופרה",
+      "SettlementNameEng": "OFRA"
+    },
+    {
+      "SettlementNo": 32,
+      "SettlementNam": "עוצם",
+      "SettlementNameEng": "OZEM"
+    },
+    {
+      "SettlementNo": 957,
+      "SettlementNam": "עוקבי )בנו עוקבה(",
+      "SettlementNameEng": "UQBI (BANU UQBA)"
+    },
+    {
+      "SettlementNo": 328,
+      "SettlementNam": "עזוז",
+      "SettlementNameEng": "EZUZ"
+    },
+    {
+      "SettlementNo": 1149,
+      "SettlementNam": "עזר",
+      "SettlementNameEng": "EZER"
+    },
+    {
+      "SettlementNo": 837,
+      "SettlementNam": "עזריאל",
+      "SettlementNameEng": "AZRI'EL"
+    },
+    {
+      "SettlementNo": 711,
+      "SettlementNam": "עזריה",
+      "SettlementNameEng": "AZARYA"
+    },
+    {
+      "SettlementNo": 817,
+      "SettlementNam": "עזריקם",
+      "SettlementNameEng": "AZRIQAM"
+    },
+    {
+      "SettlementNo": 969,
+      "SettlementNam": "עטאוונה )שבט(",
+      "SettlementNameEng": "ATAWNE"
+    },
+    {
+      "SettlementNo": 3658,
+      "SettlementNam": "עטרת",
+      "SettlementNameEng": "ATERET"
+    },
+    {
+      "SettlementNo": 1175,
+      "SettlementNam": "עידן",
+      "SettlementNameEng": "IDDAN"
+    },
+    {
+      "SettlementNo": 530,
+      "SettlementNam": "עיילבון",
+      "SettlementNameEng": "EILABUN"
+    },
+    {
+      "SettlementNo": 156,
+      "SettlementNam": "עיינות",
+      "SettlementNameEng": "AYANOT"
+    },
+    {
+      "SettlementNo": 511,
+      "SettlementNam": "עילוט",
+      "SettlementNameEng": "ILUT"
+    },
+    {
+      "SettlementNo": 687,
+      "SettlementNam": "עין איילה",
+      "SettlementNameEng": "EN AYYALA"
+    },
+    {
+      "SettlementNo": 546,
+      "SettlementNam": "עין אל-אסד",
+      "SettlementNameEng": "EIN AL-ASAD"
+    },
+    {
+      "SettlementNo": 273,
+      "SettlementNam": "עין גב",
+      "SettlementNameEng": "EN GEV"
+    },
+    {
+      "SettlementNo": 2042,
+      "SettlementNam": "עין גדי",
+      "SettlementNameEng": "EN GEDI"
+    },
+    {
+      "SettlementNo": 436,
+      "SettlementNam": "עין דור",
+      "SettlementNameEng": "EN DOR"
+    },
+    {
+      "SettlementNo": 1240,
+      "SettlementNam": "עין הבשור",
+      "SettlementNameEng": "EN HABESOR"
+    },
+    {
+      "SettlementNo": 74,
+      "SettlementNam": "עין הוד",
+      "SettlementNameEng": "EN HOD"
+    },
+    {
+      "SettlementNo": 167,
+      "SettlementNam": "עין החורש",
+      "SettlementNameEng": "EN HAHORESH"
+    },
+    {
+      "SettlementNo": 289,
+      "SettlementNam": "עין המפרץ",
+      "SettlementNameEng": "EN HAMIFRAZ"
+    },
+    {
+      "SettlementNo": 383,
+      "SettlementNam": "עין הנצי\"ב",
+      "SettlementNameEng": "EN HANAZIV"
+    },
+    {
+      "SettlementNo": 367,
+      "SettlementNam": "עין העמק",
+      "SettlementNameEng": "EN HAEMEQ"
+    },
+    {
+      "SettlementNo": 270,
+      "SettlementNam": "עין השופט",
+      "SettlementNameEng": "EN HASHOFET"
+    },
+    {
+      "SettlementNo": 676,
+      "SettlementNam": "עין השלושה",
+      "SettlementNameEng": "EN HASHELOSHA"
+    },
+    {
+      "SettlementNo": 157,
+      "SettlementNam": "עין ורד",
+      "SettlementNameEng": "EN WERED"
+    },
+    {
+      "SettlementNo": 4503,
+      "SettlementNam": "עין זיוון",
+      "SettlementNameEng": "EN ZIWAN"
+    },
+    {
+      "SettlementNo": 1320,
+      "SettlementNam": "עין חוד",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1053,
+      "SettlementNam": "עין חצבה",
+      "SettlementNameEng": "EN HAZEVA"
+    },
+    {
+      "SettlementNo": 89,
+      "SettlementNam": "עין חרוד )איחוד(",
+      "SettlementNameEng": "EN HAROD (IHUD)"
+    },
+    {
+      "SettlementNo": 82,
+      "SettlementNam": "עין חרוד )מאוחד(",
+      "SettlementNameEng": "EN HAROD(ME'UHAD)"
+    },
+    {
+      "SettlementNo": 806,
+      "SettlementNam": "עין יהב",
+      "SettlementNameEng": "EN YAHAV"
+    },
+    {
+      "SettlementNo": 813,
+      "SettlementNam": "עין יעקב",
+      "SettlementNameEng": "EN YA'AQOV"
+    },
+    {
+      "SettlementNo": 1056,
+      "SettlementNam": "עין כרם-בי\"ס חקלאי",
+      "SettlementNameEng": "EN KAREM-B.S.HAQLA'I"
+    },
+    {
+      "SettlementNo": 426,
+      "SettlementNam": "עין כרמל",
+      "SettlementNameEng": "EN KARMEL"
+    },
+    {
+      "SettlementNo": 532,
+      "SettlementNam": "עין מאהל",
+      "SettlementNameEng": "EIN MAHEL"
+    },
+    {
+      "SettlementNo": 521,
+      "SettlementNam": "עין נקובא",
+      "SettlementNameEng": "EIN NAQQUBA"
+    },
+    {
+      "SettlementNo": 223,
+      "SettlementNam": "עין עירון",
+      "SettlementNameEng": "EN IRON"
+    },
+    {
+      "SettlementNo": 622,
+      "SettlementNam": "עין צורים",
+      "SettlementNameEng": "EN ZURIM"
+    },
+    {
+      "SettlementNo": 4502,
+      "SettlementNam": "עין קנייא",
+      "SettlementNameEng": "EIN QINIYYE"
+    },
+    {
+      "SettlementNo": 514,
+      "SettlementNam": "עין ראפה",
+      "SettlementNameEng": "EIN RAFA"
+    },
+    {
+      "SettlementNo": 139,
+      "SettlementNam": "עין שמר",
+      "SettlementNameEng": "EN SHEMER"
+    },
+    {
+      "SettlementNo": 880,
+      "SettlementNam": "עין שריד",
+      "SettlementNameEng": "EN SARID"
+    },
+    {
+      "SettlementNo": 1251,
+      "SettlementNam": "עין תמר",
+      "SettlementNameEng": "EN TAMAR"
+    },
+    {
+      "SettlementNo": 871,
+      "SettlementNam": "עינת",
+      "SettlementNameEng": "ENAT"
+    },
+    {
+      "SettlementNo": 1187,
+      "SettlementNam": "עיר אובות",
+      "SettlementNameEng": "IR OVOT"
+    },
+    {
+      "SettlementNo": 7600,
+      "SettlementNam": "עכו",
+      "SettlementNameEng": "AKKO"
+    },
+    {
+      "SettlementNo": 1146,
+      "SettlementNam": "עלומים",
+      "SettlementNameEng": "ALUMIM"
+    },
+    {
+      "SettlementNo": 3765,
+      "SettlementNam": "עלי",
+      "SettlementNameEng": "ELI"
+    },
+    {
+      "SettlementNo": 3727,
+      "SettlementNam": "עלי זהב",
+      "SettlementNameEng": "ALE ZAHAV"
+    },
+    {
+      "SettlementNo": 688,
+      "SettlementNam": "עלמה",
+      "SettlementNameEng": "ALMA"
+    },
+    {
+      "SettlementNo": 3715,
+      "SettlementNam": "עלמון",
+      "SettlementNameEng": "ALMON"
+    },
+    {
+      "SettlementNo": 1212,
+      "SettlementNam": "עמוקה",
+      "SettlementNameEng": "AMUQQA"
+    },
+    {
+      "SettlementNo": 3824,
+      "SettlementNam": "עמיחי",
+      "SettlementNameEng": "AMMIHAY"
+    },
+    {
+      "SettlementNo": 779,
+      "SettlementNam": "עמינדב",
+      "SettlementNameEng": "AMMINADAV"
+    },
+    {
+      "SettlementNo": 385,
+      "SettlementNam": "עמיעד",
+      "SettlementNameEng": "AMMI'AD"
+    },
+    {
+      "SettlementNo": 318,
+      "SettlementNam": "עמיעוז",
+      "SettlementNameEng": "AMMI'OZ"
+    },
+    {
+      "SettlementNo": 773,
+      "SettlementNam": "עמיקם",
+      "SettlementNameEng": "AMMIQAM"
+    },
+    {
+      "SettlementNo": 319,
+      "SettlementNam": "עמיר",
+      "SettlementNameEng": "AMIR"
+    },
+    {
+      "SettlementNo": 3660,
+      "SettlementNam": "עמנואל",
+      "SettlementNameEng": "IMMANU'EL"
+    },
+    {
+      "SettlementNo": 708,
+      "SettlementNam": "עמקה",
+      "SettlementNameEng": "AMQA"
+    },
+    {
+      "SettlementNo": 3712,
+      "SettlementNam": "ענב",
+      "SettlementNameEng": "ENAV"
+    },
+    {
+      "SettlementNo": 534,
+      "SettlementNam": "עספיא",
+      "SettlementNameEng": "ISIFYA"
+    },
+    {
+      "SettlementNo": 7700,
+      "SettlementNam": "עפולה",
+      "SettlementNameEng": "AFULA"
+    },
+    {
+      "SettlementNo": 3778,
+      "SettlementNam": "עץ אפרים",
+      "SettlementNameEng": "EZ EFRAYIM"
+    },
+    {
+      "SettlementNo": 917,
+      "SettlementNam": "עצמון שגב",
+      "SettlementNameEng": "ATSMON-SEGEV"
+    },
+    {
+      "SettlementNo": 531,
+      "SettlementNam": "עראבה",
+      "SettlementNameEng": "ARRABE"
+    },
+    {
+      "SettlementNo": 1246,
+      "SettlementNam": "עראמשה",
+      "SettlementNameEng": "ARAMSHA"
+    },
+    {
+      "SettlementNo": 1335,
+      "SettlementNam": "ערב אל נעים",
+      "SettlementNameEng": "ARRAB AL NAIM"
+    },
+    {
+      "SettlementNo": 2560,
+      "SettlementNam": "ערד",
+      "SettlementNameEng": "ARAD"
+    },
+    {
+      "SettlementNo": 593,
+      "SettlementNam": "ערוגות",
+      "SettlementNameEng": "ARUGOT"
+    },
+    {
+      "SettlementNo": 637,
+      "SettlementNam": "ערערה",
+      "SettlementNameEng": "AR'ARA"
+    },
+    {
+      "SettlementNo": 1192,
+      "SettlementNam": "ערערה-בנגב",
+      "SettlementNameEng": "AR'ARA-BANEGEV"
+    },
+    {
+      "SettlementNo": 591,
+      "SettlementNam": "עשרת",
+      "SettlementNameEng": "ASERET"
+    },
+    {
+      "SettlementNo": 53,
+      "SettlementNam": "עתלית",
+      "SettlementNameEng": "ATLIT"
+    },
+    {
+      "SettlementNo": 3748,
+      "SettlementNam": "עתניאל",
+      "SettlementNameEng": "OTNI'EL"
+    },
+    {
+      "SettlementNo": 1151,
+      "SettlementNam": "פארן",
+      "SettlementNameEng": "PARAN"
+    },
+    {
+      "SettlementNo": 3768,
+      "SettlementNam": "פדואל",
+      "SettlementNameEng": "PEDU'EL"
+    },
+    {
+      "SettlementNo": 750,
+      "SettlementNam": "פדויים",
+      "SettlementNameEng": "PEDUYIM"
+    },
+    {
+      "SettlementNo": 838,
+      "SettlementNam": "פדיה",
+      "SettlementNameEng": "PEDAYA"
+    },
+    {
+      "SettlementNo": 1104,
+      "SettlementNam": "פוריה - כפר עבודה",
+      "SettlementNameEng": "PORIYYA-KEFAR AVODA"
+    },
+    {
+      "SettlementNo": 1105,
+      "SettlementNam": "פוריה - נווה עובד",
+      "SettlementNameEng": "PORIYYA-NEWE OVED"
+    },
+    {
+      "SettlementNo": 1313,
+      "SettlementNam": "פוריה עילית",
+      "SettlementNameEng": "PORIYYA ILLIT"
+    },
+    {
+      "SettlementNo": 537,
+      "SettlementNam": "פוריידיס",
+      "SettlementNameEng": "FUREIDIS"
+    },
+    {
+      "SettlementNo": 767,
+      "SettlementNam": "פורת",
+      "SettlementNameEng": "PORAT"
+    },
+    {
+      "SettlementNo": 749,
+      "SettlementNam": "פטיש",
+      "SettlementNameEng": "PATTISH"
+    },
+    {
+      "SettlementNo": 1185,
+      "SettlementNam": "פלך",
+      "SettlementNameEng": "PELEKH"
+    },
+    {
+      "SettlementNo": 597,
+      "SettlementNam": "פלמחים",
+      "SettlementNameEng": "PALMAHIM"
+    },
+    {
+      "SettlementNo": 3723,
+      "SettlementNam": "פני חבר",
+      "SettlementNameEng": "PENE HEVER"
+    },
+    {
+      "SettlementNo": 3659,
+      "SettlementNam": "פסגות",
+      "SettlementNameEng": "PESAGOT"
+    },
+    {
+      "SettlementNo": 535,
+      "SettlementNam": "פסוטה",
+      "SettlementNameEng": "FASSUTA"
+    },
+    {
+      "SettlementNo": 2059,
+      "SettlementNam": "פעמי תש\"ז",
+      "SettlementNameEng": "PA'AME TASHAZ"
+    },
+    {
+      "SettlementNo": 3615,
+      "SettlementNam": "פצאל",
+      "SettlementNameEng": "PEZA'EL"
+    },
+    {
+      "SettlementNo": 536,
+      "SettlementNam": "פקיעין )בוקייעה(",
+      "SettlementNameEng": "PEQI'IN (BUQEI'A)"
+    },
+    {
+      "SettlementNo": 281,
+      "SettlementNam": "פקיעין חדשה",
+      "SettlementNameEng": "PEQI'IN HADASHA"
+    },
+    {
+      "SettlementNo": 7800,
+      "SettlementNam": "פרדס חנה-כרכור",
+      "SettlementNameEng": "PARDES HANNA-KARKUR"
+    },
+    {
+      "SettlementNo": 171,
+      "SettlementNam": "פרדסיה",
+      "SettlementNameEng": "PARDESIYYA"
+    },
+    {
+      "SettlementNo": 599,
+      "SettlementNam": "פרוד",
+      "SettlementNameEng": "PAROD"
+    },
+    {
+      "SettlementNo": 2053,
+      "SettlementNam": "פרזון",
+      "SettlementNameEng": "PERAZON"
+    },
+    {
+      "SettlementNo": 1231,
+      "SettlementNam": "פרי גן",
+      "SettlementNameEng": "PERI GAN"
+    },
+    {
+      "SettlementNo": 7900,
+      "SettlementNam": "פתח תקווה",
+      "SettlementNameEng": "PETAH TIQWA"
+    },
+    {
+      "SettlementNo": 839,
+      "SettlementNam": "פתחיה",
+      "SettlementNameEng": "PETAHYA"
+    },
+    {
+      "SettlementNo": 413,
+      "SettlementNam": "צאלים",
+      "SettlementNameEng": "ZE'ELIM"
+    },
+    {
+      "SettlementNo": 1180,
+      "SettlementNam": "צביה",
+      "SettlementNameEng": "ZVIYYA"
+    },
+    {
+      "SettlementNo": 1213,
+      "SettlementNam": "צבעון",
+      "SettlementNameEng": "ZIV'ON"
+    },
+    {
+      "SettlementNo": 465,
+      "SettlementNam": "צובה",
+      "SettlementNameEng": "ZOVA"
+    },
+    {
+      "SettlementNo": 1136,
+      "SettlementNam": "צוחר",
+      "SettlementNameEng": "ZOHAR"
+    },
+    {
+      "SettlementNo": 1111,
+      "SettlementNam": "צופיה",
+      "SettlementNameEng": "ZOFIYYA"
+    },
+    {
+      "SettlementNo": 3791,
+      "SettlementNam": "צופים",
+      "SettlementNameEng": "ZUFIN"
+    },
+    {
+      "SettlementNo": 198,
+      "SettlementNam": "צופית",
+      "SettlementNameEng": "ZOFIT"
+    },
+    {
+      "SettlementNo": 1150,
+      "SettlementNam": "צופר",
+      "SettlementNameEng": "ZOFAR"
+    },
+    {
+      "SettlementNo": 1102,
+      "SettlementNam": "צוקי ים",
+      "SettlementNameEng": "SHOSHANNAT HAAMAQIM("
+    },
+    {
+      "SettlementNo": 1262,
+      "SettlementNam": "צוקים",
+      "SettlementNameEng": "MAHANE BILDAD"
+    },
+    {
+      "SettlementNo": 1113,
+      "SettlementNam": "צור הדסה",
+      "SettlementNameEng": "ZUR HADASSA"
+    },
+    {
+      "SettlementNo": 1345,
+      "SettlementNam": "צור יצחק",
+      "SettlementNameEng": "ZUR YIZHAQ"
+    },
+    {
+      "SettlementNo": 276,
+      "SettlementNam": "צור משה",
+      "SettlementNameEng": "ZUR MOSHE"
+    },
+    {
+      "SettlementNo": 1148,
+      "SettlementNam": "צור נתן",
+      "SettlementNameEng": "ZUR NATAN"
+    },
+    {
+      "SettlementNo": 774,
+      "SettlementNam": "צוריאל",
+      "SettlementNameEng": "ZURI'EL"
+    },
+    {
+      "SettlementNo": 1221,
+      "SettlementNam": "צורית",
+      "SettlementNameEng": "ZURIT"
+    },
+    {
+      "SettlementNo": 613,
+      "SettlementNam": "ציפורי",
+      "SettlementNameEng": "ZIPPORI"
+    },
+    {
+      "SettlementNo": 796,
+      "SettlementNam": "צלפון",
+      "SettlementNameEng": "ZELAFON"
+    },
+    {
+      "SettlementNo": 636,
+      "SettlementNam": "צנדלה",
+      "SettlementNameEng": "SANDALA"
+    },
+    {
+      "SettlementNo": 594,
+      "SettlementNam": "צפריה",
+      "SettlementNameEng": "ZAFRIYYA"
+    },
+    {
+      "SettlementNo": 1079,
+      "SettlementNam": "צפרירים",
+      "SettlementNameEng": "ZAFRIRIM"
+    },
+    {
+      "SettlementNo": 8000,
+      "SettlementNam": "צפת",
+      "SettlementNameEng": "ZEFAT"
+    },
+    {
+      "SettlementNo": 612,
+      "SettlementNam": "צרופה",
+      "SettlementNameEng": "ZERUFA"
+    },
+    {
+      "SettlementNo": 567,
+      "SettlementNam": "צרעה",
+      "SettlementNameEng": "ZOR'A"
+    },
+    {
+      "SettlementNo": 1234,
+      "SettlementNam": "קבועה )שבט(",
+      "SettlementNameEng": "QABBO'A"
+    },
+    {
+      "SettlementNo": 334,
+      "SettlementNam": "קבוצת יבנה",
+      "SettlementNameEng": "QEVUZAT YAVNE"
+    },
+    {
+      "SettlementNo": 3557,
+      "SettlementNam": "קדומים",
+      "SettlementNameEng": "QEDUMIM"
+    },
+    {
+      "SettlementNo": 195,
+      "SettlementNam": "קדימה-צורן",
+      "SettlementNameEng": "QADIMA-ZORAN"
+    },
+    {
+      "SettlementNo": 392,
+      "SettlementNam": "קדמה",
+      "SettlementNameEng": "QEDMA"
+    },
+    {
+      "SettlementNo": 4025,
+      "SettlementNam": "קדמת צבי",
+      "SettlementNameEng": "QIDMAT ZEVI"
+    },
+    {
+      "SettlementNo": 3781,
+      "SettlementNam": "קדר",
+      "SettlementNameEng": "QEDAR"
+    },
+    {
+      "SettlementNo": 615,
+      "SettlementNam": "קדרון",
+      "SettlementNameEng": "QIDRON"
+    },
+    {
+      "SettlementNo": 1211,
+      "SettlementNam": "קדרים",
+      "SettlementNameEng": "QADDARIM"
+    },
+    {
+      "SettlementNo": 964,
+      "SettlementNam": "קודייראת א-צאנע)שבט(",
+      "SettlementNameEng": "QUDEIRAT AS-SANI"
+    },
+    {
+      "SettlementNo": 972,
+      "SettlementNam": "קוואעין )שבט(",
+      "SettlementNameEng": "QAWA'IN"
+    },
+    {
+      "SettlementNo": 766,
+      "SettlementNam": "קוממיות",
+      "SettlementNameEng": "QOMEMIYYUT"
+    },
+    {
+      "SettlementNo": 1179,
+      "SettlementNam": "קורנית",
+      "SettlementNameEng": "QORANIT"
+    },
+    {
+      "SettlementNo": 1052,
+      "SettlementNam": "קטורה",
+      "SettlementNameEng": "QETURA"
+    },
+    {
+      "SettlementNo": 1167,
+      "SettlementNam": "קיסריה",
+      "SettlementNameEng": "QESARIYYA"
+    },
+    {
+      "SettlementNo": 414,
+      "SettlementNam": "קלחים",
+      "SettlementNameEng": "QELAHIM"
+    },
+    {
+      "SettlementNo": 3601,
+      "SettlementNam": "קליה",
+      "SettlementNameEng": "QALYA"
+    },
+    {
+      "SettlementNo": 638,
+      "SettlementNam": "קלנסווה",
+      "SettlementNameEng": "QALANSAWE"
+    },
+    {
+      "SettlementNo": 4024,
+      "SettlementNam": "קלע",
+      "SettlementNameEng": "QELA"
+    },
+    {
+      "SettlementNo": 1243,
+      "SettlementNam": "קציר",
+      "SettlementNameEng": "QAZIR"
+    },
+    {
+      "SettlementNo": 1347,
+      "SettlementNam": "קצר א-סר",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 4100,
+      "SettlementNam": "קצרין",
+      "SettlementNameEng": "QAZRIN"
+    },
+    {
+      "SettlementNo": 2620,
+      "SettlementNam": "קרית אונו",
+      "SettlementNameEng": "QIRYAT ONO"
+    },
+    {
+      "SettlementNo": 3611,
+      "SettlementNam": "קרית ארבע",
+      "SettlementNameEng": "QIRYAT ARBA"
+    },
+    {
+      "SettlementNo": 6800,
+      "SettlementNam": "קרית אתא",
+      "SettlementNameEng": "QIRYAT ATTA"
+    },
+    {
+      "SettlementNo": 9500,
+      "SettlementNam": "קרית ביאליק",
+      "SettlementNameEng": "QIRYAT BIALIK"
+    },
+    {
+      "SettlementNo": 2630,
+      "SettlementNam": "קרית גת",
+      "SettlementNameEng": "QIRYAT GAT"
+    },
+    {
+      "SettlementNo": 2300,
+      "SettlementNam": "קרית טבעון",
+      "SettlementNameEng": "QIRYAT TIV'ON"
+    },
+    {
+      "SettlementNo": 9600,
+      "SettlementNam": "קרית ים",
+      "SettlementNameEng": "QIRYAT YAM"
+    },
+    {
+      "SettlementNo": 1137,
+      "SettlementNam": "קרית יערים",
+      "SettlementNameEng": "QIRYAT YE'ARIM"
+    },
+    {
+      "SettlementNo": 2039,
+      "SettlementNam": "קרית יערים)מוסד(",
+      "SettlementNameEng": "QIRYAT YE'ARIM(INSTI"
+    },
+    {
+      "SettlementNo": 8200,
+      "SettlementNam": "קרית מוצקין",
+      "SettlementNameEng": "QIRYAT MOTZKIN"
+    },
+    {
+      "SettlementNo": 1034,
+      "SettlementNam": "קרית מלאכי",
+      "SettlementNameEng": "QIRYAT MAL'AKHI"
+    },
+    {
+      "SettlementNo": 3746,
+      "SettlementNam": "קרית נטפים",
+      "SettlementNameEng": "QIRYAT NETAFIM"
+    },
+    {
+      "SettlementNo": 78,
+      "SettlementNam": "קרית ענבים",
+      "SettlementNameEng": "QIRYAT ANAVIM"
+    },
+    {
+      "SettlementNo": 469,
+      "SettlementNam": "קרית עקרון",
+      "SettlementNameEng": "QIRYAT EQRON"
+    },
+    {
+      "SettlementNo": 412,
+      "SettlementNam": "קרית שלמה",
+      "SettlementNameEng": "QIRYAT SHELOMO"
+    },
+    {
+      "SettlementNo": 2800,
+      "SettlementNam": "קרית שמונה",
+      "SettlementNameEng": "QIRYAT SHEMONA"
+    },
+    {
+      "SettlementNo": 3640,
+      "SettlementNam": "קרני שומרון",
+      "SettlementNameEng": "QARNE SHOMERON"
+    },
+    {
+      "SettlementNo": 4006,
+      "SettlementNam": "קשת",
+      "SettlementNameEng": "QESHET"
+    },
+    {
+      "SettlementNo": 543,
+      "SettlementNam": "ראמה",
+      "SettlementNameEng": "RAME"
+    },
+    {
+      "SettlementNo": 1334,
+      "SettlementNam": "ראס אל-עין",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 990,
+      "SettlementNam": "ראס עלי",
+      "SettlementNameEng": "RAS ALI"
+    },
+    {
+      "SettlementNo": 2640,
+      "SettlementNam": "ראש העין",
+      "SettlementNameEng": "ROSH HAAYIN"
+    },
+    {
+      "SettlementNo": 26,
+      "SettlementNam": "ראש פינה",
+      "SettlementNameEng": "ROSH PINNA"
+    },
+    {
+      "SettlementNo": 3602,
+      "SettlementNam": "ראש צורים",
+      "SettlementNameEng": "ROSH ZURIM"
+    },
+    {
+      "SettlementNo": 8300,
+      "SettlementNam": "ראשון לציון",
+      "SettlementNameEng": "RISHON LEZIYYON"
+    },
+    {
+      "SettlementNo": 3795,
+      "SettlementNam": "רבבה",
+      "SettlementNameEng": "REVAVA"
+    },
+    {
+      "SettlementNo": 564,
+      "SettlementNam": "רבדים",
+      "SettlementNameEng": "REVADIM"
+    },
+    {
+      "SettlementNo": 354,
+      "SettlementNam": "רביבים",
+      "SettlementNameEng": "REVIVIM"
+    },
+    {
+      "SettlementNo": 1225,
+      "SettlementNam": "רביד",
+      "SettlementNameEng": "RAVID"
+    },
+    {
+      "SettlementNo": 390,
+      "SettlementNam": "רגבה",
+      "SettlementNameEng": "REGBA"
+    },
+    {
+      "SettlementNo": 444,
+      "SettlementNam": "רגבים",
+      "SettlementNameEng": "REGAVIM"
+    },
+    {
+      "SettlementNo": 1161,
+      "SettlementNam": "רהט",
+      "SettlementNameEng": "RAHAT"
+    },
+    {
+      "SettlementNo": 2051,
+      "SettlementNam": "רווחה",
+      "SettlementNameEng": "REWAHA"
+    },
+    {
+      "SettlementNo": 2016,
+      "SettlementNam": "רוויה",
+      "SettlementNameEng": "REWAYA"
+    },
+    {
+      "SettlementNo": 1341,
+      "SettlementNam": "רוח מדבר",
+      "SettlementNameEng": "RUAH MIDBAR"
+    },
+    {
+      "SettlementNo": 362,
+      "SettlementNam": "רוחמה",
+      "SettlementNameEng": "RUHAMA"
+    },
+    {
+      "SettlementNo": 539,
+      "SettlementNam": "רומאנה",
+      "SettlementNameEng": "RUMMANE"
+    },
+    {
+      "SettlementNo": 997,
+      "SettlementNam": "רומת הייב",
+      "SettlementNameEng": "RUMAT HEIB"
+    },
+    {
+      "SettlementNo": 3619,
+      "SettlementNam": "רועי",
+      "SettlementNameEng": "RO'I"
+    },
+    {
+      "SettlementNo": 3782,
+      "SettlementNam": "רותם",
+      "SettlementNameEng": "ROTEM"
+    },
+    {
+      "SettlementNo": 854,
+      "SettlementNam": "רחוב",
+      "SettlementNameEng": "REHOV"
+    },
+    {
+      "SettlementNo": 8400,
+      "SettlementNam": "רחובות",
+      "SettlementNameEng": "REHOVOT"
+    },
+    {
+      "SettlementNo": 3822,
+      "SettlementNam": "רחלים",
+      "SettlementNameEng": "REHELIM"
+    },
+    {
+      "SettlementNo": 540,
+      "SettlementNam": "ריחאניה",
+      "SettlementNameEng": "REIHANIYYE"
+    },
+    {
+      "SettlementNo": 3568,
+      "SettlementNam": "ריחן",
+      "SettlementNameEng": "REHAN"
+    },
+    {
+      "SettlementNo": 542,
+      "SettlementNam": "ריינה",
+      "SettlementNameEng": "REINE"
+    },
+    {
+      "SettlementNo": 3565,
+      "SettlementNam": "רימונים",
+      "SettlementNameEng": "RIMMONIM"
+    },
+    {
+      "SettlementNo": 616,
+      "SettlementNam": "רינתיה",
+      "SettlementNameEng": "RINNATYA"
+    },
+    {
+      "SettlementNo": 922,
+      "SettlementNam": "רכסים",
+      "SettlementNameEng": "REKHASIM"
+    },
+    {
+      "SettlementNo": 1069,
+      "SettlementNam": "רם-און",
+      "SettlementNameEng": "RAM-ON"
+    },
+    {
+      "SettlementNo": 4702,
+      "SettlementNam": "רמות",
+      "SettlementNameEng": "RAMOT"
+    },
+    {
+      "SettlementNo": 206,
+      "SettlementNam": "רמות השבים",
+      "SettlementNameEng": "RAMOT HASHAVIM"
+    },
+    {
+      "SettlementNo": 735,
+      "SettlementNam": "רמות מאיר",
+      "SettlementNameEng": "RAMOT ME'IR"
+    },
+    {
+      "SettlementNo": 445,
+      "SettlementNam": "רמות מנשה",
+      "SettlementNameEng": "RAMOT MENASHE"
+    },
+    {
+      "SettlementNo": 372,
+      "SettlementNam": "רמות נפתלי",
+      "SettlementNameEng": "RAMOT NAFTALI"
+    },
+    {
+      "SettlementNo": 8500,
+      "SettlementNam": "רמלה",
+      "SettlementNameEng": "RAMLA"
+    },
+    {
+      "SettlementNo": 8600,
+      "SettlementNam": "רמת גן",
+      "SettlementNameEng": "RAMAT GAN"
+    },
+    {
+      "SettlementNo": 135,
+      "SettlementNam": "רמת דוד",
+      "SettlementNameEng": "RAMAT DAWID"
+    },
+    {
+      "SettlementNo": 184,
+      "SettlementNam": "רמת הכובש",
+      "SettlementNameEng": "RAMAT HAKOVESH"
+    },
+    {
+      "SettlementNo": 335,
+      "SettlementNam": "רמת השופט",
+      "SettlementNameEng": "RAMAT HASHOFET"
+    },
+    {
+      "SettlementNo": 2650,
+      "SettlementNam": "רמת השרון",
+      "SettlementNameEng": "RAMAT HASHARON"
+    },
+    {
+      "SettlementNo": 178,
+      "SettlementNam": "רמת יוחנן",
+      "SettlementNameEng": "RAMAT YOHANAN"
+    },
+    {
+      "SettlementNo": 122,
+      "SettlementNam": "רמת ישי",
+      "SettlementNameEng": "RAMAT YISHAY"
+    },
+    {
+      "SettlementNo": 4701,
+      "SettlementNam": "רמת מגשימים",
+      "SettlementNameEng": "RAMAT MAGSHIMIM"
+    },
+    {
+      "SettlementNo": 339,
+      "SettlementNam": "רמת צבי",
+      "SettlementNameEng": "RAMAT ZEVI"
+    },
+    {
+      "SettlementNo": 460,
+      "SettlementNam": "רמת רזיאל",
+      "SettlementNameEng": "RAMAT RAZI'EL"
+    },
+    {
+      "SettlementNo": 127,
+      "SettlementNam": "רמת רחל",
+      "SettlementNameEng": "RAMAT RAHEL"
+    },
+    {
+      "SettlementNo": 789,
+      "SettlementNam": "רנן",
+      "SettlementNameEng": "RANNEN"
+    },
+    {
+      "SettlementNo": 713,
+      "SettlementNam": "רעים",
+      "SettlementNameEng": "RE'IM"
+    },
+    {
+      "SettlementNo": 8700,
+      "SettlementNam": "רעננה",
+      "SettlementNameEng": "RA'ANANA"
+    },
+    {
+      "SettlementNo": 1228,
+      "SettlementNam": "רקפת",
+      "SettlementNameEng": "RAQEFET"
+    },
+    {
+      "SettlementNo": 247,
+      "SettlementNam": "רשפון",
+      "SettlementNameEng": "RISHPON"
+    },
+    {
+      "SettlementNo": 437,
+      "SettlementNam": "רשפים",
+      "SettlementNameEng": "RESHAFIM"
+    },
+    {
+      "SettlementNo": 1260,
+      "SettlementNam": "רתמים",
+      "SettlementNameEng": "RETAMIM"
+    },
+    {
+      "SettlementNo": 324,
+      "SettlementNam": "שאר ישוב",
+      "SettlementNameEng": "SHE'AR YASHUV"
+    },
+    {
+      "SettlementNo": 1377,
+      "SettlementNam": "שבי דרום",
+      "SettlementNameEng": "SHAVE DAROM"
+    },
+    {
+      "SettlementNo": 282,
+      "SettlementNam": "שבי ציון",
+      "SettlementNameEng": "SHAVE ZIYYON"
+    },
+    {
+      "SettlementNo": 3571,
+      "SettlementNam": "שבי שומרון",
+      "SettlementNameEng": "SHAVE SHOMERON"
+    },
+    {
+      "SettlementNo": 913,
+      "SettlementNam": "שבלי - אום אל-גנם",
+      "SettlementNameEng": "SHIBLI"
+    },
+    {
+      "SettlementNo": 1286,
+      "SettlementNam": "שגב-שלום",
+      "SettlementNameEng": "SEGEV-SHALOM"
+    },
+    {
+      "SettlementNo": 721,
+      "SettlementNam": "שדה אילן",
+      "SettlementNameEng": "SEDE ILAN"
+    },
+    {
+      "SettlementNo": 304,
+      "SettlementNam": "שדה אליהו",
+      "SettlementNameEng": "SEDE ELIYYAHU"
+    },
+    {
+      "SettlementNo": 861,
+      "SettlementNam": "שדה אליעזר",
+      "SettlementNameEng": "SEDE ELI'EZER"
+    },
+    {
+      "SettlementNo": 885,
+      "SettlementNam": "שדה בוקר",
+      "SettlementNameEng": "SEDE BOQER"
+    },
+    {
+      "SettlementNo": 36,
+      "SettlementNam": "שדה דוד",
+      "SettlementNameEng": "SEDE DAWID"
+    },
+    {
+      "SettlementNo": 284,
+      "SettlementNam": "שדה ורבורג",
+      "SettlementNameEng": "SEDE WARBURG"
+    },
+    {
+      "SettlementNo": 293,
+      "SettlementNam": "שדה יואב",
+      "SettlementNameEng": "SEDE YO'AV"
+    },
+    {
+      "SettlementNo": 142,
+      "SettlementNam": "שדה יעקב",
+      "SettlementNameEng": "SEDE YA'AQOV"
+    },
+    {
+      "SettlementNo": 2008,
+      "SettlementNam": "שדה יצחק",
+      "SettlementNameEng": "SEDE YIZHAQ"
+    },
+    {
+      "SettlementNo": 18,
+      "SettlementNam": "שדה משה",
+      "SettlementNameEng": "SEDE MOSHE"
+    },
+    {
+      "SettlementNo": 259,
+      "SettlementNam": "שדה נחום",
+      "SettlementNameEng": "SEDE NAHUM"
+    },
+    {
+      "SettlementNo": 329,
+      "SettlementNam": "שדה נחמיה",
+      "SettlementNameEng": "SEDE NEHEMYA"
+    },
+    {
+      "SettlementNo": 1058,
+      "SettlementNam": "שדה ניצן",
+      "SettlementNameEng": "SEDE NIZZAN"
+    },
+    {
+      "SettlementNo": 739,
+      "SettlementNam": "שדה עוזיהו",
+      "SettlementNameEng": "SEDE UZZIYYAHU"
+    },
+    {
+      "SettlementNo": 2049,
+      "SettlementNam": "שדה צבי",
+      "SettlementNameEng": "SEDE ZEVI"
+    },
+    {
+      "SettlementNo": 327,
+      "SettlementNam": "שדות ים",
+      "SettlementNameEng": "SEDOT YAM"
+    },
+    {
+      "SettlementNo": 27,
+      "SettlementNam": "שדות מיכה",
+      "SettlementNameEng": "SEDOT MIKHA"
+    },
+    {
+      "SettlementNo": 1223,
+      "SettlementNam": "שדי אברהם",
+      "SettlementNameEng": "SEDE AVRAHAM"
+    },
+    {
+      "SettlementNo": 2015,
+      "SettlementNam": "שדי חמד",
+      "SettlementNameEng": "SEDE HEMED"
+    },
+    {
+      "SettlementNo": 2057,
+      "SettlementNam": "שדי תרומות",
+      "SettlementNameEng": "SEDE TERUMOT"
+    },
+    {
+      "SettlementNo": 555,
+      "SettlementNam": "שדמה",
+      "SettlementNameEng": "SHEDEMA"
+    },
+    {
+      "SettlementNo": 306,
+      "SettlementNam": "שדמות דבורה",
+      "SettlementNameEng": "SHADMOT DEVORA"
+    },
+    {
+      "SettlementNo": 3578,
+      "SettlementNam": "שדמות מחולה",
+      "SettlementNameEng": "SHADMOT MEHOLA"
+    },
+    {
+      "SettlementNo": 1031,
+      "SettlementNam": "שדרות",
+      "SettlementNameEng": "SEDEROT"
+    },
+    {
+      "SettlementNo": 741,
+      "SettlementNam": "שואבה",
+      "SettlementNameEng": "SHO'EVA"
+    },
+    {
+      "SettlementNo": 761,
+      "SettlementNam": "שובה",
+      "SettlementNameEng": "SHUVA"
+    },
+    {
+      "SettlementNo": 394,
+      "SettlementNam": "שובל",
+      "SettlementNameEng": "SHOVAL"
+    },
+    {
+      "SettlementNo": 1304,
+      "SettlementNam": "שוהם",
+      "SettlementNameEng": "SHOHAM"
+    },
+    {
+      "SettlementNo": 614,
+      "SettlementNam": "שומרה",
+      "SettlementNameEng": "SHOMERA"
+    },
+    {
+      "SettlementNo": 1265,
+      "SettlementNam": "שומריה",
+      "SettlementNameEng": "SHOMERIYYA"
+    },
+    {
+      "SettlementNo": 415,
+      "SettlementNam": "שוקדה",
+      "SettlementNameEng": "SHOQEDA"
+    },
+    {
+      "SettlementNo": 456,
+      "SettlementNam": "שורש",
+      "SettlementNameEng": "SHORESH"
+    },
+    {
+      "SettlementNo": 1235,
+      "SettlementNam": "שורשים",
+      "SettlementNameEng": "SHORASHIM"
+    },
+    {
+      "SettlementNo": 224,
+      "SettlementNam": "שושנת העמקים",
+      "SettlementNameEng": "SHOSHANNAT HAAMAQIM"
+    },
+    {
+      "SettlementNo": 527,
+      "SettlementNam": "שזור",
+      "SettlementNameEng": "SHEZOR"
+    },
+    {
+      "SettlementNo": 7,
+      "SettlementNam": "שחר",
+      "SettlementNameEng": "SHAHAR"
+    },
+    {
+      "SettlementNo": 1266,
+      "SettlementNam": "שחרות",
+      "SettlementNameEng": "SHAHARUT"
+    },
+    {
+      "SettlementNo": 865,
+      "SettlementNam": "שיבולים",
+      "SettlementNameEng": "SHIBBOLIM"
+    },
+    {
+      "SettlementNo": 1267,
+      "SettlementNam": "שיטים",
+      "SettlementNameEng": "NAHAL SHITTIM"
+    },
+    {
+      "SettlementNo": 658,
+      "SettlementNam": "שייח' דנון",
+      "SettlementNameEng": "SHEIKH DANNUN"
+    },
+    {
+      "SettlementNo": 3641,
+      "SettlementNam": "שילה",
+      "SettlementNameEng": "SHILO"
+    },
+    {
+      "SettlementNo": 1165,
+      "SettlementNam": "שילת",
+      "SettlementNameEng": "SHILAT"
+    },
+    {
+      "SettlementNo": 1160,
+      "SettlementNam": "שכניה",
+      "SettlementNameEng": "SHEKHANYA"
+    },
+    {
+      "SettlementNo": 873,
+      "SettlementNam": "שלווה",
+      "SettlementNameEng": "SHALWA"
+    },
+    {
+      "SettlementNo": 1373,
+      "SettlementNam": "שלווה במדבר",
+      "SettlementNameEng": "SHALVA BAMIDBAR"
+    },
+    {
+      "SettlementNo": 439,
+      "SettlementNam": "שלוחות",
+      "SettlementNameEng": "SHELUHOT"
+    },
+    {
+      "SettlementNo": 812,
+      "SettlementNam": "שלומי",
+      "SettlementNameEng": "SHELOMI"
+    },
+    {
+      "SettlementNo": 1364,
+      "SettlementNam": "שלומית",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 366,
+      "SettlementNam": "שמיר",
+      "SettlementNameEng": "SHAMIR"
+    },
+    {
+      "SettlementNo": 3784,
+      "SettlementNam": "שמעה",
+      "SettlementNameEng": "SHIM'A"
+    },
+    {
+      "SettlementNo": 432,
+      "SettlementNam": "שמרת",
+      "SettlementNameEng": "SHAMERAT"
+    },
+    {
+      "SettlementNo": 1337,
+      "SettlementNam": "שמשית",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 1287,
+      "SettlementNam": "שני",
+      "SettlementNameEng": "SHANI"
+    },
+    {
+      "SettlementNo": 1132,
+      "SettlementNam": "שניר",
+      "SettlementNameEng": "SENIR"
+    },
+    {
+      "SettlementNo": 538,
+      "SettlementNam": "שעב",
+      "SettlementNameEng": "SHA'AB"
+    },
+    {
+      "SettlementNo": 1299,
+      "SettlementNam": "שעורים",
+      "SettlementNameEng": "SE'ORIM"
+    },
+    {
+      "SettlementNo": 4009,
+      "SettlementNam": "שעל",
+      "SettlementNameEng": "SHA'AL"
+    },
+    {
+      "SettlementNo": 856,
+      "SettlementNam": "שעלבים",
+      "SettlementNameEng": "SHA'ALVIM"
+    },
+    {
+      "SettlementNo": 661,
+      "SettlementNam": "שער אפרים",
+      "SettlementNameEng": "SHA'AR EFRAYIM"
+    },
+    {
+      "SettlementNo": 264,
+      "SettlementNam": "שער הגולן",
+      "SettlementNameEng": "SHA'AR HAGOLAN"
+    },
+    {
+      "SettlementNo": 237,
+      "SettlementNam": "שער העמקים",
+      "SettlementNameEng": "SHA'AR HAAMAQIM"
+    },
+    {
+      "SettlementNo": 921,
+      "SettlementNam": "שער מנשה",
+      "SettlementNameEng": "SHA'AR MENASHE"
+    },
+    {
+      "SettlementNo": 3720,
+      "SettlementNam": "שערי תקווה",
+      "SettlementNameEng": "SHA'ARE TIQWA"
+    },
+    {
+      "SettlementNo": 232,
+      "SettlementNam": "שפיים",
+      "SettlementNameEng": "SHEFAYIM"
+    },
+    {
+      "SettlementNo": 692,
+      "SettlementNam": "שפיר",
+      "SettlementNameEng": "SHAFIR"
+    },
+    {
+      "SettlementNo": 846,
+      "SettlementNam": "שפר",
+      "SettlementNameEng": "SHEFER"
+    },
+    {
+      "SettlementNo": 8800,
+      "SettlementNam": "שפרעם",
+      "SettlementNameEng": "SHEFAR'AM"
+    },
+    {
+      "SettlementNo": 3649,
+      "SettlementNam": "שקד",
+      "SettlementNameEng": "SHAQED"
+    },
+    {
+      "SettlementNo": 1233,
+      "SettlementNam": "שקף",
+      "SettlementNameEng": "SHEQEF"
+    },
+    {
+      "SettlementNo": 292,
+      "SettlementNam": "שרונה",
+      "SettlementNameEng": "SHARONA"
+    },
+    {
+      "SettlementNo": 1114,
+      "SettlementNam": "שריגים )לי-און(",
+      "SettlementNameEng": "LI-ON"
+    },
+    {
+      "SettlementNo": 126,
+      "SettlementNam": "שריד",
+      "SettlementNameEng": "SARID"
+    },
+    {
+      "SettlementNo": 398,
+      "SettlementNam": "שרשרת",
+      "SettlementNameEng": "SHARSHERET"
+    },
+    {
+      "SettlementNo": 1045,
+      "SettlementNam": "שתולה",
+      "SettlementNameEng": "SHETULA"
+    },
+    {
+      "SettlementNo": 763,
+      "SettlementNam": "שתולים",
+      "SettlementNameEng": "SHETULIM"
+    },
+    {
+      "SettlementNo": 2062,
+      "SettlementNam": "תאשור",
+      "SettlementNameEng": "TE'ASHUR"
+    },
+    {
+      "SettlementNo": 2061,
+      "SettlementNam": "תדהר",
+      "SettlementNameEng": "TIDHAR"
+    },
+    {
+      "SettlementNo": 1172,
+      "SettlementNam": "תובל",
+      "SettlementNameEng": "TUVAL"
+    },
+    {
+      "SettlementNo": 3558,
+      "SettlementNam": "תומר",
+      "SettlementNameEng": "TOMER"
+    },
+    {
+      "SettlementNo": 1083,
+      "SettlementNam": "תושיה",
+      "SettlementNameEng": "TUSHIYYA"
+    },
+    {
+      "SettlementNo": 163,
+      "SettlementNam": "תימורים",
+      "SettlementNameEng": "TIMMORIM"
+    },
+    {
+      "SettlementNo": 10,
+      "SettlementNam": "תירוש",
+      "SettlementNameEng": "TIROSH"
+    },
+    {
+      "SettlementNo": 5000,
+      "SettlementNam": "תל אביב - יפו",
+      "SettlementNameEng": "TEL AVIV - YAFO"
+    },
+    {
+      "SettlementNo": 84,
+      "SettlementNam": "תל יוסף",
+      "SettlementNameEng": "TEL YOSEF"
+    },
+    {
+      "SettlementNo": 287,
+      "SettlementNam": "תל יצחק",
+      "SettlementNameEng": "TEL YIZHAQ"
+    },
+    {
+      "SettlementNo": 154,
+      "SettlementNam": "תל מונד",
+      "SettlementNameEng": "TEL MOND"
+    },
+    {
+      "SettlementNo": 103,
+      "SettlementNam": "תל עדשים",
+      "SettlementNameEng": "TEL ADASHIM"
+    },
+    {
+      "SettlementNo": 719,
+      "SettlementNam": "תל קציר",
+      "SettlementNameEng": "TEL QAZIR"
+    },
+    {
+      "SettlementNo": 1054,
+      "SettlementNam": "תל שבע",
+      "SettlementNameEng": "TEL SHEVA"
+    },
+    {
+      "SettlementNo": 1283,
+      "SettlementNam": "תל תאומים",
+      "SettlementNameEng": "TEL TE'OMIM"
+    },
+    {
+      "SettlementNo": 3719,
+      "SettlementNam": "תלם",
+      "SettlementNameEng": "TELEM"
+    },
+    {
+      "SettlementNo": 1051,
+      "SettlementNam": "תלמי אליהו",
+      "SettlementNameEng": "TALME ELIYYAHU"
+    },
+    {
+      "SettlementNo": 2003,
+      "SettlementNam": "תלמי אלעזר",
+      "SettlementNameEng": "TALME EL'AZAR"
+    },
+    {
+      "SettlementNo": 2050,
+      "SettlementNam": "תלמי ביל\"ו",
+      "SettlementNameEng": "TALME BILU"
+    },
+    {
+      "SettlementNo": 1237,
+      "SettlementNam": "תלמי יוסף",
+      "SettlementNameEng": "TALME YOSEF"
+    },
+    {
+      "SettlementNo": 727,
+      "SettlementNam": "תלמי יחיאל",
+      "SettlementNameEng": "TALME YEHI'EL"
+    },
+    {
+      "SettlementNo": 744,
+      "SettlementNam": "תלמי יפה",
+      "SettlementNameEng": "TALME YAFE"
+    },
+    {
+      "SettlementNo": 814,
+      "SettlementNam": "תלמים",
+      "SettlementNameEng": "TELAMIM"
+    },
+    {
+      "SettlementNo": 1244,
+      "SettlementNam": "תמרת",
+      "SettlementNameEng": "TIMRAT"
+    },
+    {
+      "SettlementNo": 2002,
+      "SettlementNam": "תנובות",
+      "SettlementNameEng": "TENUVOT"
+    },
+    {
+      "SettlementNo": 752,
+      "SettlementNam": "תעוז",
+      "SettlementNameEng": "TA'OZ"
+    },
+    {
+      "SettlementNo": 709,
+      "SettlementNam": "תפרח",
+      "SettlementNameEng": "TIFRAH"
+    },
+    {
+      "SettlementNo": 665,
+      "SettlementNam": "תקומה",
+      "SettlementNameEng": "TEQUMA"
+    },
+    {
+      "SettlementNo": 3563,
+      "SettlementNam": "תקוע",
+      "SettlementNameEng": "TEQOA"
+    },
+    {
+      "SettlementNo": 970,
+      "SettlementNam": "תראבין א-צאנע )שבט(",
+      "SettlementNameEng": "TARABIN AS-SANI"
+    },
+    {
+      "SettlementNo": 1346,
+      "SettlementNam": "תראבין א-צאנע)ישוב(",
+      "SettlementNameEng": ""
+    },
+    {
+      "SettlementNo": 778,
+      "SettlementNam": "תרום",
+      "SettlementNameEng": "TARUM"
+    }
+  ]

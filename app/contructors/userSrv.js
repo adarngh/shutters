@@ -3,6 +3,8 @@ shuttersApp.factory('userSrv', function ($http, $q) {
     var activeUser = null;//new User({fname:"Nir", lname:"Channes", id:"1", email:"nir@nir.com"});//null;
     var userUrl = "./private/jsonFiles/constructors.json"
     var userList = [];
+    var tmpUserList=[];
+    var nextUserId=3;
     getDistList();
     function User(userData) {
         this.cNumber = userData.cNumber,
@@ -31,6 +33,23 @@ shuttersApp.factory('userSrv', function ($http, $q) {
     function login(email, password) {
         var async = $q.defer();
         var userNotFound = true;
+        
+        
+        
+        for (var i1 = 0; i1 < tmpUserList.length; i1++) {
+            if (tmpUserList[i1].cMail == email && tmpUserList[i1].cPassword == password) {
+                activeUser = new User(tmpUserList[i1]);
+                async.resolve(activeUser);
+                userNotFound = false;
+                return async.promise;;
+            }
+        }
+
+
+
+
+
+
         $http.get(userUrl).then(function (response) {
             var userList = response.data;
             for (var i1 = 0; i1 < userList.length; i1++) {
@@ -76,7 +95,9 @@ shuttersApp.factory('userSrv', function ($http, $q) {
         logout: logout,
         getActiveUser: getActiveUser,
         getDistList: getDistList,
-        userList: userList
+        userList: userList,
+        tmpUserList:tmpUserList,
+        nextUserId:nextUserId
     }
 
 

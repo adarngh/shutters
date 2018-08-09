@@ -1,4 +1,4 @@
-shuttersApp.controller("userCtrl", function ($scope, $routeParams, $location, userSrv) {
+shuttersApp.controller("userCtrl", function ($scope, $timeout, $location, userSrv) {
 
     $scope.uEmail = "";
     $scope.uPassword = "";
@@ -16,7 +16,7 @@ shuttersApp.controller("userCtrl", function ($scope, $routeParams, $location, us
     }
 
     $scope.logout = function () {
-        userSrv.logout() 
+        userSrv.logout()
         $location.path("/");
     }
 
@@ -35,14 +35,47 @@ shuttersApp.controller("userCtrl", function ($scope, $routeParams, $location, us
     $scope.changeClass = function () {
         return $scope.genNav;
     }
+    $scope.createUser = function () {
+        if (checkUserData()) {
+            return;
+        }
+        var newUser = {
+            "cNumber": "cons-000" + userSrv.nextUserId,
+            "cMail": $scope.uEmail,
+            "cPassword": $scope.uPass,
+            "cMobile": $scope.uMobileArea + "-" + $scope.uMobile,
+            "cFirstName": $scope.uFname,
+            "cLastName": $scope.uLname,
+            "cAdress": $scope.uAddress,
+            "cCity": $scope.uCity,
+            "cZip": $scope.uZip,
+            "isActive": true,
+            "isSupplier": true
+        };
+        userSrv.nextUserId++;
+        userSrv.tmpUserList.push(newUser);
+        // $timeout(function () { printDiv("ordetoprint") });
+        $timeout(function () { $location.path("/login") });
 
+    }
 
+    checkUserData = function () {
+        if (!(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test($scope.uEmail))){
+            window.alert("בבקשה הזן כתובת מייל חוקית");
+            return (true)
+        }
+        if ($scope.uPass != $scope.uPass2) {
+            window.alert("הסיסמאות אינן זהות");
+            return true;
+        }
+        if(!($scope.uMobileArea && $scope.uMobile && $scope.uMobileArea && $scope.uFname && $scope.uLname && $scope.uAddress && $scope.uCity && $scope.uZip )){
+            window.alert("יש למלא את כל השדות");
+            return true;
 
+        }
+        return false;
 
-
-
-
-
+    }
 
 
 
