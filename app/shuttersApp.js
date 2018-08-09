@@ -1,4 +1,4 @@
-var shuttersApp = angular.module("shuttersApp", ['ngRoute','ngPrint']);
+var shuttersApp = angular.module("shuttersApp", ['ngRoute']);
 shuttersApp.config(function($routeProvider) {
     $routeProvider
     .when("/", {
@@ -14,19 +14,19 @@ shuttersApp.config(function($routeProvider) {
       controller : 'distCtrl'
     })
     .when("/login", {
-      templateUrl : "./app/contructors/login.html",
+      templateUrl : "./app/users/login.html",
       controller : 'userCtrl'
     })
     .when("/signup", {
-      templateUrl : "./app/contructors/signUp.html",
+      templateUrl : "./app/users/signUp.html",
       controller : 'userCtrl'
     })
     .when("/orderlist", {
-        templateUrl : "./app/contructors/orderList.html",
+        templateUrl : "./app/orders/orderList.html",
         controller : 'orderCtrl'
       })
     .when("/neworder", {
-      templateUrl : "./app/contructors/newOrder.html",
+      templateUrl : "./app/orders/newOrder.html",
       controller : 'newOrderCtrl'
     })
     .otherwise({ redirectTo: '/' });
